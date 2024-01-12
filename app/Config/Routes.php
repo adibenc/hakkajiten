@@ -12,8 +12,9 @@ use CodeIgniter\Shield\Controllers\ActionController;
  */
 $routes->get('/', 'D1Controller::index');
 
+$routes->get('/wikis/', 'WikiController::list');
 $routes->get('/wiki/', 'WikiController::wiki');
-$routes->get('/wiki/(:f)', 'WikiController::wiki');
+$routes->get('/wiki/(:any)', 'WikiController::wiki/$1');
 
 $t = function() use ($routes) {
 	$routes->get('/d1', 'D1Controller::index');

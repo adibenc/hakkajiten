@@ -1,6 +1,6 @@
-# cimin 4
+# hakkajiten
 
-codeigniter 4 boilerplate
+just assembling footer tree at wiki's navigations
 
 ## packaged with
 

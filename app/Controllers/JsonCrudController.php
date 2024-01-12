@@ -35,7 +35,7 @@ class JsonCrudController extends BaseController {
 		}
 	}
 	
-	function update() {
+	function update($id) {
 		try{
 			return self::success("updated", [1]);
 		}catch(\Exception $e){
@@ -43,7 +43,7 @@ class JsonCrudController extends BaseController {
 		}
 	}
 	
-	function delete() {
+	function delete($id) {
 		try{
 			return self::success("delete", [1]);
 		}catch(\Exception $e){

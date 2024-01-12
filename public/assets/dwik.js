@@ -21,6 +21,8 @@ ases.forEach((e) => {
 	let url = `https://en.wikipedia.org/wiki/${el.href}`
 	url = url.replace("file:///wiki/", "")
 	url = url.replace("file:///D:/wiki/", "")
+	url = url.replace("http://localhost/wiki/", "")
+	// console.log(url)
 
 	e.onclick = function (e) {
 		e.preventDefault();
