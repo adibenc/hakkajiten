@@ -1,0 +1,53 @@
+ul li:after {
+	content: " \00b7";
+}
+
+ul li:last-child:after {
+	content: none;
+}
+
+ol li:after {
+	content: " \00b7";
+}
+
+ol li:last-child:after {
+	content: none;
+}
+
+ul.hlist,
+ul.hlist li {
+	list-style: none;
+	display: inline;
+	margin: 0;
+	padding: 0;
+	display: inline;
+}
+
+ol.hlist,
+ol.hlist li {
+	list-style: none;
+	display: inline;
+	margin: 0;
+	padding: 0;
+	display: inline;
+	list-style: decimal inside none;
+	/* float:left; */
+}
+
+div>ul {
+	margin: 0;
+	padding: 0;
+	display: inline;
+}
+
+div>ol {
+	margin: 0;
+	padding: 0;
+	display: inline;
+}
+
+div>li {
+	margin: 0;
+	padding: 0;
+	display: inline;
+}
