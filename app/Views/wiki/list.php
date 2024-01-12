@@ -1,7 +1,6 @@
 <?= $this->extend('layouts/bs') ?>
 <?= $this->section('content') ?>
 <div class="container-fluid">
-	<?php preout($list) ?>
 	<ol>
 	<?php 
 	foreach($list as $l){
