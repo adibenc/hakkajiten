@@ -37,4 +37,12 @@ class Services extends BaseService
 		}
 		return new \Config\Eloquent();
 	}
+
+	public static function provider($getShared = true) {
+		if ($getShared)
+		{
+			return static::getSharedInstance('provider');
+		}
+		return new \Config\Provider();
+	}
 }

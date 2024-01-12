@@ -56,3 +56,14 @@ Events::on('pre_system', static function () {
 	// service inject start here
 	service('eloquent');
 });
+
+// @adibenc
+Events::on('post_system', function(){
+	// preout("post sys");
+	// service('provider');
+});
+
+Events::on('post_controller_constructor', function(){
+	// preout("post ctrl const");
+	service('provider');
+});
