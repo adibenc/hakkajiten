@@ -97,3 +97,25 @@ if (!function_exists('logs')) {
         return log_message(7, $cn);
     }
 }
+
+// scan dir recursive
+if (!function_exists('scan_dir_rc')) {
+	function scan_dir_rc($dir) {
+		$result = [];
+		foreach(scandir($dir) as $filename) {
+			if ($filename[0] === '.') continue;
+
+			$filePath = $dir . '/' . $filename;
+			
+			if (is_dir($filePath)) {
+				foreach (scan_dir_rc($filePath) as $childFilename) {
+					$result[] = $filename . '/' . $childFilename;
+				}
+			} else {
+				$result[] = $filename;
+			}
+		}
+		
+		return $result;
+	}
+}

@@ -7,8 +7,8 @@
 		$link = str_replace(".php","", $l);
 		echo <<<HTML
 		<li>
-			<a href="$_baseurl/wiki/$link">
-			$_baseurl/wiki/$link
+			<a href="$_baseurl/wiki/c/$link">
+			$_baseurl/wiki/c/$link
 			</a>
 		</li>
 		HTML;

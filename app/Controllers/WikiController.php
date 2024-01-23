@@ -13,7 +13,7 @@ class WikiController extends JsonCrudController{
 
 	function list() {
 		try{
-			$list = scandir( APPPATH."/Views/wiki");
+			$list = scan_dir_rc( APPPATH."/Views/wiki/");
 			// return view("wiki/f3-bio");
 			return view("wiki/list", compact('list'));
 		}catch(\Exception $e){
