@@ -15,6 +15,7 @@ $routes->get('/', 'D1Controller::index');
 $routes->get('/wikis/', 'WikiController::list');
 $routes->get('/wiki/', 'WikiController::wiki');
 $routes->get('/wiki/(:any)', 'WikiController::wiki/$1');
+$routes->get('/wiki/c/(:any)/(:any)', 'WikiController::wikic/$1/$2');
 
 $t = function() use ($routes) {
 	$routes->get('/d1', 'D1Controller::index');

@@ -30,4 +30,14 @@ class WikiController extends JsonCrudController{
 			return self::fail($e->getMessage(), [1]);
 		}
 	}
+	
+	function wikic($c=null, $f=null) {
+		try{
+			$f = $f ?? "f3-bio";
+			// return view("wiki/f3-bio");
+			return view("wiki/$c/$f");
+		}catch(\Exception $e){
+			return self::fail($e->getMessage(), [1]);
+		}
+	}
 }
