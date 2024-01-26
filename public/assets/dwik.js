@@ -22,6 +22,7 @@ ases.forEach((e) => {
 	url = url.replace("file:///wiki/", "")
 	url = url.replace("file:///D:/wiki/", "")
 	url = url.replace("http://localhost/wiki/", "")
+	url = url.replace(`${baseUrl}/wiki/`, "")
 	// console.log(url)
 
 	e.onclick = function (e) {
