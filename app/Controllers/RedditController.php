@@ -6,6 +6,6 @@ use App\Models\User;
 use CodeIgniter\Log\Logger;
 // use Illuminate\Support\Facades\DB;
 
-class WikiController extends ArtController{
-	public $prename = "wiki";
+class RedditController extends ArtController{
+	public $prename = "reddit";
 }

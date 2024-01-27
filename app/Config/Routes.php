@@ -17,6 +17,13 @@ $routes->get('/wiki/', 'WikiController::wiki');
 $routes->get('/wiki/c/(:any)/(:any)', 'WikiController::wikic/$1/$2');
 $routes->get('/wiki/(:any)', 'WikiController::wiki/$1');
 
+$routes->get('/reddits', 'RedditController::list/$1', [
+	'as'=> "reddit.list"
+]);
+$routes->get('/reddit/(:any)', 'RedditController::d/$1', [
+	'as'=> "reddit.r"
+]);
+
 $t = function() use ($routes) {
 	$routes->get('/d1', 'D1Controller::index');
 	$routes->get('/d1/all', 'D1Controller::all');
