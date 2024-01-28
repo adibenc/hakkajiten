@@ -14,8 +14,8 @@ $routes->get('/', 'D1Controller::index');
 
 $routes->get('/wikis/', 'WikiController::list');
 $routes->get('/wiki/', 'WikiController::wiki');
-$routes->get('/wiki/c/(:any)/(:any)', 'WikiController::wikic/$1/$2');
-$routes->get('/wiki/(:any)', 'WikiController::wiki/$1');
+$routes->get('/wiki/c/(:any)/(:any)', 'WikiController::dc/$1/$2');
+$routes->get('/wiki/(:any)', 'WikiController::d/$1');
 
 $routes->get('/reddits', 'RedditController::list/$1', [
 	'as'=> "reddit.list"
