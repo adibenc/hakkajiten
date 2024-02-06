@@ -16,9 +16,9 @@
 <body>
 	<!-- contents -->
 	<?= $this->renderSection('content') ?>
+	<script src="<?= $_asset ?>/dwik.js"></script>
 	<?= $this->renderSection('scripts') ?>
 	<!-- ./contents -->
-	<script src="<?= $_asset ?>/dwik.js"></script>
 </body>
 
 </html>
