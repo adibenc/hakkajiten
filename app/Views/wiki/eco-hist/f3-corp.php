@@ -1,6 +1,308 @@
 <?= $this->extend('layouts/wiki') ?>
 <?= $this->section('content') ?>
 <div class="container-fluid">
+	<div role="navigation" class="navbox" aria-labelledby="Corporate_finance_and_investment_banking"
+		style="padding:3px">
+		<table class="nowraplinks hlist mw-collapsible navbox-inner mw-made-collapsible"
+			style="border-spacing:0;background:transparent;color:inherit">
+			<tbody>
+				<tr>
+					<th scope="col" class="navbox-title" colspan="2"><button type="button"
+							class="mw-collapsible-toggle mw-collapsible-toggle-default mw-collapsible-toggle-expanded"
+							aria-expanded="true" tabindex="0"><span class="mw-collapsible-text">hide</span></button>
+						<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374">
+						<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349">
+						<div class="navbar plainlinks hlist navbar-mini">
+							<ul>
+								<li class="nv-view"><a href="/wiki/Template:Corporate_finance_and_investment_banking"
+										title="Template:Corporate finance and investment banking"><abbr
+											title="View this template"
+											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a>
+								</li>
+								<li class="nv-talk"><a
+										href="/wiki/Template_talk:Corporate_finance_and_investment_banking"
+										title="Template talk:Corporate finance and investment banking"><abbr
+											title="Discuss this template"
+											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a>
+								</li>
+								<li class="nv-edit"><a
+										href="/wiki/Special:EditPage/Template:Corporate_finance_and_investment_banking"
+										title="Special:EditPage/Template:Corporate finance and investment banking"><abbr
+											title="Edit this template"
+											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a>
+								</li>
+							</ul>
+						</div>
+						<div id="Corporate_finance_and_investment_banking" style="font-size:114%;margin:0 4em"><a
+								href="/wiki/Corporate_finance" title="Corporate finance">Corporate finance</a> and <a
+								href="/wiki/Investment_banking" title="Investment banking">investment banking</a></div>
+					</th>
+				</tr>
+				<tr style="">
+					<th scope="row" class="navbox-group" style="width:1%;line-height:1.3em; text-align:left;"><a
+							href="/wiki/Capital_structure" title="Capital structure">Capital structure</a></th>
+					<td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><a href="/wiki/Convertible_bond" title="Convertible bond">Convertible debt</a></li>
+								<li><a href="/wiki/Exchangeable_bond" title="Exchangeable bond">Exchangeable debt</a>
+								</li>
+								<li><a href="/wiki/Mezzanine_capital" title="Mezzanine capital">Mezzanine debt</a></li>
+								<li><a href="/wiki/Pari_passu#In_lending,_bankruptcy_and_default"
+										title="Pari passu">Pari passu</a></li>
+								<li><a href="/wiki/Preferred_stock" title="Preferred stock">Preferred equity</a></li>
+								<li><a href="/wiki/Second_lien_loan" title="Second lien loan">Second lien debt</a></li>
+								<li><a href="/wiki/Senior_debt" title="Senior debt">Senior debt</a></li>
+								<li><a href="/wiki/Secured_loan" title="Secured loan">Senior secured debt</a></li>
+								<li><a href="/wiki/Shareholder_loan" title="Shareholder loan">Shareholder loan</a></li>
+								<li><a href="/wiki/Stock" title="Stock">Stock</a></li>
+								<li><a href="/wiki/Subordinated_debt" title="Subordinated debt">Subordinated debt</a>
+								</li>
+								<li><a href="/wiki/Warrant_(finance)" title="Warrant (finance)">Warrant</a></li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+				<tr style="">
+					<th scope="row" class="navbox-group" style="width:1%;line-height:1.3em; text-align:left;">
+						Transactions<br><span class="nobold">(terms/conditions)</span></th>
+					<td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0">
+						<div style="padding:0 0.25em"></div>
+						<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+							<tbody>
+								<tr>
+									<th scope="row" class="navbox-group" style="width:1%;line-height:1.3em;"><a
+											href="/wiki/Stock" title="Stock">Equity offerings</a></th>
+									<td class="navbox-list-with-group navbox-list navbox-even"
+										style="width:100%;padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li><a href="/wiki/At-the-market_offering"
+														title="At-the-market offering">At-the-market offering</a></li>
+												<li><a href="/wiki/Book_building" title="Book building">Book
+														building</a></li>
+												<li><a href="/wiki/Bookrunner" title="Bookrunner">Bookrunner</a></li>
+												<li><a href="/wiki/Bought_deal" title="Bought deal">Bought deal</a></li>
+												<li><a href="/wiki/Bought_out_deal" title="Bought out deal">Bought out
+														deal</a></li>
+												<li><a href="/wiki/Corporate_spin-off"
+														title="Corporate spin-off">Corporate spin-off</a></li>
+												<li><a href="/wiki/Direct_public_offering"
+														title="Direct public offering">Direct public offering</a></li>
+												<li><a href="/wiki/Equity_carve-out" title="Equity carve-out">Equity
+														carve-out</a></li>
+												<li><a href="/wiki/Follow-on_offering"
+														title="Follow-on offering">Follow-on offering</a></li>
+												<li><a href="/wiki/Greenshoe" title="Greenshoe">Greenshoe</a>
+													<ul>
+														<li><a href="/wiki/Reverse_greenshoe" class="mw-redirect"
+																title="Reverse greenshoe">Reverse</a></li>
+													</ul>
+												</li>
+												<li><a href="/wiki/Initial_public_offering"
+														title="Initial public offering">Initial public offering</a></li>
+												<li><a href="/wiki/Pre-IPO" title="Pre-IPO">Pre-IPO</a></li>
+												<li><a href="/wiki/Private_placement" title="Private placement">Private
+														placement</a></li>
+												<li><a href="/wiki/Public_offering" title="Public offering">Public
+														offering</a></li>
+												<li><a href="/wiki/Rights_issue" title="Rights issue">Rights issue</a>
+												</li>
+												<li><a href="/wiki/Seasoned_equity_offering"
+														title="Seasoned equity offering">Seasoned equity offering</a>
+												</li>
+												<li><a href="/wiki/Secondary_market_offering"
+														title="Secondary market offering">Secondary market offering</a>
+												</li>
+												<li><a href="/wiki/Underwriting" title="Underwriting">Underwriting</a>
+												</li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+								<tr>
+									<th scope="row" class="navbox-group" style="width:1%;line-height:1.3em;"><a
+											href="/wiki/Mergers_and_acquisitions"
+											title="Mergers and acquisitions">Mergers and<br>acquisitions</a></th>
+									<td class="navbox-list-with-group navbox-list navbox-odd"
+										style="width:100%;padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li><a href="/wiki/Buy_side" title="Buy side">Buy side</a></li>
+												<li><a href="/wiki/Contingent_value_rights"
+														title="Contingent value rights">Contingent value rights</a></li>
+												<li><a href="/wiki/Control_premium" title="Control premium">Control
+														premium</a></li>
+												<li><a href="/wiki/Demerger" title="Demerger">Demerger</a></li>
+												<li><a href="/wiki/Divestment" title="Divestment">Divestment</a></li>
+												<li><a href="/wiki/Drag-along_right" title="Drag-along right">Drag-along
+														right</a></li>
+												<li><a href="/wiki/Management_due_diligence"
+														title="Management due diligence">Management due diligence</a>
+												</li>
+												<li><a href="/wiki/Managerial_entrenchment" class="mw-redirect"
+														title="Managerial entrenchment">Managerial entrenchment</a></li>
+												<li><a href="/wiki/Mandatory_offer" title="Mandatory offer">Mandatory
+														offer</a></li>
+												<li><a href="/wiki/Minority_discount" title="Minority discount">Minority
+														discount</a></li>
+												<li><a href="/wiki/Pitch_book" title="Pitch book">Pitch book</a></li>
+												<li><a href="/wiki/Pre-emption_right"
+														title="Pre-emption right">Pre-emption right</a></li>
+												<li><a href="/wiki/Proxy_fight" title="Proxy fight">Proxy fight</a></li>
+												<li><a href="/wiki/Post-merger_integration"
+														title="Post-merger integration">Post-merger integration</a></li>
+												<li><a href="/wiki/Sell_side" title="Sell side">Sell side</a></li>
+												<li><a href="/wiki/Shareholder_rights_plan"
+														title="Shareholder rights plan">Shareholder rights plan</a></li>
+												<li><a href="/wiki/Special-purpose_entity"
+														title="Special-purpose entity">Special-purpose entity</a></li>
+												<li><a href="/wiki/Special_situation" title="Special situation">Special
+														situation</a></li>
+												<li><a href="/wiki/Squeeze-out" title="Squeeze-out">Squeeze-out</a></li>
+												<li><a href="/wiki/Staggered_board_of_directors" class="mw-redirect"
+														title="Staggered board of directors">Staggered board of
+														directors</a></li>
+												<li><a href="/wiki/Stock_swap" title="Stock swap">Stock swap</a></li>
+												<li><a href="/wiki/Super-majority_amendment" class="mw-redirect"
+														title="Super-majority amendment">Super-majority amendment</a>
+												</li>
+												<li><a href="/wiki/Corporate_synergy"
+														title="Corporate synergy">Synergy</a></li>
+												<li><a href="/wiki/Tag-along_right" title="Tag-along right">Tag-along
+														right</a></li>
+												<li><a href="/wiki/Takeover" title="Takeover">Takeover</a>
+													<ul>
+														<li><a href="/wiki/Reverse_takeover"
+																title="Reverse takeover">Reverse</a></li>
+													</ul>
+												</li>
+												<li><a href="/wiki/Tender_offer" title="Tender offer">Tender offer</a>
+												</li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+								<tr>
+									<th scope="row" class="navbox-group" style="width:1%;line-height:1.3em;"><a
+											href="/wiki/Leverage_(finance)" title="Leverage (finance)">Leverage</a></th>
+									<td class="navbox-list-with-group navbox-list navbox-even"
+										style="width:100%;padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li><a href="/wiki/Debt_restructuring" title="Debt restructuring">Debt
+														restructuring</a></li>
+												<li><a href="/wiki/Debtor-in-possession_financing"
+														title="Debtor-in-possession financing">Debtor-in-possession
+														financing</a></li>
+												<li><a href="/wiki/Financial_sponsor"
+														title="Financial sponsor">Financial sponsor</a></li>
+												<li><a href="/wiki/Leveraged_buyout" title="Leveraged buyout">Leveraged
+														buyout</a></li>
+												<li><a href="/wiki/Leveraged_recapitalization"
+														title="Leveraged recapitalization">Leveraged
+														recapitalization</a></li>
+												<li><a href="/wiki/High-yield_debt" title="High-yield debt">High-yield
+														debt</a></li>
+												<li><a class="mw-selflink selflink">Private equity</a></li>
+												<li><a href="/wiki/Project_finance" title="Project finance">Project
+														finance</a></li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div></div>
+					</td>
+				</tr>
+				<tr style="">
+					<th scope="row" class="navbox-group" style="width:1%;line-height:1.3em; text-align:left;"><a
+							href="/wiki/Valuation_(finance)" title="Valuation (finance)">Valuation</a></th>
+					<td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><a href="/wiki/Accretion/dilution_analysis"
+										title="Accretion/dilution analysis">Accretion/dilution analysis</a></li>
+								<li><a href="/wiki/Adjusted_present_value" title="Adjusted present value">Adjusted
+										present value</a></li>
+								<li><a href="/wiki/Associate_company" title="Associate company">Associate company</a>
+								</li>
+								<li><a href="/wiki/Business_valuation" title="Business valuation">Business valuation</a>
+								</li>
+								<li><a href="/wiki/Conglomerate_discount" title="Conglomerate discount">Conglomerate
+										discount</a></li>
+								<li><a href="/wiki/Cost_of_capital" title="Cost of capital">Cost of capital</a>
+									<ul>
+										<li><a href="/wiki/Weighted_average_cost_of_capital"
+												title="Weighted average cost of capital">Weighted average</a></li>
+									</ul>
+								</li>
+								<li><a href="/wiki/Discounted_cash_flow" title="Discounted cash flow">Discounted cash
+										flow</a></li>
+								<li><a href="/wiki/Economic_value_added" title="Economic value added">Economic value
+										added</a></li>
+								<li><a href="/wiki/Enterprise_value" title="Enterprise value">Enterprise value</a></li>
+								<li><a href="/wiki/Fairness_opinion" title="Fairness opinion">Fairness opinion</a></li>
+								<li><a href="/wiki/Financial_modeling" title="Financial modeling">Financial modeling</a>
+								</li>
+								<li><a href="/wiki/Free_cash_flow" title="Free cash flow">Free cash flow</a>
+									<ul>
+										<li><a href="/wiki/Free_cash_flow_to_equity"
+												title="Free cash flow to equity">Free cash flow to equity</a></li>
+									</ul>
+								</li>
+								<li><a href="/wiki/Market_value_added" title="Market value added">Market value added</a>
+								</li>
+								<li><a href="/wiki/Minority_interest" title="Minority interest">Minority interest</a>
+								</li>
+								<li><a href="/wiki/Mismarking" title="Mismarking">Mismarking</a></li>
+								<li><a href="/wiki/Modigliani%E2%80%93Miller_theorem"
+										title="Modigliani–Miller theorem">Modigliani–Miller theorem</a></li>
+								<li><a href="/wiki/Net_present_value" title="Net present value">Net present value</a>
+								</li>
+								<li><a href="/wiki/Pure_play#Pure_play_method" title="Pure play">Pure play</a></li>
+								<li><a href="/wiki/Real_options_valuation" title="Real options valuation">Real
+										options</a></li>
+								<li><a href="/wiki/Residual_income_valuation" title="Residual income valuation">Residual
+										income</a></li>
+								<li><a href="/wiki/Stock_valuation" title="Stock valuation">Stock valuation</a></li>
+								<li><a href="/wiki/Sum-of-the-parts_analysis"
+										title="Sum-of-the-parts analysis">Sum-of-the-parts analysis</a></li>
+								<li><a href="/wiki/Tax_shield" title="Tax shield">Tax shield</a></li>
+								<li><a href="/wiki/Terminal_value_(finance)" title="Terminal value (finance)">Terminal
+										value</a></li>
+								<li><a href="/wiki/Valuation_using_multiples"
+										title="Valuation using multiples">Valuation using multiples</a></li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+				<tr style="">
+					<td class="navbox-abovebelow" colspan="2">
+						<div>
+							<ul>
+								<li><span class="noviewer" typeof="mw:File"><span title="List-Class article"><img alt=""
+												src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png"
+												decoding="async" width="16" height="16" class="mw-file-element"
+												srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x"
+												data-file-width="180" data-file-height="185"></span></span> <a
+										href="/wiki/List_of_investment_banks" title="List of investment banks">List of
+										investment banks</a></li>
+								<li><span class="noviewer" typeof="mw:File"><span title="List-Class article"><img alt=""
+												src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png"
+												decoding="async" width="16" height="16" class="mw-file-element"
+												srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x"
+												data-file-width="180" data-file-height="185"></span></span> <a
+										href="/wiki/Outline_of_finance" title="Outline of finance">Outline of
+										finance</a></li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
 	<div role="navigation" class="navbox" aria-labelledby="Private_equity_and_venture_capital" style="padding:3px">
 		<table class="nowraplinks hlist mw-collapsible navbox-inner mw-made-collapsible"
 			style="border-spacing:0;background:transparent;color:inherit">
