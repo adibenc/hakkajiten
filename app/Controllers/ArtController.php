@@ -7,7 +7,7 @@ use CodeIgniter\Log\Logger;
 // use Illuminate\Support\Facades\DB;
 
 class ArtController extends BaseController {
-	public $prename = "reddit";
+	public $prename = "reddits";
 	public function index(): string {
 		return view('admin/d1/index');
 	}

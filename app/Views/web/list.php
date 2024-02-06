@@ -5,7 +5,7 @@
 	<?php 
 	foreach($list as $l){
 		$link = str_replace(".php","", $l);
-		$link = url_to('reddits.r', $link);
+		$link = url_to('webs.r', $link);
 		echo <<<HTML
 		<li>
 			<a href="$link">
@@ -20,7 +20,7 @@
 <?= $this->endSection() ?>
 <?= $this->section('scripts') ?>
 <script>
-let ases = document.querySelectorAll("li a, th a, div a")
+let ases = document.querySelectorAll("li a, th a, div a,ul li a")
 ases.forEach((e) => {
 	let el = e
 	let url = el.href

@@ -12,17 +12,22 @@ use CodeIgniter\Shield\Controllers\ActionController;
  */
 $routes->get('/', 'D1Controller::index');
 
+$artRoutes = function($k, $ctrl) use ($routes){
+	$routes->get("/$k", "$ctrl::list/$1", [
+		'as'=> "$k.list"
+	]);
+	$routes->get("/$k/(:any)", "$ctrl::d/$1", [
+		'as'=> "$k.r"
+	]);
+};
+
 $routes->get('/wikis/', 'WikiController::list');
 $routes->get('/wiki/', 'WikiController::wiki');
 $routes->get('/wiki/c/(:any)/(:any)', 'WikiController::dc/$1/$2');
 $routes->get('/wiki/(:any)', 'WikiController::d/$1');
 
-$routes->get('/reddits', 'RedditController::list/$1', [
-	'as'=> "reddit.list"
-]);
-$routes->get('/reddit/(:any)', 'RedditController::d/$1', [
-	'as'=> "reddit.r"
-]);
+$artRoutes("reddits", "RedditController");
+$artRoutes("webs", "WebController");
 
 $t = function() use ($routes) {
 	$routes->get('/d1', 'D1Controller::index');
