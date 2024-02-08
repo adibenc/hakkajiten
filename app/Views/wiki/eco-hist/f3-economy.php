@@ -13,8 +13,8 @@
 						<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349">
 						<div class="navbar plainlinks hlist navbar-mini">
 							<ul>
-								<li class="nv-view"><a href="/wiki/Template:Economics"
-										title="Template:Economics"><abbr title="View this template"
+								<li class="nv-view"><a href="/wiki/Template:Economics" title="Template:Economics"><abbr
+											title="View this template"
 											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a>
 								</li>
 								<li class="nv-talk"><a href="/wiki/Template_talk:Economics"
@@ -41,8 +41,8 @@
 									<ul>
 										<li><a href="/wiki/Decision_theory" title="Decision theory">Decision
 												theory</a></li>
-										<li><a href="/wiki/Price_theory" class="mw-redirect"
-												title="Price theory">Price theory</a></li>
+										<li><a href="/wiki/Price_theory" class="mw-redirect" title="Price theory">Price
+												theory</a></li>
 										<li><a href="/wiki/Game_theory" title="Game theory">Game theory</a></li>
 										<li><a href="/wiki/Contract_theory" title="Contract theory">Contract
 												theory</a></li>
@@ -51,8 +51,8 @@
 									</ul>
 								</li>
 								<li><a href="/wiki/Macroeconomics" title="Macroeconomics">Macroeconomics</a></li>
-								<li><a href="/wiki/Mathematical_economics"
-										title="Mathematical economics">Mathematical economics</a></li>
+								<li><a href="/wiki/Mathematical_economics" title="Mathematical economics">Mathematical
+										economics</a></li>
 								<li><a href="/wiki/Computational_economics"
 										title="Computational economics">Computational economics</a></li>
 								<li><a href="/wiki/Behavioral_economics" title="Behavioral economics">Behavioral
@@ -75,8 +75,8 @@
 												statistics</a></li>
 									</ul>
 								</li>
-								<li><a href="/wiki/Experimental_economics"
-										title="Experimental economics">Experimental economics</a></li>
+								<li><a href="/wiki/Experimental_economics" title="Experimental economics">Experimental
+										economics</a></li>
 								<li><a href="/wiki/Economic_history" title="Economic history">Economic history</a>
 								</li>
 							</ul>
@@ -95,10 +95,10 @@
 												title="Agricultural economics">Agricultural</a></li>
 										<li><a href="/wiki/Behavioral_economics"
 												title="Behavioral economics">Behavioral</a></li>
-										<li><a href="/wiki/Business_economics"
-												title="Business economics">Business</a></li>
-										<li><a href="/wiki/Cultural_economics"
-												title="Cultural economics">Cultural</a></li>
+										<li><a href="/wiki/Business_economics" title="Business economics">Business</a>
+										</li>
+										<li><a href="/wiki/Cultural_economics" title="Cultural economics">Cultural</a>
+										</li>
 										<li><a href="/wiki/Demographic_economics"
 												title="Demographic economics">Demographic</a></li>
 										<li><a href="/wiki/Development_economics"
@@ -117,8 +117,8 @@
 												title="Evolutionary economics">Evolutionary</a></li>
 										<li><a href="/wiki/Expeditionary_economics"
 												title="Expeditionary economics">Expeditionary</a></li>
-										<li><a href="/wiki/Feminist_economics"
-												title="Feminist economics">Feminist</a></li>
+										<li><a href="/wiki/Feminist_economics" title="Feminist economics">Feminist</a>
+										</li>
 										<li><a href="/wiki/Financial_economics"
 												title="Financial economics">Financial</a></li>
 										<li><a href="/wiki/Economic_geography"
@@ -137,15 +137,15 @@
 												title="Information economics">Information</a></li>
 										<li><a href="/wiki/Institutional_economics"
 												title="Institutional economics">Institutional</a></li>
-										<li><a href="/wiki/Knowledge_economy"
-												title="Knowledge economy">Knowledge</a></li>
+										<li><a href="/wiki/Knowledge_economy" title="Knowledge economy">Knowledge</a>
+										</li>
 										<li><a href="/wiki/Labour_economics" title="Labour economics">Labour</a>
 										</li>
 										<li><a href="/wiki/Law_and_economics" title="Law and economics">Law</a></li>
 										<li><a href="/wiki/Managerial_economics"
 												title="Managerial economics">Managerial</a></li>
-										<li><a href="/wiki/Monetary_economics"
-												title="Monetary economics">Monetary</a></li>
+										<li><a href="/wiki/Monetary_economics" title="Monetary economics">Monetary</a>
+										</li>
 										<li><a href="/wiki/Natural_resource_economics"
 												title="Natural resource economics">Natural resource</a></li>
 										<li><a href="/wiki/Organizational_economics"
@@ -162,15 +162,15 @@
 										<li><a href="/wiki/Public_choice" title="Public choice">Public
 												choice</a>&nbsp;/ <a href="/wiki/Social_choice_theory"
 												title="Social choice theory">Social choice theory</a></li>
-										<li><a href="/wiki/Regional_economics"
-												title="Regional economics">Regional</a></li>
+										<li><a href="/wiki/Regional_economics" title="Regional economics">Regional</a>
+										</li>
 										<li><a href="/wiki/Rural_economics" title="Rural economics">Rural</a></li>
 										<li><a href="/wiki/Service_economy" title="Service economy">Service</a></li>
 										<li><a href="/wiki/Socioeconomics" title="Socioeconomics">Socio</a></li>
 										<li><a href="/wiki/Economic_sociology"
 												title="Economic sociology">Sociological</a></li>
-										<li><a href="/wiki/Solidarity_economy"
-												title="Solidarity economy">Solidarity</a></li>
+										<li><a href="/wiki/Solidarity_economy" title="Solidarity economy">Solidarity</a>
+										</li>
 										<li><a href="/wiki/Economic_statistics"
 												title="Economic statistics">Statistics</a></li>
 										<li><a href="/wiki/Urban_economics" title="Urban economics">Urban</a></li>
@@ -199,8 +199,8 @@
 								</li>
 								<li><a href="/wiki/American_School_(economics)"
 										title="American School (economics)">American (National)</a></li>
-								<li><a href="/wiki/Ancient_economic_thought"
-										title="Ancient economic thought">Ancient thought</a></li>
+								<li><a href="/wiki/Ancient_economic_thought" title="Ancient economic thought">Ancient
+										thought</a></li>
 								<li><a href="/wiki/Anarchist_economics" title="Anarchist economics">Anarchist</a>
 									<ul>
 										<li><a href="/wiki/Mutualism_(economic_theory)"
@@ -284,15 +284,15 @@
 										</li>
 									</ul>
 								</li>
-								<li><a href="/wiki/New_institutional_economics"
-										title="New institutional economics">New institutional</a></li>
+								<li><a href="/wiki/New_institutional_economics" title="New institutional economics">New
+										institutional</a></li>
 								<li><a href="/wiki/Physiocracy" title="Physiocracy">Physiocracy</a></li>
 								<li><a href="/wiki/Socialist_economics" title="Socialist economics">Socialist</a>
 								</li>
 								<li><a href="/wiki/Stockholm_School_(economics)"
 										title="Stockholm School (economics)">Stockholm</a></li>
-								<li><a href="/wiki/Supply-side_economics"
-										title="Supply-side economics">Supply-side</a></li>
+								<li><a href="/wiki/Supply-side_economics" title="Supply-side economics">Supply-side</a>
+								</li>
 								<li><a href="/wiki/Thermoeconomics" title="Thermoeconomics">Thermo</a></li>
 							</ul>
 						</div>
@@ -320,8 +320,8 @@
 								<li><a href="/wiki/Antoine_Augustin_Cournot"
 										title="Antoine Augustin Cournot">Cournot</a></li>
 								<li><a href="/wiki/John_Stuart_Mill" title="John Stuart Mill">Mill</a></li>
-								<li><a href="/wiki/Hermann_Heinrich_Gossen"
-										title="Hermann Heinrich Gossen">Gossen</a></li>
+								<li><a href="/wiki/Hermann_Heinrich_Gossen" title="Hermann Heinrich Gossen">Gossen</a>
+								</li>
 								<li><a href="/wiki/Karl_Marx" title="Karl Marx">Marx</a></li>
 								<li><a href="/wiki/L%C3%A9on_Walras" title="Léon Walras">Walras</a></li>
 								<li><a href="/wiki/William_Stanley_Jevons" title="William Stanley Jevons">Jevons</a>
@@ -358,8 +358,8 @@
 								<li><a href="/wiki/John_Hicks" title="John Hicks">Hicks</a></li>
 								<li><a href="/wiki/Oskar_R._Lange" title="Oskar R. Lange">Lange</a></li>
 								<li><a href="/wiki/Wassily_Leontief" title="Wassily Leontief">Leontief</a></li>
-								<li><a href="/wiki/John_Kenneth_Galbraith"
-										title="John Kenneth Galbraith">Galbraith</a></li>
+								<li><a href="/wiki/John_Kenneth_Galbraith" title="John Kenneth Galbraith">Galbraith</a>
+								</li>
 								<li><a href="/wiki/Tjalling_Koopmans" title="Tjalling Koopmans">Koopmans</a></li>
 								<li><a href="/wiki/E._F._Schumacher" title="E. F. Schumacher">Schumacher</a></li>
 								<li><a href="/wiki/Milton_Friedman" title="Milton Friedman">Friedman</a></li>
@@ -397,8 +397,8 @@
 									<ul>
 										<li><a href="/wiki/Glossary_of_economics"
 												title="Glossary of economics">Glossary</a></li>
-										<li><a href="/wiki/List_of_economists"
-												title="List of economists">Economists</a></li>
+										<li><a href="/wiki/List_of_economists" title="List of economists">Economists</a>
+										</li>
 										<li><a href="/wiki/List_of_important_publications_in_economics"
 												title="List of important publications in economics">Publications</a>&nbsp;(<a
 												href="/wiki/List_of_economics_journals"
@@ -451,8 +451,7 @@
 											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a>
 								</li>
 								<li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Population"
-										title="Special:EditPage/Template:Population"><abbr
-											title="Edit this template"
+										title="Special:EditPage/Template:Population"><abbr title="Edit this template"
 											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a>
 								</li>
 							</ul>
@@ -468,8 +467,8 @@
 							<ul>
 								<li><a href="/wiki/Demographics_of_the_world"
 										title="Demographics of the world">Demographics of the world</a></li>
-								<li><a href="/wiki/Demographic_transition"
-										title="Demographic transition">Demographic transition</a></li>
+								<li><a href="/wiki/Demographic_transition" title="Demographic transition">Demographic
+										transition</a></li>
 								<li><a href="/wiki/Estimates_of_historical_world_population"
 										title="Estimates of historical world population">Estimates of historical
 										world population</a></li>
@@ -531,8 +530,8 @@
 								<li><span class="nowrap"><a href="/wiki/I_%3D_PAT" title="I = PAT">I = P × A  ×
 											T</a></span></li>
 								<li><a href="/wiki/Kaya_identity" title="Kaya identity">Kaya identity</a></li>
-								<li><a href="/wiki/Malthusian_growth_model"
-										title="Malthusian growth model">Malthusian growth model</a></li>
+								<li><a href="/wiki/Malthusian_growth_model" title="Malthusian growth model">Malthusian
+										growth model</a></li>
 								<li><a href="/wiki/Overshoot_(population)" title="Overshoot (population)">Overshoot
 										(population)</a></li>
 								<li><a href="/wiki/World3" title="World3">World3 model</a></li>
@@ -552,8 +551,8 @@
 												catastrophe</a></li>
 									</ul>
 								</li>
-								<li><a href="/wiki/Human_population_planning"
-										title="Human population planning">Human population planning</a>
+								<li><a href="/wiki/Human_population_planning" title="Human population planning">Human
+										population planning</a>
 									<ul>
 										<li><a href="/wiki/Compulsory_sterilization"
 												title="Compulsory sterilization">Compulsory sterilization</a></li>
@@ -571,12 +570,12 @@
 										ethics</a>
 									<ul>
 										<li><a href="/wiki/Antinatalism" title="Antinatalism">Antinatalism</a></li>
-										<li><a href="/wiki/Reproductive_rights"
-												title="Reproductive rights">Reproductive rights</a></li>
+										<li><a href="/wiki/Reproductive_rights" title="Reproductive rights">Reproductive
+												rights</a></li>
 									</ul>
 								</li>
-								<li><a href="/wiki/Sustainable_population"
-										title="Sustainable population">Sustainable population</a></li>
+								<li><a href="/wiki/Sustainable_population" title="Sustainable population">Sustainable
+										population</a></li>
 								<li><a href="/wiki/Zero_population_growth" title="Zero population growth">Zero
 										population growth</a></li>
 							</ul>
@@ -756,16 +755,16 @@
 				</tr>
 				<tr style="">
 					<th scope="row" class="navbox-group" style="width:1%"><a
-							href="/wiki/Sustainability#Principles_and_concepts"
-							title="Sustainability">Principles</a></th>
+							href="/wiki/Sustainability#Principles_and_concepts" title="Sustainability">Principles</a>
+					</th>
 					<td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0">
 						<div style="padding:0 0.25em">
 							<ul>
 								<li><a href="/wiki/Anthropocene" title="Anthropocene">Anthropocene</a></li>
 								<li><a href="/wiki/Earth_system_governance" title="Earth system governance">Earth
 										system governance</a></li>
-								<li><a href="/wiki/Ecological_modernization"
-										title="Ecological modernization">Ecological modernization</a></li>
+								<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological
+										modernization</a></li>
 								<li><a href="/wiki/Environmental_governance"
 										title="Environmental governance">Environmental governance</a></li>
 								<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a>
@@ -780,8 +779,8 @@
 								<li><a href="/wiki/Social_sustainability" class="mw-redirect"
 										title="Social sustainability">Social sustainability</a></li>
 								<li><a href="/wiki/Stewardship" title="Stewardship">Stewardship</a></li>
-								<li><a href="/wiki/Sustainable_development"
-										title="Sustainable development">Sustainable development</a></li>
+								<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable
+										development</a></li>
 							</ul>
 						</div>
 					</td>
@@ -835,13 +834,13 @@
 						<div style="padding:0 0.25em">
 							<ul>
 								<li><a href="/wiki/Birth_control" title="Birth control">Birth control</a></li>
-								<li><a href="/wiki/Demographic_transition"
-										title="Demographic transition">Demographic transition</a></li>
+								<li><a href="/wiki/Demographic_transition" title="Demographic transition">Demographic
+										transition</a></li>
 								<li><a href="/wiki/Family_planning" title="Family planning">Family planning</a></li>
 								<li><a href="/wiki/Human_population_control" class="mw-redirect"
 										title="Human population control">Control</a></li>
-								<li><a href="/wiki/Sustainable_population"
-										title="Sustainable population">Sustainable population</a></li>
+								<li><a href="/wiki/Sustainable_population" title="Sustainable population">Sustainable
+										population</a></li>
 								<li><a href="/wiki/Women%27s_education" class="mw-redirect"
 										title="Women's education">Women's education and empowerment</a></li>
 							</ul>
@@ -891,8 +890,8 @@
 							<ul>
 								<li><a href="/wiki/Carbon_footprint" title="Carbon footprint">Carbon footprint</a>
 								</li>
-								<li><a href="/wiki/Climate_change_mitigation"
-										title="Climate change mitigation">Climate change mitigation</a></li>
+								<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate
+										change mitigation</a></li>
 								<li><a href="/wiki/Energy_conservation" title="Energy conservation">Conservation</a>
 								</li>
 								<li><a href="/wiki/Energy_descent" title="Energy descent">Descent</a></li>
@@ -932,8 +931,8 @@
 								<li><a href="/wiki/Local_food" title="Local food">Local</a></li>
 								<li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
 								<li><a href="/wiki/Food_security" title="Food security">Security</a></li>
-								<li><a href="/wiki/Sustainable_agriculture"
-										title="Sustainable agriculture">Sustainable agriculture</a></li>
+								<li><a href="/wiki/Sustainable_agriculture" title="Sustainable agriculture">Sustainable
+										agriculture</a></li>
 								<li><a href="/wiki/Sustainable_fishery" title="Sustainable fishery">Sustainable
 										fishery</a></li>
 								<li><a href="/wiki/Urban_horticulture" title="Urban horticulture">Urban
@@ -954,8 +953,8 @@
 								<li><a href="/wiki/Water_efficiency" title="Water efficiency">Efficiency</a></li>
 								<li><a href="/wiki/Water_footprint" title="Water footprint">Footprint</a></li>
 								<li><a href="/wiki/Reclaimed_water" title="Reclaimed water">Reclaimed</a></li>
-								<li><a href="/wiki/Sustainable_sanitation"
-										title="Sustainable sanitation">Sanitation</a></li>
+								<li><a href="/wiki/Sustainable_sanitation" title="Sustainable sanitation">Sanitation</a>
+								</li>
 								<li><a href="/wiki/Water_scarcity" title="Water scarcity">Scarcity</a></li>
 								<li><a href="/wiki/Water_security" title="Water security">Security</a></li>
 							</ul>
@@ -1003,20 +1002,20 @@
 								<li><a href="/wiki/North_American_collegiate_sustainability_programs"
 										title="North American collegiate sustainability programs">College
 										programs</a></li>
-								<li><a href="/wiki/Sustainable_community"
-										title="Sustainable community">Community</a></li>
+								<li><a href="/wiki/Sustainable_community" title="Sustainable community">Community</a>
+								</li>
 								<li><a href="/wiki/Sustainable_design" title="Sustainable design">Design</a></li>
 								<li><a href="/wiki/Ecovillage" title="Ecovillage">Ecovillage</a></li>
 								<li><a href="/wiki/Education_for_Sustainable_Development" class="mw-redirect"
 										title="Education for Sustainable Development">Education for Sustainable
 										Development</a></li>
 								<li><a href="/wiki/Sustainable_fashion" title="Sustainable fashion">Fashion</a></li>
-								<li><a href="/wiki/Sustainable_gardening"
-										title="Sustainable gardening">Gardening</a></li>
+								<li><a href="/wiki/Sustainable_gardening" title="Sustainable gardening">Gardening</a>
+								</li>
 								<li><a href="/wiki/Geopark" title="Geopark">Geopark</a></li>
 								<li><a href="/wiki/Green_marketing" title="Green marketing">Green marketing</a></li>
-								<li><a href="/wiki/Sustainable_industries"
-										title="Sustainable industries">Industries</a></li>
+								<li><a href="/wiki/Sustainable_industries" title="Sustainable industries">Industries</a>
+								</li>
 								<li><a href="/wiki/Sustainable_landscape_architecture"
 										title="Sustainable landscape architecture">Landscape architecture</a></li>
 								<li><a href="/wiki/Sustainable_living" title="Sustainable living">Living</a></li>
@@ -1026,16 +1025,16 @@
 										title="Sustainable market">Sustainable market</a></li>
 								<li><a href="/wiki/Sustainability_organizations" class="mw-redirect"
 										title="Sustainability organizations">Organizations</a></li>
-								<li><a href="/wiki/Sustainable_packaging"
-										title="Sustainable packaging">Packaging</a></li>
+								<li><a href="/wiki/Sustainable_packaging" title="Sustainable packaging">Packaging</a>
+								</li>
 								<li><a href="/wiki/Sustainability_practices_in_organizations" class="mw-redirect"
 										title="Sustainability practices in organizations">Practices</a></li>
 								<li><a href="/wiki/Sustainable_procurement"
 										title="Sustainable procurement">Procurement</a></li>
 								<li><a href="/wiki/Space_sustainability" title="Space sustainability">Space</a></li>
 								<li><a href="/wiki/Sustainable_tourism" title="Sustainable tourism">Tourism</a></li>
-								<li><a href="/wiki/Sustainable_transport"
-										title="Sustainable transport">Transport</a></li>
+								<li><a href="/wiki/Sustainable_transport" title="Sustainable transport">Transport</a>
+								</li>
 								<li><a href="/wiki/Sustainable_urban_drainage_systems" class="mw-redirect"
 										title="Sustainable urban drainage systems">Urban drainage systems</a></li>
 								<li><a href="/wiki/Sustainable_urban_infrastructure"
@@ -1075,8 +1074,8 @@
 						<div style="padding:0 0.25em">
 							<ul>
 								<li><a href="/wiki/United_Nations_Conference_on_the_Human_Environment"
-										title="United Nations Conference on the Human Environment"><span
-											class="wrap">UN Conference on the Human Environment (Stockholm
+										title="United Nations Conference on the Human Environment"><span class="wrap">UN
+											Conference on the Human Environment (Stockholm
 											1972)</span></a></li>
 								<li><a href="/wiki/Brundtland_Commission" title="Brundtland Commission">Brundtlandt
 										Commission Report (1983)</a></li>
@@ -1129,8 +1128,7 @@
 												data-file-width="180" data-file-height="185"></span></span> <b><a
 											href="/wiki/Category:Sustainability"
 											title="Category:Sustainability">Category</a></b></li>
-								<li><span class="noviewer" typeof="mw:File"><span title="List-Class article"><img
-												alt=""
+								<li><span class="noviewer" typeof="mw:File"><span title="List-Class article"><img alt=""
 												src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png"
 												decoding="async" width="16" height="16" class="mw-file-element"
 												srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x"
@@ -1143,6 +1141,243 @@
 											title="Sustainability studies">Studies</a></b></li>
 								<li><b><a href="/wiki/List_of_environmental_degrees"
 											title="List of environmental degrees">Degrees</a></b></li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<!-- financial risk -->
+	<div role="navigation" class="navbox" aria-labelledby="Financial_risk_and_financial_risk_management"
+		style="padding:3px">
+		<table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner mw-made-collapsible"
+			style="border-spacing:0;background:transparent;color:inherit">
+			<tbody>
+				<tr>
+					<th scope="col" class="navbox-title" colspan="2"><button type="button"
+							class="mw-collapsible-toggle mw-collapsible-toggle-default" aria-expanded="true"
+							tabindex="0"><span class="mw-collapsible-text">hide</span></button>
+						<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374">
+						<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349">
+						<div class="navbar plainlinks hlist navbar-mini">
+							<ul>
+								<li class="nv-view"><a href="/wiki/Template:Financial_risk"
+										title="Template:Financial risk"><abbr title="View this template"
+											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a>
+								</li>
+								<li class="nv-talk"><a href="/wiki/Template_talk:Financial_risk"
+										title="Template talk:Financial risk"><abbr title="Discuss this template"
+											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a>
+								</li>
+								<li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Financial_risk"
+										title="Special:EditPage/Template:Financial risk"><abbr
+											title="Edit this template"
+											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a>
+								</li>
+							</ul>
+						</div>
+						<div id="Financial_risk_and_financial_risk_management" style="font-size:114%;margin:0 4em"><a
+								href="/wiki/Financial_risk" title="Financial risk">Financial risk</a> and <a
+								href="/wiki/Financial_risk_management" title="Financial risk management">financial risk
+								management</a></div>
+					</th>
+				</tr>
+				<tr>
+					<th scope="row" class="navbox-group" style="width:1%">Categories</th>
+					<td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0">
+						<div style="padding:0 0.25em"></div>
+						<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+							<tbody>
+								<tr>
+									<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Credit_risk"
+											title="Credit risk">Credit risk</a></th>
+									<td class="navbox-list-with-group navbox-list navbox-odd"
+										style="width:100%;padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li><a href="/wiki/Consumer_credit_risk"
+														title="Consumer credit risk">Consumer credit risk</a></li>
+												<li><a href="/wiki/Sovereign_credit_risk"
+														title="Sovereign credit risk">Sovereign credit risk</a></li>
+												<li><a href="/wiki/Settlement_risk" title="Settlement risk">Settlement
+														risk</a></li>
+												<li><a href="/wiki/Default_(finance)" title="Default (finance)">Default
+														risk</a></li>
+												<li><a href="/wiki/Concentration_risk"
+														title="Concentration risk">Concentration risk</a></li>
+												<li><a href="/wiki/Credit_derivative" title="Credit derivative">Credit
+														derivative</a></li>
+												<li><a href="/wiki/Securitization"
+														title="Securitization">Securitization</a></li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+								<tr>
+									<th scope="row" class="navbox-group" style="width:1%"><a
+											class="mw-selflink selflink">Market risk</a></th>
+									<td class="navbox-list-with-group navbox-list navbox-even"
+										style="width:100%;padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li><a href="/wiki/Commodity_risk" title="Commodity risk">Commodity
+														risk</a> (e.g. <a href="/wiki/Volume_risk"
+														title="Volume risk">Volume risk</a>, <a href="/wiki/Basis_risk"
+														title="Basis risk">Basis risk</a>, <a href="/wiki/Shape_risk"
+														title="Shape risk">Shape risk</a>, <a
+														href="/wiki/Holding_period_risk"
+														title="Holding period risk">Holding period risk</a>, <a
+														href="/wiki/Price_area_risk" class="mw-redirect"
+														title="Price area risk">Price area risk</a>)</li>
+												<li><a href="/wiki/Equity_risk" title="Equity risk">Equity risk</a></li>
+												<li><a href="/wiki/Valuation_risk" title="Valuation risk">Valuation
+														risk</a></li>
+												<li><a href="/wiki/Foreign_exchange_risk"
+														title="Foreign exchange risk">FX risk</a></li>
+												<li><a href="/wiki/Margining_risk" title="Margining risk">Margining
+														risk</a></li>
+												<li><a href="/wiki/Interest_rate_risk"
+														title="Interest rate risk">Interest rate risk</a></li>
+												<li><a href="/wiki/Inflation_risk" class="mw-redirect"
+														title="Inflation risk">Inflation risk</a></li>
+												<li><a href="/wiki/Volatility_risk" title="Volatility risk">Volatility
+														risk</a></li>
+												<li><a href="/wiki/Liquidity_risk" title="Liquidity risk">Liquidity
+														risk</a> (e.g. <a href="/wiki/Refinancing_risk"
+														title="Refinancing risk">Refinancing risk</a>, <a
+														href="/wiki/Deposit_risk" title="Deposit risk">Deposit risk</a>)
+												</li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+								<tr>
+									<th scope="row" class="navbox-group" style="width:1%"><a
+											href="/wiki/Operational_risk" title="Operational risk">Operational risk</a>
+									</th>
+									<td class="navbox-list-with-group navbox-list navbox-odd"
+										style="width:100%;padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li><a href="/wiki/Operational_risk_management"
+														title="Operational risk management">Operational risk
+														management</a></li>
+												<li><a href="/wiki/Business_risk" class="mw-redirect"
+														title="Business risk">Business risk</a></li>
+												<li><a href="/wiki/Model_risk" title="Model risk">Model risk</a></li>
+												<li><a href="/wiki/Reputational_risk" class="mw-redirect"
+														title="Reputational risk">Reputational risk</a></li>
+												<li><a href="/wiki/Country_risk" title="Country risk">Country risk</a>
+												</li>
+												<li><a href="/wiki/Political_risk" title="Political risk">Political
+														risk</a></li>
+												<li><a href="/wiki/Legal_risk" title="Legal risk">Legal risk</a></li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+								<tr>
+									<th scope="row" class="navbox-group" style="width:1%">Other</th>
+									<td class="navbox-list-with-group navbox-list navbox-even"
+										style="width:100%;padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li><a href="/wiki/Execution_risk" class="mw-redirect"
+														title="Execution risk">Execution risk</a></li>
+												<li><a href="/wiki/Profit_risk" title="Profit risk">Profit risk</a></li>
+												<li><a href="/wiki/Systemic_risk" title="Systemic risk">Systemic
+														risk</a></li>
+												<li><a href="/wiki/Non-financial_risk"
+														title="Non-financial risk">Non-financial risk</a></li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div></div>
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Financial_risk_modeling"
+							title="Financial risk modeling">Modeling</a></th>
+					<td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><a href="/wiki/Arbitrage_pricing_theory" title="Arbitrage pricing theory">Arbitrage
+										pricing theory</a></li>
+								<li><a href="/wiki/Black%E2%80%93Scholes_model"
+										title="Black–Scholes model">Black–Scholes model</a></li>
+								<li><a href="/wiki/Replicating_portfolio" title="Replicating portfolio">Replicating
+										portfolio</a></li>
+								<li><a href="/wiki/Cashflow_matching" title="Cashflow matching">Cash flow matching</a>
+								</li>
+								<li><a href="/wiki/Expected_shortfall" title="Expected shortfall">Conditional
+										Value-at-Risk (CVaR)</a></li>
+								<li><a href="/wiki/Copula_(probability_theory)"
+										title="Copula (probability theory)">Copula</a></li>
+								<li><a href="/wiki/Drawdown_(economics)" title="Drawdown (economics)">Drawdown</a></li>
+								<li><a href="/wiki/First-hitting-time_model"
+										title="First-hitting-time model">First-hitting-time model</a></li>
+								<li><a href="/wiki/Immunization_(finance)" title="Immunization (finance)">Interest rate
+										immunization</a></li>
+								<li><a href="/wiki/Market_portfolio" title="Market portfolio">Market portfolio</a></li>
+								<li><a href="/wiki/Modern_portfolio_theory" title="Modern portfolio theory">Modern
+										portfolio theory</a></li>
+								<li><a href="/wiki/Omega_ratio" title="Omega ratio">Omega ratio</a></li>
+								<li><a href="/wiki/Risk-adjusted_return_on_capital"
+										title="Risk-adjusted return on capital">RAROC</a></li>
+								<li><a href="/wiki/Risk-free_interest_rate" class="mw-redirect"
+										title="Risk-free interest rate">Risk-free rate</a></li>
+								<li><a href="/wiki/Risk_parity" title="Risk parity">Risk parity</a></li>
+								<li><a href="/wiki/Sharpe_ratio" title="Sharpe ratio">Sharpe ratio</a></li>
+								<li><a href="/wiki/Sortino_ratio" title="Sortino ratio">Sortino ratio</a></li>
+								<li><a href="/wiki/Survival_analysis" title="Survival analysis">Survival analysis</a>
+									(<a href="/wiki/Proportional_hazards_model"
+										title="Proportional hazards model">Proportional hazards model</a>)</li>
+								<li><a href="/wiki/Tracking_error" title="Tracking error">Tracking error</a></li>
+								<li><a href="/wiki/Value_at_risk" title="Value at risk">Value-at-Risk (VaR)</a> and
+									extensions (<a href="/wiki/Profit_at_risk" title="Profit at risk">Profit at
+										risk</a>, <a href="/wiki/Margin_at_risk" title="Margin at risk">Margin at
+										risk</a>, <a href="/wiki/Liquidity_at_risk" title="Liquidity at risk">Liquidity
+										at risk</a>, <a href="/wiki/Cash_flow_at_risk" class="mw-redirect"
+										title="Cash flow at risk">Cash flow at risk</a>, <a
+										href="/wiki/Earnings_at_risk" title="Earnings at risk">Earnings at risk</a>)
+								</li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" class="navbox-group" style="width:1%">Basic concepts</th>
+					<td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><a href="/wiki/Diversification_(finance)"
+										title="Diversification (finance)">Diversification</a></li>
+								<li><a href="/wiki/Expected_return" title="Expected return">Expected return</a></li>
+								<li><a href="/wiki/Hazard" title="Hazard">Hazard</a></li>
+								<li><a href="/wiki/Hedge_(finance)" title="Hedge (finance)">Hedge</a></li>
+								<li><a href="/wiki/Risk" title="Risk">Risk</a></li>
+								<li><a href="/wiki/Risk_pool" title="Risk pool">Risk pool</a></li>
+								<li><a href="/wiki/Systematic_risk" title="Systematic risk">Systematic risk</a></li>
+								<li><a href="/wiki/Financial_law" title="Financial law">Financial law</a></li>
+								<li><a href="/wiki/Moral_hazard" title="Moral hazard">Moral hazard</a></li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td class="navbox-abovebelow" colspan="2">
+						<div>
+							<ul>
+								<li><a href="/wiki/Financial_economics" title="Financial economics">Financial
+										economics</a></li>
+								<li><a href="/wiki/Investment_management" title="Investment management">Investment
+										management</a></li>
+								<li><a href="/wiki/Mathematical_finance" title="Mathematical finance">Mathematical
+										finance</a></li>
 							</ul>
 						</div>
 					</td>
