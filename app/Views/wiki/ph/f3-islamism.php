@@ -8,8 +8,7 @@
 				<tr>
 					<th scope="col" class="navbox-title" colspan="2"><button type="button"
 							class="mw-collapsible-toggle mw-collapsible-toggle-default mw-collapsible-toggle-expanded"
-							aria-expanded="true" tabindex="0"><span
-								class="mw-collapsible-text">sembunyi</span></button>
+							aria-expanded="true" tabindex="0"><span class="mw-collapsible-text">sembunyi</span></button>
 						<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r18590415">
 						<div class="navbar plainlinks hlist navbar-mini">
 							<ul>
@@ -18,8 +17,7 @@
 											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">l</abbr></a>
 								</li>
 								<li class="nv-bicara"><a href="/wiki/Pembicaraan_Templat:Topik_Indonesia"
-										title="Pembicaraan Templat:Topik Indonesia"><abbr
-											title="Diskusikan templat ini"
+										title="Pembicaraan Templat:Topik Indonesia"><abbr title="Diskusikan templat ini"
 											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">b</abbr></a>
 								</li>
 								<li class="nv-sunting"><a class="external text"
@@ -29,8 +27,8 @@
 								</li>
 							</ul>
 						</div>
-						<div id="Topik_Indonesia" style="font-size:114%;margin:0 4em">Topik <a
-								href="/wiki/Indonesia" title="Indonesia">Indonesia</a></div>
+						<div id="Topik_Indonesia" style="font-size:114%;margin:0 4em">Topik <a href="/wiki/Indonesia"
+								title="Indonesia">Indonesia</a></div>
 					</th>
 				</tr>
 				<tr style="">
@@ -85,8 +83,8 @@
 												Belanda</a></li>
 									</ul>
 								</li>
-								<li><a href="/wiki/Republik_Indonesia_Serikat"
-										title="Republik Indonesia Serikat">Era RIS</a></li>
+								<li><a href="/wiki/Republik_Indonesia_Serikat" title="Republik Indonesia Serikat">Era
+										RIS</a></li>
 								<li><a href="/wiki/Sejarah_Indonesia_(1950%E2%80%931959)" class="mw-redirect"
 										title="Sejarah Indonesia (1950–1959)">Era demokrasi liberal</a>
 									<ul>
@@ -101,8 +99,8 @@
 										<li><a href="/wiki/Konfrontasi_Indonesia%E2%80%93Malaysia"
 												title="Konfrontasi Indonesia–Malaysia">Konfrontasi ke Malaysia</a>
 										</li>
-										<li><a href="/wiki/Gerakan_30_September"
-												title="Gerakan 30 September">G30S</a></li>
+										<li><a href="/wiki/Gerakan_30_September" title="Gerakan 30 September">G30S</a>
+										</li>
 									</ul>
 								</li>
 								<li><a href="/wiki/Orde_Baru" title="Orde Baru">Era orde baru</a>
@@ -147,8 +145,8 @@
 										title="Daftar pegunungan di Indonesia">Pegunungan</a></li>
 								<li><a href="/wiki/Daftar_gunung_berapi_di_Indonesia"
 										title="Daftar gunung berapi di Indonesia">Gunung berapi</a></li>
-								<li><a href="/wiki/Daftar_laut_di_Indonesia"
-										title="Daftar laut di Indonesia">Laut</a></li>
+								<li><a href="/wiki/Daftar_laut_di_Indonesia" title="Daftar laut di Indonesia">Laut</a>
+								</li>
 								<li><a href="/wiki/Daftar_pulau_di_Indonesia_menurut_provinsi"
 										title="Daftar pulau di Indonesia menurut provinsi">Pulau dan kepulauan</a>
 									<ul>
@@ -189,8 +187,8 @@
 							<ul>
 								<li><a href="/wiki/Ibu_kota_Indonesia" title="Ibu kota Indonesia">Ibu kota
 										negara</a></li>
-								<li><a href="/wiki/Lembaga_Negara_Indonesia"
-										title="Lembaga Negara Indonesia">Lembaga negara</a></li>
+								<li><a href="/wiki/Lembaga_Negara_Indonesia" title="Lembaga Negara Indonesia">Lembaga
+										negara</a></li>
 								<li><a href="/wiki/Pemerintah_Indonesia" title="Pemerintah Indonesia">Pemerintah</a>
 								</li>
 								<li><a href="/wiki/Presiden_Indonesia" title="Presiden Indonesia">Presiden</a>
@@ -230,8 +228,8 @@
 										title="Tentara Nasional Indonesia">Militer</a></li>
 								<li><a href="/wiki/Pembagian_administratif_Indonesia"
 										title="Pembagian administratif Indonesia">Administratif</a> (<a
-										href="/wiki/Provinsi_di_Indonesia"
-										title="Provinsi di Indonesia">Provinsi</a></li>
+										href="/wiki/Provinsi_di_Indonesia" title="Provinsi di Indonesia">Provinsi</a>
+								</li>
 								<li><a href="/wiki/Daftar_kabupaten_dan_kota_di_Indonesia"
 										title="Daftar kabupaten dan kota di Indonesia">Kabupaten/kota</a></li>
 								<li><a href="/wiki/Daftar_kecamatan_dan_kelurahan_di_Indonesia"
@@ -263,13 +261,13 @@
 										title="Anggaran Pendapatan dan Belanja Negara Indonesia">APBN</a></li>
 								<li><a href="/wiki/Anggaran_Pendapatan_dan_Belanja_Daerah"
 										title="Anggaran Pendapatan dan Belanja Daerah">APBD</a></li>
-								<li><a href="/wiki/Daftar_bank_di_Indonesia"
-										title="Daftar bank di Indonesia">Bank</a></li>
+								<li><a href="/wiki/Daftar_bank_di_Indonesia" title="Daftar bank di Indonesia">Bank</a>
+								</li>
 								<li><a href="/wiki/Kategori:Pasar_modal_di_Indonesia"
 										title="Kategori:Pasar modal di Indonesia">Pasar modal</a>
 									<ul>
-										<li><a href="/wiki/Bursa_Efek_Indonesia"
-												title="Bursa Efek Indonesia">IDX</a></li>
+										<li><a href="/wiki/Bursa_Efek_Indonesia" title="Bursa Efek Indonesia">IDX</a>
+										</li>
 										<li><a href="/wiki/Bursa_Berjangka_Jakarta"
 												title="Bursa Berjangka Jakarta">JFX</a></li>
 									</ul>
@@ -319,8 +317,7 @@
 								<li><a href="/wiki/Nama_Indonesia" title="Nama Indonesia">Nama orang</a></li>
 								<li><a href="/wiki/Daftar_tokoh_Indonesia" class="mw-redirect"
 										title="Daftar tokoh Indonesia">Tokoh</a></li>
-								<li><a href="/wiki/Kesehatan_di_Indonesia"
-										title="Kesehatan di Indonesia">Kesehatan</a>
+								<li><a href="/wiki/Kesehatan_di_Indonesia" title="Kesehatan di Indonesia">Kesehatan</a>
 									<ul>
 										<li><a href="/wiki/Kesehatan_hewan_di_Indonesia"
 												title="Kesehatan hewan di Indonesia">Kesehatan hewan</a></li>
@@ -423,8 +420,8 @@
 							<ul>
 								<li><a href="/wiki/Fauna_Indonesia" title="Fauna Indonesia">Fauna Indonesia</a></li>
 								<li><a href="/wiki/Flora_Indonesia" title="Flora Indonesia">Flora Indonesia</a></li>
-								<li><a href="/wiki/Bunga_Nasional_Indonesia"
-										title="Bunga Nasional Indonesia">Bunga</a></li>
+								<li><a href="/wiki/Bunga_Nasional_Indonesia" title="Bunga Nasional Indonesia">Bunga</a>
+								</li>
 								<li><a href="/wiki/Daftar_nama_binatang_endemik_Indonesia"
 										title="Daftar nama binatang endemik Indonesia">Binatang</a></li>
 								<li><a href="/wiki/Daftar_nama_burung_di_Indonesia"
@@ -484,8 +481,8 @@
 										title="Daftar tanda kehormatan di Indonesia">Tanda kehormatan</a></li>
 								<li><a href="/wiki/Daftar_kode_pos_di_Indonesia"
 										title="Daftar kode pos di Indonesia">Kode pos</a></li>
-								<li><a href="/wiki/Nomor_telepon_di_Indonesia"
-										title="Nomor telepon di Indonesia">Kode telepon</a></li>
+								<li><a href="/wiki/Nomor_telepon_di_Indonesia" title="Nomor telepon di Indonesia">Kode
+										telepon</a></li>
 								<li><a href="/wiki/Tanda_nomor_kendaraan_bermotor" class="mw-redirect"
 										title="Tanda nomor kendaraan bermotor">Kode kendaraan</a></li>
 								<li><a href="/wiki/Daftar_hari_penting_di_Indonesia"
@@ -511,6 +508,592 @@
 										srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Symbol_portal_class.svg/23px-Symbol_portal_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Symbol_portal_class.svg/31px-Symbol_portal_class.svg.png 2x"
 										data-file-width="180" data-file-height="185"></a></span> <b><a
 									href="/wiki/Portal:Indonesia" title="Portal:Indonesia">Portal</a></b></div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<div role="navigation" class="navbox" aria-labelledby="Islam_in_Indonesia" style="padding:3px">
+		<table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner mw-made-collapsible"
+			style="border-spacing:0;background:transparent;color:inherit">
+			<tbody>
+				<tr>
+					<th scope="col" class="navbox-title" colspan="3"><button type="button"
+							class="mw-collapsible-toggle mw-collapsible-toggle-default" aria-expanded="true"
+							tabindex="0"><span class="mw-collapsible-text">hide</span></button>
+						<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374">
+						<style data-mw-deduplicate="TemplateStyles:r1063604349">
+						</style>
+						<div class="navbar plainlinks hlist navbar-mini">
+							<ul>
+								<li class="nv-view"><a href="/wiki/Template:Islam_in_Indonesia"
+										title="Template:Islam in Indonesia"><abbr title="View this template"
+											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a>
+								</li>
+								<li class="nv-talk"><a href="/wiki/Template_talk:Islam_in_Indonesia"
+										title="Template talk:Islam in Indonesia"><abbr title="Discuss this template"
+											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a>
+								</li>
+								<li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Islam_in_Indonesia"
+										title="Special:EditPage/Template:Islam in Indonesia"><abbr
+											title="Edit this template"
+											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a>
+								</li>
+							</ul>
+						</div>
+						<div id="Islam_in_Indonesia" style="font-size:114%;margin:0 4em"><a
+								href="/wiki/Islam_in_Indonesia" title="Islam in Indonesia">Islam in Indonesia</a></div>
+					</th>
+				</tr>
+				<tr>
+					<th scope="row" class="navbox-group" style="width:1%">Branches</th>
+					<td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><a href="/wiki/Shia_Islam_in_Indonesia" title="Shia Islam in Indonesia">Shia
+										Islam</a></li>
+								<li><a href="/wiki/Ahmadiyya_in_Indonesia" title="Ahmadiyya in Indonesia">Ahmadiyya</a>
+								</li>
+								<li><a href="/wiki/Kejaw%C3%A8n" title="Kejawèn">Kejawèn</a></li>
+								<li>Old divisions
+									<ul>
+										<li><a href="/wiki/Abangan" title="Abangan">Abangan</a></li>
+										<li><a href="/wiki/Priyayi" title="Priyayi">Priyayi</a></li>
+										<li><a href="/wiki/Santri" title="Santri">Santri</a></li>
+									</ul>
+								</li>
+							</ul>
+						</div>
+					</td>
+					<td class="noviewer navbox-image" rowspan="8" style="width:1px;padding:0 0 0 2px">
+						<div><span typeof="mw:File"><a href="/wiki/File:Grand_Istiqlal_Mosque.jpg"
+									class="mw-file-description"><img
+										src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Grand_Istiqlal_Mosque.jpg/150px-Grand_Istiqlal_Mosque.jpg"
+										decoding="async" width="150" height="111" class="mw-file-element"
+										srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Grand_Istiqlal_Mosque.jpg/225px-Grand_Istiqlal_Mosque.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Grand_Istiqlal_Mosque.jpg/300px-Grand_Istiqlal_Mosque.jpg 2x"
+										data-file-width="4208" data-file-height="3120"></a></span></div>
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" class="navbox-group" style="width:1%">Major figures</th>
+					<td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0">
+						<div style="padding:0 0.25em"></div>
+						<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+							<tbody>
+								<tr>
+									<th scope="row" class="navbox-group" style="width:1%">Classic era</th>
+									<td class="navbox-list-with-group navbox-list navbox-even"
+										style="width:100%;padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li><a href="/wiki/Hamzah_Fansuri" title="Hamzah Fansuri">Hamzah
+														Fansuri</a></li>
+												<li><a href="/wiki/Sheikh_Yusuf" title="Sheikh Yusuf">Yusuf
+														al-Makassari</a></li>
+												<li><a href="/wiki/Malikussaleh" title="Malikussaleh">Malikussaleh</a>
+												</li>
+												<li><a href="/wiki/Ismail_al-Khalidi_al-Minangkabawi"
+														title="Ismail al-Khalidi al-Minangkabawi">Ismail al-Khalidi
+														al-Minangkabawi</a></li>
+												<li><a href="/wiki/Abdullah_al-Misri" title="Abdullah al-Misri">Abdullah
+														al-Misri</a></li>
+												<li><a href="/wiki/Padri_War" title="Padri War">Padri</a>
+													<ul>
+														<li><a href="/wiki/Tuanku_Imam_Bonjol"
+																title="Tuanku Imam Bonjol">Tuanku Imam Bonjol</a></li>
+														<li><a href="/wiki/Tuanku_Rao" title="Tuanku Rao">Tuanku Rao</a>
+														</li>
+														<li><a href="/wiki/Tuanku_Tambusai"
+																title="Tuanku Tambusai">Tuanku Tambusai</a></li>
+													</ul>
+												</li>
+												<li><a href="/wiki/Wali_Sanga" title="Wali Sanga">Wali Sanga</a>
+													<ul>
+														<li><a href="/wiki/Sunan_Ampel" title="Sunan Ampel">Sunan
+																Ampel</a></li>
+														<li><a href="/wiki/Sunan_Bonang" title="Sunan Bonang">Sunan
+																Bonang</a></li>
+														<li><a href="/wiki/Sunan_Drajat" title="Sunan Drajat">Sunan
+																Drajat</a></li>
+														<li><a href="/wiki/Sunan_Giri" title="Sunan Giri">Sunan Giri</a>
+														</li>
+														<li><a href="/wiki/Sunan_Gunung_Jati" class="mw-redirect"
+																title="Sunan Gunung Jati">Sunan Gunung Jati</a></li>
+														<li><a href="/wiki/Malik_Ibrahim" title="Malik Ibrahim">Maulana
+																Malik Ibrahim</a></li>
+														<li><a href="/wiki/Sunan_Kalijaga" title="Sunan Kalijaga">Sunan
+																Kalijaga</a></li>
+														<li><a href="/wiki/Sunan_Kudus" title="Sunan Kudus">Sunan
+																Kudus</a></li>
+														<li><a href="/wiki/Sunan_Murya" title="Sunan Murya">Sunan
+																Murya</a></li>
+													</ul>
+												</li>
+												<li><a href="/wiki/Abd_al-Rauf_al-Sinkili"
+														title="Abd al-Rauf al-Sinkili">Abdurrauf Singkil</a></li>
+												<li><a href="/wiki/Ali_Mughayat_Syah" title="Ali Mughayat Syah">Ali
+														Mughayat Syah</a></li>
+												<li><a href="/wiki/Tuanku_Nan_Tuo" title="Tuanku Nan Tuo">Tuanku Nan
+														Tuo</a></li>
+												<li><a href="/wiki/Burhanuddin_Ulakan"
+														title="Burhanuddin Ulakan">Burhanuddin Ulakan</a></li>
+												<li><a href="/wiki/Usman_bin_Yahya" title="Usman bin Yahya">Usman bin
+														Yahya</a></li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+								<tr>
+									<th scope="row" class="navbox-group" style="width:1%">National <br>Awakening era
+									</th>
+									<td class="navbox-list-with-group navbox-list navbox-odd"
+										style="width:100%;padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li><a href="/wiki/Abdullah_Ahmad_(ulama)" class="mw-redirect"
+														title="Abdullah Ahmad (ulama)">Abdullah Ahmad</a></li>
+												<li><a href="/wiki/Abdul_Karim_Amrullah"
+														title="Abdul Karim Amrullah">Abdul Karim Amrullah</a></li>
+												<li><a href="/wiki/Hasyim_Asy%27ari" title="Hasyim Asy'ari">Hasyim
+														Asy'ari</a></li>
+												<li><a href="/wiki/Ahmad_Dahlan" title="Ahmad Dahlan">Ahmad Dahlan</a>
+												</li>
+												<li><a href="/wiki/Tahir_bin_Jalaluddin"
+														title="Tahir bin Jalaluddin">Tahir bin Jalaluddin</a></li>
+												<li><a href="/wiki/Muhammad_Jamil_Jambek"
+														title="Muhammad Jamil Jambek">Muhammad Jamil Jambek</a></li>
+												<li><a href="/wiki/Mas_Mansoer" title="Mas Mansoer">Mas Mansoer</a></li>
+												<li><a href="/wiki/Ahmad_Khatib_al-Minangkabawi"
+														title="Ahmad Khatib al-Minangkabawi">Ahmad Khatib
+														al-Minangkabawi</a></li>
+												<li><a href="/wiki/Haji_Misbach" class="mw-redirect"
+														title="Haji Misbach">Haji Misbach</a></li>
+												<li><a href="/wiki/Sulaiman_ar-Rasuli"
+														title="Sulaiman ar-Rasuli">Sulaiman ar-Rasuli</a></li>
+												<li><a href="/wiki/Mohammad_Roem" title="Mohammad Roem">Mohammad
+														Roem</a></li>
+												<li><a href="/wiki/Rasuna_Said" title="Rasuna Said">Rasuna Said</a></li>
+												<li><a href="/wiki/Agus_Salim" title="Agus Salim">Agus Salim</a></li>
+												<li><a href="/wiki/Oemar_Said_Tjokroaminoto"
+														title="Oemar Said Tjokroaminoto">Tjokroaminoto</a></li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+								<tr>
+									<th scope="row" class="navbox-group" style="width:1%">Post-<br>independence</th>
+									<td class="navbox-list-with-group navbox-list navbox-even"
+										style="width:100%;padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li><a href="/wiki/Mukti_Ali" title="Mukti Ali">Mukti Ali</a></li>
+												<li><a href="/wiki/Hamka" title="Hamka">Abdul Malik Karim Amrullah</a>
+												</li>
+												<li><a href="/wiki/Ahmad_Syafi%27i_Maarif"
+														title="Ahmad Syafi'i Maarif">Ahmad Syafi'i Maarif</a></li>
+												<li><a href="/wiki/Azyumardi_Azra" title="Azyumardi Azra">Azyumardi
+														Azra</a></li>
+												<li><a href="/wiki/Abu_Bakar_Bashir" class="mw-redirect"
+														title="Abu Bakar Bashir">Abu Bakar Bashir</a></li>
+												<li><a href="/wiki/Idham_Chalid" title="Idham Chalid">Idham Chalid</a>
+												</li>
+												<li><a href="/wiki/Djohan_Effendi" title="Djohan Effendi">Djohan
+														Effendi</a></li>
+												<li><a href="/wiki/Abdullah_Gymnastiar"
+														title="Abdullah Gymnastiar">Abdullah Gymnastiar</a></li>
+												<li><a href="/wiki/Wahid_Hasyim" title="Wahid Hasyim">Wahid Hasyim</a>
+												</li>
+												<li><a href="/wiki/Sekarmadji_Maridjan_Kartosoewirjo"
+														title="Sekarmadji Maridjan Kartosoewirjo">Kartosoewirjo</a></li>
+												<li><a href="/wiki/Nurcholish_Madjid"
+														title="Nurcholish Madjid">Nurcholish Madjid</a></li>
+												<li><a href="/wiki/Zainuddin_M.Z." class="mw-redirect"
+														title="Zainuddin M.Z.">Zainuddin M.Z.</a></li>
+												<li><a href="/wiki/Harun_Nasution" title="Harun Nasution">Harun
+														Nasution</a></li>
+												<li><a href="/wiki/Mohammad_Natsir" title="Mohammad Natsir">Mohammad
+														Natsir</a></li>
+												<li><a href="/wiki/Amien_Rais" title="Amien Rais">Amien Rais</a></li>
+												<li><a href="/wiki/Muhammad_Rizieq_Shihab" class="mw-redirect"
+														title="Muhammad Rizieq Shihab">Muhammad Rizieq Shihab</a></li>
+												<li><a href="/wiki/Quraish_Shihab" title="Quraish Shihab">Quraish
+														Shihab</a></li>
+												<li><a href="/wiki/Ma%27ruf_Amin" title="Ma'ruf Amin">Ma'ruf Amin</a>
+												</li>
+												<li><a href="/wiki/Said_Aqil_Siradj" title="Said Aqil Siradj">Said Aqil
+														Siradj</a></li>
+												<li><a href="/wiki/Abdul_Somad" title="Abdul Somad">Abdul Somad</a></li>
+												<li><a href="/wiki/Din_Syamsuddin" title="Din Syamsuddin">Din
+														Syamsuddin</a></li>
+												<li><a href="/wiki/Abdurrahman_Wahid"
+														title="Abdurrahman Wahid">Abdurrahman Wahid</a></li>
+												<li><a href="/wiki/Muhammad_Luthfi_bin_Yahya"
+														title="Muhammad Luthfi bin Yahya">Muhammad Luthfi bin Yahya</a>
+												</li>
+												<li><a href="/wiki/Ahmad_Muhtadi_Dimyathi"
+														title="Ahmad Muhtadi Dimyathi">Ahmad Muhtadi Dimyathi</a></li>
+												<li><a href="/wiki/Muammar_Z.A." title="Muammar Z.A.">Muammar Z.A.</a>
+												</li>
+												<li><a href="/wiki/Jalaluddin_Rakhmat"
+														title="Jalaluddin Rakhmat">Jalaluddin Rakhmat</a></li>
+												<li><a href="/wiki/Sheikh_Ali_Jaber" title="Sheikh Ali Jaber">Sheikh Ali
+														Jaber</a></li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div></div>
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" class="navbox-group" style="width:1%">Organizations</th>
+					<td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0">
+						<div style="padding:0 0.25em"></div>
+						<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+							<tbody>
+								<tr>
+									<th scope="row" class="navbox-group" style="width:1%">Civil society</th>
+									<td class="navbox-list-with-group navbox-list navbox-odd"
+										style="width:100%;padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li><a href="/wiki/Alkhairaat" title="Alkhairaat">Alkhairaat</a></li>
+												<li><a href="/wiki/Campus_Dakwah_Institute"
+														title="Campus Dakwah Institute">Campus Dakwah Institute</a></li>
+												<li><a href="/wiki/Hidayatullah_(Islamic_organization)"
+														title="Hidayatullah (Islamic organization)">Hidayatullah</a>
+												</li>
+												<li><a href="/wiki/Hizbut_Tahrir_Indonesia" class="mw-redirect"
+														title="Hizbut Tahrir Indonesia">Hizbut Tahrir Indonesia</a></li>
+												<li><a href="/wiki/Indonesian_Association_of_Muslim_Intellectuals"
+														title="Indonesian Association of Muslim Intellectuals">Indonesian
+														Association of Muslim Intellectuals</a></li>
+												<li><a href="/wiki/Indonesia_Institute_of_Islamic_Dawah"
+														title="Indonesia Institute of Islamic Dawah">Indonesia Institute
+														of Islamic Dawah</a></li>
+												<li><a href="/wiki/Dewan_Dakwah_Islamiyah_Indonesia" class="mw-redirect"
+														title="Dewan Dakwah Islamiyah Indonesia">Indonesian Islamic
+														Dawah Council</a></li>
+												<li><a href="/wiki/Indonesian_Mujahedeen_Council"
+														title="Indonesian Mujahedeen Council">Indonesian Mujahedeen
+														Council</a></li>
+												<li><a href="/wiki/Indonesian_Ulema_Council"
+														title="Indonesian Ulema Council">Indonesian Ulema Council</a>
+												</li>
+												<li><a href="/wiki/Al-Irshad_Al-Islamiya"
+														title="Al-Irshad Al-Islamiya">Al-Irshad Al-Islamiya</a></li>
+												<li><a href="/wiki/Islamic_Defenders_Front"
+														title="Islamic Defenders Front">Islamic Defenders Front</a></li>
+												<li><a href="/wiki/Jaringan_Islam_Liberal"
+														title="Jaringan Islam Liberal">Liberal Islam Network</a></li>
+												<li><a href="/wiki/Majelis_Rasulullah"
+														title="Majelis Rasulullah">Majelis Rasulullah</a></li>
+												<li><a class="mw-selflink selflink">Muhammadiyah</a>
+													<ul>
+														<li><a href="/wiki/Aisyiyah" title="Aisyiyah">Aisyiyah</a></li>
+													</ul>
+												</li>
+												<li><a href="/wiki/Muslim_Students%27_Association_(Indonesia)"
+														title="Muslim Students' Association (Indonesia)">Muslim
+														Students' Association</a></li>
+												<li><a href="/wiki/Nahdlatul_Ulama" title="Nahdlatul Ulama">Nahdlatul
+														Ulama</a>
+													<ul>
+														<li><a href="/wiki/Ansor_Youth_Movement"
+																title="Ansor Youth Movement">GP Ansor</a></li>
+														<li><a href="/wiki/Jam%27iyyah_Ahlith_Thariqah_al-Mu%27tabarah_an-Nahdliyyah"
+																title="Jam'iyyah Ahlith Thariqah al-Mu'tabarah an-Nahdliyyah">JATMAN</a>
+														</li>
+													</ul>
+												</li>
+												<li><a href="/wiki/Nahdlatul_Wathan" title="Nahdlatul Wathan">Nahdlatul
+														Wathan</a></li>
+												<li><a href="/wiki/PERSIS_(organization)"
+														title="PERSIS (organization)">PERSIS</a></li>
+												<li><a href="/wiki/Islamic_Education_Movement"
+														title="Islamic Education Movement">PERTI</a></li>
+												<li><a href="/wiki/Al-Rabithah_al-Alawiyyah"
+														title="Al-Rabithah al-Alawiyyah">Rabithah Alawiyah</a></li>
+												<li><a href="/wiki/Sarekat_Islam" title="Sarekat Islam">Sarekat
+														Islam</a></li>
+												<li><a href="/wiki/Sumatera_Thawalib" title="Sumatera Thawalib">Sumatera
+														Thawalib</a></li>
+												<li><a href="/wiki/Wahdah_Islamiyah" title="Wahdah Islamiyah">Wahdah
+														Islamiyah</a></li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+								<tr>
+									<th scope="row" class="navbox-group" style="width:1%">Political parties</th>
+									<td class="navbox-list-with-group navbox-list navbox-even"
+										style="width:100%;padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li><a href="/wiki/Crescent_Star_Party_(Indonesia)"
+														title="Crescent Star Party (Indonesia)">Crescent Star Party</a>
+												</li>
+												<li><a href="/wiki/Indonesian_Nahdlatul_Community_Party"
+														title="Indonesian Nahdlatul Community Party">Indonesian
+														Nahdlatul Community Party</a></li>
+												<li><a href="/wiki/Masyumi_Party" title="Masyumi Party">Masyumi
+														Party</a></li>
+												<li><a href="/wiki/National_Awakening_Party"
+														title="National Awakening Party">National Awakening Party</a>
+												</li>
+												<li><a href="/wiki/National_Mandate_Party"
+														title="National Mandate Party">National Mandate Party</a></li>
+												<li><a href="/wiki/Prosperous_Justice_Party"
+														title="Prosperous Justice Party">Prosperous Justice Party</a>
+												</li>
+												<li><a href="/wiki/United_Development_Party"
+														title="United Development Party">United Development Party</a>
+												</li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+								<tr>
+									<th scope="row" class="navbox-group" style="width:1%">Militia</th>
+									<td class="navbox-list-with-group navbox-list navbox-odd"
+										style="width:100%;padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li><a href="/wiki/Banser" title="Banser">Banser</a></li>
+												<li><a href="/wiki/Darul_Islam_(Indonesia)"
+														title="Darul Islam (Indonesia)">Darul Islam</a></li>
+												<li><a href="/wiki/Jamaah_Ansharut_Tauhid"
+														title="Jamaah Ansharut Tauhid">Jamaah Ansharut Tauhid</a></li>
+												<li><a href="/wiki/Jamaah_Islamiyah" class="mw-redirect"
+														title="Jamaah Islamiyah">Jamaah Islamiyah</a></li>
+												<li><a href="/wiki/Laskar_Jihad" title="Laskar Jihad">Laskar Jihad</a>
+												</li>
+												<li><a href="/wiki/Mujahidin_Indonesia_Timur" class="mw-redirect"
+														title="Mujahidin Indonesia Timur">Mujahidin Indonesia Timur</a>
+												</li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div></div>
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" class="navbox-group" style="width:1%">History</th>
+					<td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0">
+						<div style="padding:0 0.25em"></div>
+						<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+							<tbody>
+								<tr>
+									<th scope="row" class="navbox-group" style="width:1%">Pre-<br>independence</th>
+									<td class="navbox-list-with-group navbox-list navbox-even"
+										style="width:100%;padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li><a href="/wiki/Spread_of_Islam_in_Indonesia"
+														title="Spread of Islam in Indonesia">Spread of Islam in
+														Indonesia</a></li>
+												<li><a href="/wiki/Ottoman_embassy_to_Aceh"
+														title="Ottoman embassy to Aceh">Ottoman embassy to Aceh</a></li>
+												<li><a href="/wiki/Wali_Sanga" title="Wali Sanga">Wali Sanga</a></li>
+												<li>Islamic States in Indonesia
+													<ul>
+														<li><a href="/wiki/Aceh_Sultanate" title="Aceh Sultanate">Aceh
+																Sultanate</a></li>
+														<li><a href="/wiki/Demak_Sultanate"
+																title="Demak Sultanate">Demak Sultanate</a></li>
+														<li><a href="/wiki/Kingdom_of_Kaimana"
+																title="Kingdom of Kaimana">Kingdom of Kaimana</a></li>
+														<li><a href="/wiki/Gowa_Sultanate" class="mw-redirect"
+																title="Gowa Sultanate">Gowa Sultanate</a></li>
+														<li><a href="/wiki/Malacca_Sultanate"
+																title="Malacca Sultanate">Malacca Sultanate</a></li>
+														<li><a href="/wiki/Mataram_Sultanate"
+																title="Mataram Sultanate">Mataram Sultanate</a></li>
+														<li><a href="/wiki/Samudera_Pasai_Sultanate"
+																title="Samudera Pasai Sultanate">Samudera Pasai
+																Sultanate</a></li>
+														<li><a href="/w/index.php?title=Solor_Watan_Lema_Confederation&amp;action=edit&amp;redlink=1"
+																class="new"
+																title="Solor Watan Lema Confederation (page does not exist)">Solor
+																Watan Lema Confederation</a></li>
+														<li><a href="/wiki/Sultanate_of_Ternate"
+																title="Sultanate of Ternate">Ternate Sultanate</a></li>
+														<li><a href="/wiki/Sultanate_of_Tidore"
+																title="Sultanate of Tidore">Tidore Sultanate</a></li>
+														<li><a href="/wiki/Yogyakarta_Sultanate"
+																title="Yogyakarta Sultanate">Yogyakarta Sultanate</a>
+														</li>
+													</ul>
+												</li>
+												<li><a href="/wiki/Padri_War" title="Padri War">Padri War</a></li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+								<tr>
+									<th scope="row" class="navbox-group" style="width:1%">Post-<br>independence</th>
+									<td class="navbox-list-with-group navbox-list navbox-odd"
+										style="width:100%;padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li><a href="/wiki/Jakarta_Charter" title="Jakarta Charter">Jakarta
+														Charter</a></li>
+												<li><a href="/wiki/Petition_of_Fifty" title="Petition of Fifty">Petition
+														of Fifty</a></li>
+												<li><a href="/wiki/Tanjung_Priok_massacre"
+														title="Tanjung Priok massacre">Tanjung Priok massacre</a></li>
+												<li><a href="/wiki/Talangsari_incident"
+														title="Talangsari incident">Talangsari incident</a></li>
+												<li><a href="/wiki/Insurgency_in_Aceh"
+														title="Insurgency in Aceh">Insurgency in Aceh</a></li>
+												<li><a href="/wiki/Maluku_sectarian_conflict"
+														title="Maluku sectarian conflict">Maluku sectarian conflict</a>
+												</li>
+												<li><a href="/wiki/Poso_riots" title="Poso riots">Poso riots</a></li>
+												<li><a href="/wiki/Fatwa_on_Religious_Pluralism,_Liberalism,_and_Secularism"
+														title="Fatwa on Religious Pluralism, Liberalism, and Secularism">Fatwa
+														on Religious Pluralism, Liberalism, and Secularism</a></li>
+												<li><a href="/wiki/Operation_Madago_Raya"
+														title="Operation Madago Raya">Operation Tinombala / Madago
+														Raya</a></li>
+												<li><a href="/wiki/November_2016_Jakarta_protests"
+														title="November 2016 Jakarta protests">November 2016</a> / <a
+														href="/wiki/December_2016_Jakarta_protests"
+														title="December 2016 Jakarta protests">December 2016</a> / <a
+														href="/wiki/February_2017_Jakarta_protests"
+														title="February 2017 Jakarta protests">February 2017 Jakarta
+														protests</a></li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div></div>
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" class="navbox-group" style="width:1%">Culture</th>
+					<td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><a href="/wiki/Adat" title="Adat">Adat</a></li>
+								<li><a href="/wiki/Mosque_architecture_in_Indonesia"
+										title="Mosque architecture in Indonesia">Architecture</a>
+									<ul>
+										<li><a href="/wiki/Bedug" title="Bedug">Bedug</a></li>
+										<li><a href="/wiki/Tajug" title="Tajug">Tajug</a></li>
+									</ul>
+								</li>
+								<li><i><a href="/wiki/Babad_Tanah_Jawi" title="Babad Tanah Jawi">Babad Tanah
+											Jawi</a></i></li>
+								<li><a href="/wiki/Islam_in_Indonesia#Clothing" title="Islam in Indonesia">Costumes</a>
+									<ul>
+										<li><a href="/wiki/Kupiah" title="Kupiah">Kupiah</a></li>
+										<li><a href="/wiki/Songkok" title="Songkok">Songkok</a></li>
+										<li><a href="/wiki/Sarong" title="Sarong">Sarong</a></li>
+									</ul>
+								</li>
+								<li><a href="/wiki/Kauman" title="Kauman">Kauman</a></li>
+								<li><a href="/wiki/Lebaran" title="Lebaran">Lebaran</a></li>
+								<li><a href="/wiki/List_of_mosques_in_Indonesia"
+										title="List of mosques in Indonesia">Mosques</a>
+									<ul>
+										<li><a href="/wiki/Istiqlal_Mosque,_Jakarta"
+												title="Istiqlal Mosque, Jakarta">Istiqlal Mosque</a></li>
+									</ul>
+								</li>
+								<li><a href="/wiki/Musabaqah_Tilawatil_Quran"
+										title="Musabaqah Tilawatil Quran">Musabaqah Tilawatil Quran</a></li>
+								<li><a href="/wiki/Music_of_Indonesia#Qasidah_modern"
+										title="Music of Indonesia">Qasidah</a></li>
+								<li><a href="/wiki/Saman_(dance)" title="Saman (dance)">Saman</a></li>
+								<li><i><a href="/wiki/Sejarah_Banten" title="Sejarah Banten">Sejarah Banten</a></i></li>
+								<li><a href="/wiki/Sekaten" title="Sekaten">Sekaten</a></li>
+								<li><a href="/wiki/Serak_Gulo" title="Serak Gulo">Serak Gulo</a></li>
+								<li><a href="/wiki/Slametan" title="Slametan">Slametan</a></li>
+								<li><a href="/wiki/Tabligh_Akbar" title="Tabligh Akbar">Tabligh Akbar</a></li>
+								<li><a href="/wiki/Tabuik" title="Tabuik">Tabuik</a></li>
+								<li><a href="/wiki/Tausiyah" title="Tausiyah">Tausiyah</a></li>
+								<li><i><a href="/wiki/Tombo_Ati" title="Tombo Ati">Tombo Ati</a></i></li>
+								<li><a href="/wiki/Wetu_Telu" title="Wetu Telu">Wetu Telu</a></li>
+								<li><a href="/wiki/Yaqowiyu" title="Yaqowiyu">Yaqowiyu</a></li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" class="navbox-group" style="width:1%">Education</th>
+					<td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><i><a href="/wiki/Al-Munir" title="Al-Munir">Al-Munir</a></i></li>
+								<li><a href="/wiki/Iqro" title="Iqro">Iqro</a></li>
+								<li><a href="/wiki/Jamiat_Kheir" title="Jamiat Kheir">Jamiat Kheir</a></li>
+								<li><a href="/wiki/Kitab_kuning" title="Kitab kuning">Kitab kuning</a></li>
+								<li><a href="/wiki/Kota_santri" title="Kota santri">Kota santri</a></li>
+								<li><a href="/wiki/Kyai" title="Kyai">Kyai</a></li>
+								<li><a href="/wiki/LIPIA" title="LIPIA">LIPIA</a></li>
+								<li><a href="/wiki/Pesantren" title="Pesantren">Pesantren</a></li>
+								<li><i><a href="/wiki/Tafsir_Al-Mishbah" class="mw-redirect"
+											title="Tafsir Al-Mishbah">Tafsir Al-Mishbah</a></i></li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" class="navbox-group" style="width:1%">Politics</th>
+					<td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><a href="/wiki/Islam_Nusantara" title="Islam Nusantara">Islam Nusantara</a></li>
+								<li><a href="/wiki/Islam_Yes,_Islamic_Party_No"
+										title="Islam Yes, Islamic Party No">Islam Yes, Islamic Party No</a></li>
+								<li><a href="/wiki/Islamic_criminal_law_in_Aceh"
+										title="Islamic criminal law in Aceh">Islamic criminal law in Aceh</a></li>
+								<li><a href="/wiki/Tablighi_Jamaat" title="Tablighi Jamaat">Jama’ah Tabligh</a></li>
+								<li><a href="/wiki/Jemaah_Tarbiyah" title="Jemaah Tarbiyah">Jemaah Tarbiyah</a></li>
+								<li><a href="/wiki/Modernism_(Islam_in_Indonesia)"
+										title="Modernism (Islam in Indonesia)">Modernist</a></li>
+								<li><a href="/wiki/Traditionalism_(Islam_in_Indonesia)"
+										title="Traditionalism (Islam in Indonesia)">Traditionalist</a></li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" class="navbox-group" style="width:1%">By region</th>
+					<td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><a href="/wiki/Islam_in_Aceh" title="Islam in Aceh">Aceh</a></li>
+								<li><a href="/wiki/Islam_in_West_Sumatra" title="Islam in West Sumatra">West Sumatra</a>
+								</li>
+								<li><a href="/wiki/Islam_in_East_Java" title="Islam in East Java">East Java</a></li>
+								<li><a href="/wiki/Islam_in_Central_Sulawesi" title="Islam in Central Sulawesi">Central
+										Sulawesi</a></li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td class="navbox-abovebelow" colspan="3">
+						<div>
+							<ul>
+								<li><a href="/wiki/Template:Mosques_in_Indonesia"
+										title="Template:Mosques in Indonesia">Mosques in Indonesia</a></li>
+								<li><a href="/wiki/Template:History_of_Indonesia"
+										title="Template:History of Indonesia">History of Indonesia</a></li>
+								<li><a href="/wiki/Template:National_Heroes_of_Indonesia"
+										title="Template:National Heroes of Indonesia">National Heroes of Indonesia</a>
+								</li>
+							</ul>
+						</div>
 					</td>
 				</tr>
 			</tbody>
