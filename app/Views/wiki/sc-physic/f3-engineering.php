@@ -11,62 +11,6 @@
 							aria-expanded="true" tabindex="0"><span class="mw-collapsible-text">hide</span></button>
 						<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374">
 						<style data-mw-deduplicate="TemplateStyles:r1063604349">
-							.mw-parser-output .navbar {
-								display: inline;
-								font-size: 88%;
-								font-weight: normal
-							}
-
-							.mw-parser-output .navbar-collapse {
-								float: left;
-								text-align: left
-							}
-
-							.mw-parser-output .navbar-boxtext {
-								word-spacing: 0
-							}
-
-							.mw-parser-output .navbar ul {
-								display: inline-block;
-								white-space: nowrap;
-								line-height: inherit
-							}
-
-							.mw-parser-output .navbar-brackets::before {
-								margin-right: -0.125em;
-								content: "[ "
-							}
-
-							.mw-parser-output .navbar-brackets::after {
-								margin-left: -0.125em;
-								content: " ]"
-							}
-
-							.mw-parser-output .navbar li {
-								word-spacing: -0.125em
-							}
-
-							.mw-parser-output .navbar a>span,
-							.mw-parser-output .navbar a>abbr {
-								text-decoration: inherit
-							}
-
-							.mw-parser-output .navbar-mini abbr {
-								font-variant: small-caps;
-								border-bottom: none;
-								text-decoration: none;
-								cursor: inherit
-							}
-
-							.mw-parser-output .navbar-ct-full {
-								font-size: 114%;
-								margin: 0 7em
-							}
-
-							.mw-parser-output .navbar-ct-mini {
-								font-size: 114%;
-								margin: 0 4em
-							}
 						</style>
 						<div class="navbar plainlinks hlist navbar-mini">
 							<ul>
@@ -93,10 +37,10 @@
 					<td class="navbox-abovebelow" colspan="3">
 						<div>
 							<ul>
-								<li><a href="/wiki/History_of_engineering"
-										title="History of engineering">History</a></li>
-								<li><a href="/wiki/Outline_of_engineering"
-										title="Outline of engineering">Outline</a></li>
+								<li><a href="/wiki/History_of_engineering" title="History of engineering">History</a>
+								</li>
+								<li><a href="/wiki/Outline_of_engineering" title="Outline of engineering">Outline</a>
+								</li>
 								<li><a href="/wiki/List_of_engineering_branches"
 										title="List of engineering branches">List of engineering branches</a></li>
 							</ul>
@@ -177,8 +121,8 @@
 														title="Manufacturing engineering">Manufacturing</a></li>
 												<li><a href="/wiki/Marine_engineering"
 														title="Marine engineering">Marine</a></li>
-												<li><a href="/wiki/Naval_architecture"
-														title="Naval architecture">Naval architecture</a></li>
+												<li><a href="/wiki/Naval_architecture" title="Naval architecture">Naval
+														architecture</a></li>
 												<li><a href="/wiki/Railway_engineering"
 														title="Railway engineering">Railway</a></li>
 												<li><a href="/wiki/Sports_engineering"
@@ -234,8 +178,8 @@
 								</tr>
 								<tr>
 									<th scope="row" class="navbox-group" style="width:1%"><a
-											href="/wiki/Chemical_engineering"
-											title="Chemical engineering">Chemical</a></th>
+											href="/wiki/Chemical_engineering" title="Chemical engineering">Chemical</a>
+									</th>
 									<td class="navbox-list-with-group navbox-list navbox-even"
 										style="width:100%;padding:0">
 										<div style="padding:0 0.25em">
@@ -259,8 +203,8 @@
 												</li>
 												<li><a href="/wiki/Electrochemical_engineering"
 														title="Electrochemical engineering">Electrochemical</a></li>
-												<li><a href="/wiki/Food_engineering"
-														title="Food engineering">Food</a></li>
+												<li><a href="/wiki/Food_engineering" title="Food engineering">Food</a>
+												</li>
 												<li><a href="/wiki/Molecular_engineering"
 														title="Molecular engineering">Molecular</a></li>
 												<li><a href="/wiki/Paper_engineering"
@@ -297,8 +241,8 @@
 														<li><a href="/wiki/Pharmaceutical_engineering"
 																title="Pharmaceutical engineering">Pharmaceutical</a>
 														</li>
-														<li><a href="/wiki/Prosthesis"
-																title="Prosthesis">Prosthesis</a></li>
+														<li><a href="/wiki/Prosthesis" title="Prosthesis">Prosthesis</a>
+														</li>
 														<li><a href="/wiki/Rehabilitation_engineering"
 																title="Rehabilitation engineering">Rehabilitation</a>
 														</li>
@@ -351,8 +295,7 @@
 																title="Surface engineering">Surface</a></li>
 													</ul>
 												</li>
-												<li><a href="/wiki/Mechatronics"
-														title="Mechatronics">Mechatronics</a>
+												<li><a href="/wiki/Mechatronics" title="Mechatronics">Mechatronics</a>
 													<ul>
 														<li><a href="/wiki/Robotics" title="Robotics">Robotics</a>
 														</li>
@@ -482,14 +425,201 @@
 												data-file-width="100" data-file-height="100"></span></span> <a
 										href="/wiki/Wikipedia:WikiProject_Engineering"
 										title="Wikipedia:WikiProject Engineering">Wikiproject</a></li>
-								<li><span class="noviewer" typeof="mw:File"><a
-											href="/wiki/File:Symbol_portal_class.svg" class="mw-file-description"
-											title="Portal"><img alt=""
+								<li><span class="noviewer" typeof="mw:File"><a href="/wiki/File:Symbol_portal_class.svg"
+											class="mw-file-description" title="Portal"><img alt=""
 												src="//upload.wikimedia.org/wikipedia/en/thumb/e/e2/Symbol_portal_class.svg/16px-Symbol_portal_class.svg.png"
 												decoding="async" width="16" height="16" class="mw-file-element"
 												srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e2/Symbol_portal_class.svg/23px-Symbol_portal_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e2/Symbol_portal_class.svg/31px-Symbol_portal_class.svg.png 2x"
 												data-file-width="180" data-file-height="185"></a></span> <a
 										href="/wiki/Portal:Engineering" title="Portal:Engineering">Portal</a></li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<div role="navigation" class="navbox" aria-labelledby="Stonemasonry" style="padding:3px">
+		<table class="nowraplinks mw-collapsible autocollapse navbox-inner mw-made-collapsible"
+			style="border-spacing:0;background:transparent;color:inherit">
+			<tbody>
+				<tr>
+					<th scope="col" class="navbox-title" colspan="2"><button type="button"
+							class="mw-collapsible-toggle mw-collapsible-toggle-default mw-collapsible-toggle-expanded"
+							aria-expanded="true" tabindex="0"><span class="mw-collapsible-text">hide</span></button>
+						<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374">
+						<style data-mw-deduplicate="TemplateStyles:r1063604349">
+						</style>
+						<div class="navbar plainlinks hlist navbar-mini">
+							<ul>
+								<li class="nv-view"><a href="/wiki/Template:Stonemasonry"
+										title="Template:Stonemasonry"><abbr title="View this template"
+											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a>
+								</li>
+								<li class="nv-talk"><a href="/wiki/Template_talk:Stonemasonry"
+										title="Template talk:Stonemasonry"><abbr title="Discuss this template"
+											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a>
+								</li>
+								<li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Stonemasonry"
+										title="Special:EditPage/Template:Stonemasonry"><abbr title="Edit this template"
+											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a>
+								</li>
+							</ul>
+						</div>
+						<div id="Stonemasonry" style="font-size:114%;margin:0 4em"><a href="/wiki/Stonemasonry"
+								title="Stonemasonry">Stonemasonry</a></div>
+					</th>
+				</tr>
+				<tr style="">
+					<th scope="row" class="navbox-group" style="width:1%">Types</th>
+					<td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><a href="/wiki/Ashlar" title="Ashlar">Ashlar</a></li>
+								<li><a href="/wiki/Rustication_(architecture)"
+										title="Rustication (architecture)">Rustication</a></li>
+								<li><a href="/wiki/Stone_carving" title="Stone carving">Carving</a></li>
+								<li><a href="/wiki/Dry_stone" title="Dry stone">Dry stone</a></li>
+								<li><a href="/wiki/Letter_cutting" title="Letter cutting">Letter cutting</a></li>
+								<li><a href="/wiki/Masonry" title="Masonry">Masonry</a></li>
+								<li><a href="/wiki/Post-tensioned_stone" title="Post-tensioned stone">Post-tensioned
+										stone</a></li>
+								<li><a href="/wiki/Massive_precut_stone" title="Massive precut stone">Massive precut
+										stone</a></li>
+								<li><a href="/wiki/Monumental_masonry" title="Monumental masonry">Monumental</a></li>
+								<li><a href="/wiki/Rubble_masonry" title="Rubble masonry">Rubble</a></li>
+								<li><a href="/wiki/Stone_sculpture" title="Stone sculpture">Sculpture</a></li>
+								<li><a href="/wiki/Slipform_stonemasonry" title="Slipform stonemasonry">Slipform</a>
+								</li>
+								<li><a href="/wiki/Snecked_masonry" title="Snecked masonry">Snecked</a></li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+				<tr style="">
+					<th scope="row" class="navbox-group" style="width:1%">Materials</th>
+					<td class="navbox-list-with-group navbox-list navbox-even hlist"
+						style="width:100%;padding:0;background:#F4F0EC">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><a href="/wiki/Artificial_stone" title="Artificial stone">Artificial stone</a></li>
+								<li><a href="/wiki/Brick" title="Brick">Brick</a></li>
+								<li><a href="/wiki/Cast_stone" title="Cast stone">Cast stone</a></li>
+								<li><a href="/wiki/List_of_decorative_stones"
+										title="List of decorative stones">Decorative stones</a></li>
+								<li><a href="/wiki/Dimension_stone" title="Dimension stone">Dimension stone</a></li>
+								<li><a href="/wiki/Fieldstone" title="Fieldstone">Fieldstone</a></li>
+								<li><a href="/wiki/Flagstone" title="Flagstone">Flagstone</a></li>
+								<li><a href="/wiki/Gabion" title="Gabion">Gabion</a></li>
+								<li><a href="/wiki/Granite" title="Granite">Granite</a></li>
+								<li><a href="/wiki/Grout" title="Grout">Grout</a></li>
+								<li><a href="/wiki/Lime_mortar" title="Lime mortar">Lime mortar</a></li>
+								<li><a href="/wiki/List_of_types_of_limestone"
+										title="List of types of limestone">Limestone</a></li>
+								<li><a href="/wiki/Marble" title="Marble">Marble</a>
+									<ul>
+										<li><a href="/wiki/List_of_types_of_marble"
+												title="List of types of marble">Types</a></li>
+									</ul>
+								</li>
+								<li><a class="mw-selflink selflink">Mortar</a></li>
+								<li><a href="/wiki/Sandstone" title="Sandstone">Sandstone</a>
+									<ul>
+										<li><a href="/wiki/List_of_sandstones" title="List of sandstones">List</a></li>
+									</ul>
+								</li>
+								<li><a href="/wiki/Slate" title="Slate">Slate</a></li>
+								<li><a href="/wiki/Stone_veneer" title="Stone veneer">Stone veneer</a></li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+				<tr style="">
+					<th scope="row" class="navbox-group" style="width:1%">Tools</th>
+					<td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><a href="/wiki/Angle_grinder" title="Angle grinder">Angle grinder</a></li>
+								<li><a href="/wiki/Bush_hammer" title="Bush hammer">Bush hammer</a></li>
+								<li><a href="/wiki/Ceramic_tile_cutter" title="Ceramic tile cutter">Ceramic tile
+										cutter</a></li>
+								<li><a href="/wiki/Chisel" title="Chisel">Chisel</a></li>
+								<li><a href="/wiki/Diamond_blade" title="Diamond blade">Diamond blade</a></li>
+								<li><a href="/wiki/Lewis_(lifting_appliance)" title="Lewis (lifting appliance)">Lewis
+										(lifting appliance)</a></li>
+								<li><a href="/wiki/Masonry_trowel" title="Masonry trowel">Trowel</a></li>
+								<li><a href="/wiki/Non-explosive_demolition_agents"
+										title="Non-explosive demolition agents">Non-explosive demolition agents</a></li>
+								<li><a href="/wiki/Plug_and_feather" title="Plug and feather">Plug and feather</a></li>
+								<li><a href="/wiki/Stonemason%27s_hammer" title="Stonemason's hammer">Stonemason's
+										hammer</a></li>
+								<li><a href="/wiki/Straightedge" title="Straightedge">Straightedge</a></li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+				<tr style="">
+					<th scope="row" class="navbox-group" style="width:1%">Techniques</th>
+					<td class="navbox-list-with-group navbox-list navbox-even hlist"
+						style="width:100%;padding:0;background:#F4F0EC">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><a href="/wiki/Stone_flaming" title="Stone flaming">Flaming</a></li>
+								<li><a href="/wiki/Flushwork" title="Flushwork">Flushwork</a></li>
+								<li><a href="/wiki/Knapping" title="Knapping">Knapping</a></li>
+								<li><a href="/wiki/Polygonal_masonry" title="Polygonal masonry">Polygonal masonry</a>
+								</li>
+								<li><a href="/wiki/Repointing" title="Repointing">Repointing</a></li>
+								<li><a href="/wiki/Scabbling" title="Scabbling">Scabbling</a></li>
+								<li><a href="/wiki/Tuckpointing" title="Tuckpointing">Tuckpointing</a></li>
+								<li><a href="/wiki/Masonry_veneer" title="Masonry veneer">Veneer</a></li>
+								<li><a href="/wiki/Brickwork" title="Brickwork">Brickwork</a>
+									<ul>
+										<li><a href="/wiki/Wythe" title="Wythe">Wythe</a></li>
+									</ul>
+								</li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+				<tr style="">
+					<th scope="row" class="navbox-group" style="width:1%">Products</th>
+					<td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><a href="/wiki/Castle" title="Castle">Castle</a></li>
+								<li><a href="/wiki/Hardstone_carving" title="Hardstone carving">Hardstone carving</a>
+								</li>
+								<li><a href="/wiki/Headstone" title="Headstone">Headstone</a> (<a href="/wiki/Footstone"
+										title="Footstone">Footstone</a>)</li>
+								<li><a href="/wiki/Mosaic" title="Mosaic">Mosaic</a></li>
+								<li><a href="/wiki/Stone_sculpture" title="Stone sculpture">Sculpture</a></li>
+								<li><a href="/wiki/Stone_wall" title="Stone wall">Stone wall</a></li>
+								<li><a href="/wiki/Machicolation" title="Machicolation">Machicolation</a></li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+				<tr style="">
+					<th scope="row" class="navbox-group" style="width:1%">Organizations</th>
+					<td class="navbox-list-with-group navbox-list navbox-even hlist"
+						style="width:100%;padding:0;background:#F4F0EC">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><a href="/wiki/International_Union_of_Bricklayers_and_Allied_Craftworkers"
+										title="International Union of Bricklayers and Allied Craftworkers">International
+										Union of Bricklayers and Allied Craftworkers</a></li>
+								<li><a href="/wiki/Master_of_Work_to_the_Crown_of_Scotland"
+										title="Master of Work to the Crown of Scotland">Master of Work to the Crown of
+										Scotland</a></li>
+								<li><a href="/wiki/Mason_Contractors_Association_of_America"
+										title="Mason Contractors Association of America">Mason Contractors Association
+										of America</a></li>
+								<li><a href="/wiki/Operative_Plasterers%27_and_Cement_Masons%27_International_Association"
+										title="Operative Plasterers' and Cement Masons' International Association">Operative
+										Plasterers' and Cement Masons' International Association</a></li>
+								<li><a href="/wiki/Worshipful_Company_of_Masons"
+										title="Worshipful Company of Masons">Worshipful Company of Masons</a></li>
 							</ul>
 						</div>
 					</td>
