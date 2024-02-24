@@ -1,6 +1,7 @@
 <?= $this->extend('layouts/wiki') ?>
 <?= $this->section('content') ?>
 <div class="container-fluid">
+	<!-- philosophy -->
 	<div role="navigation" class="navbox" aria-labelledby="Philosophy" style="padding:3px">
 		<table class="nowraplinks hlist mw-collapsible navbox-inner mw-made-collapsible"
 			style="border-spacing:0;background:transparent;color:inherit">
@@ -108,8 +109,8 @@
 												</tr>
 												<tr>
 													<th scope="row" class="navbox-group" style="width:6.8em"><a
-															href="/wiki/Aesthetics"
-															title="Aesthetics">Aesthetics</a></th>
+															href="/wiki/Aesthetics" title="Aesthetics">Aesthetics</a>
+													</th>
 													<td class="navbox-list-with-group navbox-list navbox-even"
 														style="padding:0">
 														<div style="padding:0 0.25em">
@@ -137,8 +138,8 @@
 															<ul>
 																<li><a href="/wiki/Empiricism"
 																		title="Empiricism">Empiricism</a></li>
-																<li><a href="/wiki/Fideism"
-																		title="Fideism">Fideism</a></li>
+																<li><a href="/wiki/Fideism" title="Fideism">Fideism</a>
+																</li>
 																<li><a href="/wiki/Naturalized_epistemology"
 																		title="Naturalized epistemology">Naturalism</a>
 																</li>
@@ -210,14 +211,14 @@
 												</tr>
 												<tr>
 													<th scope="row" class="navbox-group" style="width:6.8em"><a
-															href="/wiki/Metaphysics"
-															title="Metaphysics">Metaphysics</a></th>
+															href="/wiki/Metaphysics" title="Metaphysics">Metaphysics</a>
+													</th>
 													<td class="navbox-list-with-group navbox-list navbox-even"
 														style="padding:0">
 														<div style="padding:0 0.25em">
 															<ul>
-																<li><a href="/wiki/Atomism"
-																		title="Atomism">Atomism</a></li>
+																<li><a href="/wiki/Atomism" title="Atomism">Atomism</a>
+																</li>
 																<li><a href="/wiki/Mind%E2%80%93body_dualism"
 																		title="Mind–body dualism">Dualism</a></li>
 																<li><a href="/wiki/Idealism"
@@ -1461,8 +1462,7 @@
 													src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Socrates.png/10px-Socrates.png"
 													decoding="async" width="10" height="16" class="mw-file-element"
 													srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Socrates.png/15px-Socrates.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Socrates.png/21px-Socrates.png 2x"
-													data-file-width="326"
-													data-file-height="500"></span></span>&nbsp;<a
+													data-file-width="326" data-file-height="500"></span></span>&nbsp;<a
 											href="/wiki/Portal:Philosophy" title="Portal:Philosophy">Philosophy
 											portal</a></b></li>
 								<li><b><span class="noviewer" typeof="mw:File"><span title="Category"><img alt=""
@@ -1479,6 +1479,7 @@
 			</tbody>
 		</table>
 	</div>
+	<!-- ethics -->
 	<div role="navigation" class="navbox" aria-labelledby="Ethics" style="padding:3px">
 		<table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner mw-made-collapsible"
 			style="border-spacing:0;background:transparent;color:inherit">
@@ -1505,8 +1506,8 @@
 								</li>
 							</ul>
 						</div>
-						<div id="Ethics" style="font-size:114%;margin:0 4em"><a
-								class="mw-selflink selflink">Ethics</a></div>
+						<div id="Ethics" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Ethics</a>
+						</div>
 					</th>
 				</tr>
 				<tr style="">
@@ -1520,8 +1521,8 @@
 								<li><a href="/wiki/Deontological_ethics" class="mw-redirect"
 										title="Deontological ethics">Deontology</a></li>
 								<li><a href="/wiki/Ethics_of_care" title="Ethics of care">Care</a></li>
-								<li><a href="/wiki/Moral_particularism"
-										title="Moral particularism">Particularism</a></li>
+								<li><a href="/wiki/Moral_particularism" title="Moral particularism">Particularism</a>
+								</li>
 								<li><a href="/wiki/Pragmatic_ethics" title="Pragmatic ethics">Pragmatic</a></li>
 								<li><a href="/wiki/Role_ethics" title="Role ethics">Role</a></li>
 								<li><a href="/wiki/Suffering-focused_ethics"
@@ -1546,8 +1547,8 @@
 								<li><a href="/wiki/Discourse_ethics" title="Discourse ethics">Discourse</a></li>
 								<li><a href="/wiki/Engineering_ethics" title="Engineering ethics">Engineering</a>
 								</li>
-								<li><a href="/wiki/Environmental_ethics"
-										title="Environmental ethics">Environmental</a></li>
+								<li><a href="/wiki/Environmental_ethics" title="Environmental ethics">Environmental</a>
+								</li>
 								<li><a href="/wiki/Legal_ethics" title="Legal ethics">Legal</a></li>
 								<li><a href="/wiki/Machine_ethics" title="Machine ethics">Machine</a></li>
 								<li><a href="/wiki/Ethics_of_eating_meat" title="Ethics of eating meat">Meat
@@ -1576,8 +1577,7 @@
 							<ul>
 								<li><a href="/wiki/Moral_absolutism" title="Moral absolutism">Absolutism</a></li>
 								<li><a href="/wiki/Axiological_ethics" title="Axiological ethics">Axiology</a></li>
-								<li><a href="/wiki/Cognitivism_(ethics)"
-										title="Cognitivism (ethics)">Cognitivism</a>
+								<li><a href="/wiki/Cognitivism_(ethics)" title="Cognitivism (ethics)">Cognitivism</a>
 									<ul>
 										<li><a href="/wiki/Moral_realism" title="Moral realism">Realism</a>
 											<ul>
@@ -1598,10 +1598,10 @@
 										</li>
 									</ul>
 								</li>
-								<li><a href="/wiki/Moral_constructivism"
-										title="Moral constructivism">Constructivism</a></li>
-								<li><a href="/wiki/Ethical_intuitionism"
-										title="Ethical intuitionism">Intuitionism</a></li>
+								<li><a href="/wiki/Moral_constructivism" title="Moral constructivism">Constructivism</a>
+								</li>
+								<li><a href="/wiki/Ethical_intuitionism" title="Ethical intuitionism">Intuitionism</a>
+								</li>
 								<li><a href="/wiki/Moral_nihilism" title="Moral nihilism">Nihilism</a></li>
 								<li><a href="/wiki/Non-cognitivism" title="Non-cognitivism">Non-cognitivism</a>
 									<ul>
@@ -1640,8 +1640,8 @@
 								<li><a href="/wiki/Islamic_ethics" title="Islamic ethics">Islamic</a></li>
 								<li><a href="/wiki/Jewish_ethics" title="Jewish ethics">Jewish</a></li>
 								<li><a href="/wiki/Kantian_ethics" title="Kantian ethics">Kantian</a></li>
-								<li><a href="/wiki/Rousseauism" class="mw-redirect"
-										title="Rousseauism">Rousseauian</a></li>
+								<li><a href="/wiki/Rousseauism" class="mw-redirect" title="Rousseauism">Rousseauian</a>
+								</li>
 								<li><a href="/wiki/Stoicism" title="Stoicism">Stoic</a></li>
 								<li><a href="/wiki/Taoism" title="Taoism">Tao</a></li>
 							</ul>
@@ -1702,8 +1702,7 @@
 								<li><a href="/wiki/Theodicy" title="Theodicy">Theodicy</a></li>
 								<li><a href="/wiki/Trust_(social_science)" title="Trust (social science)">Trust</a>
 								</li>
-								<li><a href="/wiki/Value_(ethics)" class="mw-redirect"
-										title="Value (ethics)">Value</a>
+								<li><a href="/wiki/Value_(ethics)" class="mw-redirect" title="Value (ethics)">Value</a>
 									<ul>
 										<li><a href="/wiki/Intrinsic_value_(ethics)"
 												title="Intrinsic value (ethics)">Intrinsic</a></li>
@@ -1810,8 +1809,8 @@
 										Landscape</a></li>
 								<li><a href="/wiki/Nicomachean_Ethics" title="Nicomachean Ethics">Nicomachean
 										Ethics</a></li>
-								<li><a href="/wiki/On_the_Genealogy_of_Morality"
-										title="On the Genealogy of Morality">On the Genealogy of Morality</a></li>
+								<li><a href="/wiki/On_the_Genealogy_of_Morality" title="On the Genealogy of Morality">On
+										the Genealogy of Morality</a></li>
 								<li><a href="/wiki/The_Philosophy_of_Freedom" title="The Philosophy of Freedom">The
 										Philosophy of Freedom</a></li>
 								<li><a href="/wiki/Practical_Ethics" title="Practical Ethics">Practical Ethics</a>
@@ -1879,6 +1878,7 @@
 			</tbody>
 		</table>
 	</div>
+	<!-- aesthetics -->
 	<div role="navigation" class="navbox" aria-labelledby="Aesthetics" style="padding:3px">
 		<table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner mw-made-collapsible"
 			style="border-spacing:0;background:transparent;color:inherit">
@@ -1900,8 +1900,7 @@
 											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a>
 								</li>
 								<li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Aesthetics"
-										title="Special:EditPage/Template:Aesthetics"><abbr
-											title="Edit this template"
+										title="Special:EditPage/Template:Aesthetics"><abbr title="Edit this template"
 											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a>
 								</li>
 							</ul>
@@ -1930,8 +1929,8 @@
 								</li>
 								<li><a href="/wiki/Aesthetics_of_science" title="Aesthetics of science">Science</a>
 								</li>
-								<li><a href="/wiki/Theological_aesthetics"
-										title="Theological aesthetics">Theology</a></li>
+								<li><a href="/wiki/Theological_aesthetics" title="Theological aesthetics">Theology</a>
+								</li>
 							</ul>
 						</div>
 					</td>
@@ -1976,8 +1975,8 @@
 								<li><a href="/wiki/Aristotle" title="Aristotle">Aristotle</a></li>
 								<li><a href="/wiki/Thomas_Aquinas" title="Thomas Aquinas">Aquinas</a></li>
 								<li><a href="/wiki/B%C3%A9la_Bal%C3%A1zs" title="Béla Balázs">Balázs</a></li>
-								<li><a href="/wiki/Hans_Urs_von_Balthasar"
-										title="Hans Urs von Balthasar">Balthasar</a></li>
+								<li><a href="/wiki/Hans_Urs_von_Balthasar" title="Hans Urs von Balthasar">Balthasar</a>
+								</li>
 								<li><a href="/wiki/Charles_Baudelaire" title="Charles Baudelaire">Baudelaire</a>
 								</li>
 								<li><a href="/wiki/Jean_Baudrillard" title="Jean Baudrillard">Baudrillard</a></li>
@@ -2013,8 +2012,8 @@
 								<li><a href="/wiki/Susanne_Langer" title="Susanne Langer">Langer</a></li>
 								<li><a href="/wiki/Theodor_Lipps" title="Theodor Lipps">Lipps</a></li>
 								<li><a href="/wiki/Gy%C3%B6rgy_Luk%C3%A1cs" title="György Lukács">Lukács</a></li>
-								<li><a href="/wiki/Jean-Fran%C3%A7ois_Lyotard"
-										title="Jean-François Lyotard">Lyotard</a></li>
+								<li><a href="/wiki/Jean-Fran%C3%A7ois_Lyotard" title="Jean-François Lyotard">Lyotard</a>
+								</li>
 								<li><a href="/wiki/Paul_de_Man" title="Paul de Man">Man</a></li>
 								<li><a href="/wiki/Jacques_Maritain" title="Jacques Maritain">Maritain</a></li>
 								<li><a href="/wiki/Maurice_Merleau-Ponty"
@@ -2035,8 +2034,8 @@
 								</li>
 								<li><a href="/wiki/Roger_Scruton" title="Roger Scruton">Scruton</a></li>
 								<li><a href="/wiki/Rabindranath_Tagore" title="Rabindranath Tagore">Tagore</a></li>
-								<li><a href="/wiki/Jun%27ichir%C5%8D_Tanizaki"
-										title="Jun'ichirō Tanizaki">Tanizaki</a></li>
+								<li><a href="/wiki/Jun%27ichir%C5%8D_Tanizaki" title="Jun'ichirō Tanizaki">Tanizaki</a>
+								</li>
 								<li><a href="/wiki/Giorgio_Vasari" title="Giorgio Vasari">Vasari</a></li>
 								<li><a href="/wiki/Oscar_Wilde" title="Oscar Wilde">Wilde</a></li>
 								<li><a href="/wiki/Johann_Joachim_Winckelmann"
@@ -2052,8 +2051,8 @@
 					<td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0">
 						<div style="padding:0 0.25em">
 							<ul>
-								<li><a href="/wiki/Appropriation_(art)"
-										title="Appropriation (art)">Appropriation</a></li>
+								<li><a href="/wiki/Appropriation_(art)" title="Appropriation (art)">Appropriation</a>
+								</li>
 								<li><a href="/wiki/Art_for_art%27s_sake" title="Art for art's sake">Art for art's
 										sake</a></li>
 								<li><a href="/wiki/Art_manifesto" title="Art manifesto">Art manifesto</a></li>
@@ -2122,12 +2121,12 @@
 										Aesthetic Dimension</a></li>
 								<li><a href="/wiki/Art_as_Experience" title="Art as Experience">Art as
 										Experience</a></li>
-								<li><a href="/wiki/Avant-Garde_and_Kitsch"
-										title="Avant-Garde and Kitsch">Avant-Garde and Kitsch</a></li>
+								<li><a href="/wiki/Avant-Garde_and_Kitsch" title="Avant-Garde and Kitsch">Avant-Garde
+										and Kitsch</a></li>
 								<li><a href="/wiki/The_Critic_as_Artist" title="The Critic as Artist">The Critic as
 										Artist</a></li>
-								<li><a href="/wiki/Critical_Essays_(Orwell)"
-										title="Critical Essays (Orwell)">Critical Essays</a></li>
+								<li><a href="/wiki/Critical_Essays_(Orwell)" title="Critical Essays (Orwell)">Critical
+										Essays</a></li>
 								<li><a href="/wiki/Hippias_Major" title="Hippias Major">Hippias Major</a></li>
 								<li><a href="/wiki/Lectures_on_Aesthetics" title="Lectures on Aesthetics">Lectures
 										on Aesthetics</a></li>
@@ -2162,8 +2161,8 @@
 										aesthetics</a></li>
 								<li><a href="/wiki/Arts_criticism" title="Arts criticism">Arts criticism</a></li>
 								<li><a href="/wiki/Axiology" title="Axiology">Axiology</a></li>
-								<li><a href="/wiki/Evolutionary_aesthetics"
-										title="Evolutionary aesthetics">Evolutionary aesthetics</a></li>
+								<li><a href="/wiki/Evolutionary_aesthetics" title="Evolutionary aesthetics">Evolutionary
+										aesthetics</a></li>
 								<li><a href="/wiki/Mathematical_beauty" title="Mathematical beauty">Mathematical
 										beauty</a></li>
 								<li><a href="/wiki/Neuroesthetics" title="Neuroesthetics">Neuroesthetics</a></li>
@@ -2318,8 +2317,8 @@
 									</ul>
 								</li>
 								<li><a href="/wiki/Tessellation" title="Tessellation">Tessellation</a></li>
-								<li><a href="/wiki/K%C3%A1rm%C3%A1n_vortex_street"
-										title="Kármán vortex street">Vortex street</a></li>
+								<li><a href="/wiki/K%C3%A1rm%C3%A1n_vortex_street" title="Kármán vortex street">Vortex
+										street</a></li>
 								<li><a href="/wiki/Wave" title="Wave">Wave</a></li>
 								<li><a href="/wiki/Widmanst%C3%A4tten_pattern"
 										title="Widmanstätten pattern">Widmanstätten pattern</a></li>
@@ -2356,8 +2355,8 @@
 									<ul>
 										<li><a href="/wiki/Chaos_theory" title="Chaos theory">Chaos theory</a></li>
 										<li><a href="/wiki/Fractal" title="Fractal">Fractal</a></li>
-										<li><a href="/wiki/Logarithmic_spiral"
-												title="Logarithmic spiral">Logarithmic spiral</a></li>
+										<li><a href="/wiki/Logarithmic_spiral" title="Logarithmic spiral">Logarithmic
+												spiral</a></li>
 									</ul>
 								</li>
 								<li><a href="/wiki/Physics" title="Physics">Physics</a>
@@ -2393,8 +2392,8 @@
 								<li><a href="/wiki/Ernst_Haeckel" title="Ernst Haeckel">Ernst Haeckel</a></li>
 								<li><a href="/wiki/Joseph_Plateau" title="Joseph Plateau">Joseph Plateau</a></li>
 								<li><a href="/wiki/Wilson_Bentley" title="Wilson Bentley">Wilson Bentley</a></li>
-								<li><a href="/wiki/D%27Arcy_Wentworth_Thompson"
-										title="D'Arcy Wentworth Thompson">D'Arcy Wentworth Thompson</a>
+								<li><a href="/wiki/D%27Arcy_Wentworth_Thompson" title="D'Arcy Wentworth Thompson">D'Arcy
+										Wentworth Thompson</a>
 									<ul>
 										<li><i><a href="/wiki/On_Growth_and_Form" title="On Growth and Form">On
 													Growth and Form</a></i></li>
@@ -2517,14 +2516,13 @@
 											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a>
 								</li>
 								<li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Chaos_theory"
-										title="Special:EditPage/Template:Chaos theory"><abbr
-											title="Edit this template"
+										title="Special:EditPage/Template:Chaos theory"><abbr title="Edit this template"
 											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a>
 								</li>
 							</ul>
 						</div>
-						<div id="Chaos_theory" style="font-size:114%;margin:0 4em"><a
-								class="mw-selflink selflink">Chaos theory</a></div>
+						<div id="Chaos_theory" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Chaos
+								theory</a></div>
 					</th>
 				</tr>
 				<tr style="">
@@ -2546,10 +2544,10 @@
 														title="Bifurcation theory">Bifurcation</a></li>
 												<li><a href="/wiki/Fractal" title="Fractal">Fractal</a></li>
 												<li><a href="/wiki/Limit_set" title="Limit set">Limit set</a></li>
-												<li><a href="/wiki/Lyapunov_exponent"
-														title="Lyapunov exponent">Lyapunov exponent</a></li>
-												<li><a href="/wiki/Orbit_(dynamics)"
-														title="Orbit (dynamics)">Orbit</a></li>
+												<li><a href="/wiki/Lyapunov_exponent" title="Lyapunov exponent">Lyapunov
+														exponent</a></li>
+												<li><a href="/wiki/Orbit_(dynamics)" title="Orbit (dynamics)">Orbit</a>
+												</li>
 												<li><a href="/wiki/Periodic_point" title="Periodic point">Periodic
 														point</a></li>
 												<li><a href="/wiki/Phase_space" title="Phase space">Phase space</a>
@@ -2595,8 +2593,8 @@
 														title="Mixing (mathematics)">Mixing</a></li>
 												<li><a href="/wiki/Poincar%C3%A9_section" class="mw-redirect"
 														title="Poincaré section">Poincaré section</a></li>
-												<li><a href="/wiki/Recurrence_plot"
-														title="Recurrence plot">Recurrence plot</a></li>
+												<li><a href="/wiki/Recurrence_plot" title="Recurrence plot">Recurrence
+														plot</a></li>
 												<li><a href="/wiki/SRB_measure" class="mw-redirect"
 														title="SRB measure">SRB measure</a></li>
 												<li><a href="/wiki/Stable_manifold" title="Stable manifold">Stable
@@ -2632,8 +2630,8 @@
 												<li><a href="/wiki/Stable_manifold_theorem"
 														title="Stable manifold theorem">Stable manifold theorem</a>
 												</li>
-												<li><a href="/wiki/Takens%27s_theorem"
-														title="Takens's theorem">Takens's theorem</a></li>
+												<li><a href="/wiki/Takens%27s_theorem" title="Takens's theorem">Takens's
+														theorem</a></li>
 											</ul>
 										</div>
 									</td>
@@ -2698,8 +2696,8 @@
 										style="width:100%;padding:0">
 										<div style="padding:0 0.25em">
 											<ul>
-												<li><a href="/wiki/Arnold%27s_cat_map"
-														title="Arnold's cat map">Arnold's cat map</a></li>
+												<li><a href="/wiki/Arnold%27s_cat_map" title="Arnold's cat map">Arnold's
+														cat map</a></li>
 												<li><a href="/wiki/Baker%27s_map" title="Baker's map">Baker's
 														map</a></li>
 												<li><a href="/wiki/Complex_quadratic_polynomial"
@@ -2721,8 +2719,8 @@
 												<li><a href="/wiki/Exponential_map_(discrete_dynamical_systems)"
 														title="Exponential map (discrete dynamical systems)">Exponential
 														map</a></li>
-												<li><a href="/wiki/Gauss_iterated_map"
-														title="Gauss iterated map">Gauss map</a></li>
+												<li><a href="/wiki/Gauss_iterated_map" title="Gauss iterated map">Gauss
+														map</a></li>
 												<li><a href="/wiki/Gingerbreadman_map"
 														title="Gingerbreadman map">Gingerbreadman map</a></li>
 												<li><a href="/wiki/H%C3%A9non_map" title="Hénon map">Hénon map</a>
@@ -2763,8 +2761,8 @@
 												<li><a href="/wiki/Double_scroll_attractor" class="mw-redirect"
 														title="Double scroll attractor">Double scroll attractor</a>
 												</li>
-												<li><a href="/wiki/Duffing_equation"
-														title="Duffing equation">Duffing equation</a></li>
+												<li><a href="/wiki/Duffing_equation" title="Duffing equation">Duffing
+														equation</a></li>
 												<li><a href="/wiki/Lorenz_system" title="Lorenz system">Lorenz
 														system</a></li>
 												<li><a href="/wiki/Lotka%E2%80%93Volterra_equations"
@@ -2825,8 +2823,8 @@
 					<td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0">
 						<div style="padding:0 0.25em">
 							<ul>
-								<li><a href="/wiki/Michael_Berry_(physicist)"
-										title="Michael Berry (physicist)">Michael Berry</a></li>
+								<li><a href="/wiki/Michael_Berry_(physicist)" title="Michael Berry (physicist)">Michael
+										Berry</a></li>
 								<li><a href="/wiki/Rufus_Bowen" title="Rufus Bowen">Rufus Bowen</a></li>
 								<li><a href="/wiki/Mary_Cartwright" title="Mary Cartwright">Mary Cartwright</a></li>
 								<li><a href="/wiki/Chen_Guanrong" title="Chen Guanrong">Chen Guanrong</a></li>
@@ -2971,8 +2969,7 @@
 											title="Discuss this template"
 											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a>
 								</li>
-								<li class="nv-edit"><a
-										href="/wiki/Special:EditPage/Template:Unintended_consequences"
+								<li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Unintended_consequences"
 										title="Special:EditPage/Template:Unintended consequences"><abbr
 											title="Edit this template"
 											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a>
@@ -2999,8 +2996,8 @@
 										effect</a></li>
 								<li><a href="/wiki/CSI_effect" title="CSI effect">CSI effect</a></li>
 								<li><a href="/wiki/Externality" title="Externality">Externality</a></li>
-								<li><a href="/wiki/Excess_burden_of_taxation"
-										title="Excess burden of taxation">Excess burden of taxation</a></li>
+								<li><a href="/wiki/Excess_burden_of_taxation" title="Excess burden of taxation">Excess
+										burden of taxation</a></li>
 								<li><a href="/wiki/Four_Pests_campaign" title="Four Pests campaign">Four Pests
 										campaign</a></li>
 								<li><a href="/wiki/Goodhart%27s_law" title="Goodhart's law">Goodhart's law</a></li>
@@ -3038,6 +3035,165 @@
 										the commons</a></li>
 								<li><a href="/wiki/Tyranny_of_small_decisions"
 										title="Tyranny of small decisions">Tyranny of small decisions</a></li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<!-- religious texts -->
+	<div role="navigation" class="navbox" aria-labelledby="Religious_texts_(List)" style="padding:3px">
+		<table class="nowraplinks mw-collapsible autocollapse navbox-inner mw-made-collapsible"
+			style="border-spacing:0;background:transparent;color:inherit">
+			<tbody>
+				<tr>
+					<th scope="col" class="navbox-title" colspan="2"><button type="button"
+							class="mw-collapsible-toggle mw-collapsible-toggle-default mw-collapsible-toggle-expanded"
+							aria-expanded="true" tabindex="0"><span class="mw-collapsible-text">hide</span></button>
+						<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374">
+						<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349">
+						<div class="navbar plainlinks hlist navbar-mini">
+							<ul>
+								<li class="nv-view"><a href="/wiki/Template:Religious_books"
+										title="Template:Religious books"><abbr title="View this template"
+											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a>
+								</li>
+								<li class="nv-talk"><a href="/wiki/Template_talk:Religious_books"
+										title="Template talk:Religious books"><abbr title="Discuss this template"
+											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a>
+								</li>
+								<li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Religious_books"
+										title="Special:EditPage/Template:Religious books"><abbr
+											title="Edit this template"
+											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a>
+								</li>
+							</ul>
+						</div>
+						<div id="Religious_texts_(List)" style="font-size:114%;margin:0 4em"><a
+								href="/wiki/Religious_text" title="Religious text">Religious texts</a> (<a
+								href="/wiki/List_of_religious_texts" title="List of religious texts">List</a>)</div>
+					</th>
+				</tr>
+				<tr style="">
+					<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ancient_history"
+							title="Ancient history">Antiquity</a></th>
+					<td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><a href="/wiki/Pyramid_Texts" title="Pyramid Texts">Pyramid Texts</a> (Egyptian
+									religion)</li>
+								<li><a href="/wiki/Vedas" title="Vedas">Vedas</a> (Hinduism)</li>
+								<li><a href="/wiki/Jain_Agamas_(Digambara)" class="mw-redirect"
+										title="Jain Agamas (Digambara)">Agamas</a> (Jainism)</li>
+								<li><a class="mw-selflink selflink">Avesta</a> (Zoroastrian)</li>
+								<li><i><a href="/wiki/Tao_Te_Ching" title="Tao Te Ching">Tao Te Ching</a></i> and <i><a
+											href="/wiki/Zhuangzi_(book)" title="Zhuangzi (book)">Zhuangzi</a></i>
+									(Taoist)</li>
+								<li><a href="/wiki/Tripi%E1%B9%ADaka" title="Tripiṭaka">Tripiṭaka</a> (Buddhist)</li>
+								<li><a href="/wiki/Bible" title="Bible">Bible</a> (Judaism, Christianity)
+									<ul>
+										<li><a href="/wiki/Hebrew_Bible" title="Hebrew Bible">Tanakh</a> (Judaism)
+											<ul>
+												<li><a href="/wiki/Samaritan_Pentateuch"
+														title="Samaritan Pentateuch">Samaritan Torah</a> (Samaritanism)
+												</li>
+												<li><a href="/wiki/Deuterocanonical_books"
+														title="Deuterocanonical books">Deuterocanon</a> (Roman
+													Catholicism, Eastern Christianity)</li>
+											</ul>
+										</li>
+										<li><a href="/wiki/New_Testament" title="New Testament">New Testament</a>
+											(Christianity)</li>
+									</ul>
+								</li>
+								<li><a href="/wiki/Bhagavad_Gita" title="Bhagavad Gita">Bhagavad Gita</a> (Hinduism)
+								</li>
+								<li><i><a href="/wiki/Metamorphoses" title="Metamorphoses">Metamorphoses</a></i> (Roman
+									polytheism)</li>
+								<li><a href="/wiki/Nag_Hammadi_library" title="Nag Hammadi library">Nag Hammadi
+										library</a> (Gnosticism)</li>
+								<li><a href="/wiki/Talmud" title="Talmud">Talmud</a> (Judaism)</li>
+								<li><a href="/wiki/Theogony" title="Theogony">Theogony</a> (Greek polytheism)</li>
+								<li><a href="/wiki/Upanishads" title="Upanishads">Upanishads</a> (Hinduism)</li>
+								<li><a href="/wiki/The_Enneads" class="mw-redirect" title="The Enneads">Enneads</a>
+									(Neoplatonism)</li>
+								<li><a href="/wiki/Divine_Liturgy" title="Divine Liturgy">Divine Liturgy</a> (Eastern
+									Christianity)</li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+				<tr style="">
+					<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Middle_Ages"
+							title="Middle Ages">Medieval</a></th>
+					<td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><a href="/wiki/Puranas" title="Puranas">Puranas</a> (Hinduism)
+									<ul>
+										<li><a href="/wiki/Puya_(Meitei_texts)" title="Puya (Meitei texts)">Puya</a>
+											(Sanamahism)</li>
+									</ul>
+								</li>
+								<li><a href="/wiki/Quran" title="Quran">Quran</a> (Islam)</li>
+								<li><a href="/wiki/Kojiki" title="Kojiki">Kojiki</a> (Shinto)</li>
+								<li><a href="/wiki/Ambrosian_hymns" title="Ambrosian hymns">Ambrosian Hymnal</a> (Roman
+									Catholicism)</li>
+								<li><a href="/wiki/Hadith" title="Hadith">Hadith</a> (Islam)</li>
+								<li><a href="/wiki/Summa_Theologica" title="Summa Theologica">Summa Theologica</a>
+									(Roman Catholicism)</li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+				<tr style="">
+					<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Early_modern"
+							class="mw-redirect" title="Early modern">Early modern</a></th>
+					<td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><a href="/wiki/Guru_Granth_Sahib" title="Guru Granth Sahib">Guru Granth Sahib</a>
+									(Sikh)</li>
+								<li><a href="/wiki/Luther%27s_Large_Catechism" title="Luther's Large Catechism">Luther's
+										Large Catechism</a> (Lutheranism)</li>
+								<li><a href="/wiki/Augsburg_Confession" title="Augsburg Confession">Augsburg
+										Confession</a> (Protestantism)</li>
+								<li><a href="/wiki/Heidelberg_Catechism" title="Heidelberg Catechism">Heidelberg
+										Catechism</a> (Protestantism)</li>
+								<li><i><a href="/wiki/Book_of_Common_Prayer" title="Book of Common Prayer">Book of
+											Common Prayer</a></i> (Anglicanism)</li>
+								<li><a href="/wiki/Roman_Missal" title="Roman Missal">Roman Missal</a> (Roman
+									Catholicism)</li>
+								<li><a href="/wiki/Roman_Catechism" title="Roman Catechism">Roman Catechism</a> (Roman
+									Catholicism)</li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+				<tr style="">
+					<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Modernity"
+							title="Modernity">Modern</a></th>
+					<td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><a href="/wiki/Book_of_Mormon" title="Book of Mormon">Book of Mormon</a> (Mormonism)
+								</li>
+								<li><a href="/wiki/Ofudesaki" title="Ofudesaki">Ofudesaki</a> (Tenrikyo)</li>
+								<li><i><a href="/wiki/Kit%C3%A1b-i-Aqdas" title="Kitáb-i-Aqdas">Kitáb-i-Aqdas</a></i>
+									(Baha'i)</li>
+								<li><i><a href="/wiki/Liber_AL_vel_Legis" class="mw-redirect"
+											title="Liber AL vel Legis">Liber AL vel Legis</a></i> (Thelemite)</li>
+								<li><a href="/wiki/Book_of_Shadows" title="Book of Shadows">Book of Shadows</a> (Wiccan)
+								</li>
+								<li><i><a href="/wiki/Dianetics:_The_Modern_Science_of_Mental_Health"
+											title="Dianetics: The Modern Science of Mental Health">Dianetics</a></i>
+									(Scientologist)</li>
+								<li><i><a href="/wiki/The_Satanic_Bible" title="The Satanic Bible">The Satanic
+											Bible</a></i> (Satanist)</li>
+								<li><a href="/wiki/Geniocracy" title="Geniocracy">Geniocracy</a> (Raelian)</li>
+								<li><a href="/wiki/Catechism_of_the_Catholic_Church"
+										title="Catechism of the Catholic Church">Catechism</a> (Roman Catholicism)</li>
 							</ul>
 						</div>
 					</td>
