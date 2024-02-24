@@ -820,6 +820,290 @@
 			</tbody>
 		</table>
 	</div>
+	<!-- major chess tournament -->
+	<div role="navigation" class="navbox" aria-labelledby="Major_recurring_international_chess_tournaments"
+		style="padding:3px">
+		<table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner mw-made-collapsible"
+			style="border-spacing:0;background:transparent;color:inherit">
+			<tbody>
+				<tr>
+					<th scope="col" class="navbox-title" colspan="2"><button type="button"
+							class="mw-collapsible-toggle mw-collapsible-toggle-default mw-collapsible-toggle-expanded"
+							aria-expanded="true" tabindex="0"><span class="mw-collapsible-text">hide</span></button>
+						<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374">
+						<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349">
+						<div class="navbar plainlinks hlist navbar-mini">
+							<ul>
+								<li class="nv-view"><a href="/wiki/Template:Chess_tournaments"
+										title="Template:Chess tournaments"><abbr title="View this template"
+											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a>
+								</li>
+								<li class="nv-talk"><a href="/wiki/Template_talk:Chess_tournaments"
+										title="Template talk:Chess tournaments"><abbr title="Discuss this template"
+											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a>
+								</li>
+								<li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Chess_tournaments"
+										title="Special:EditPage/Template:Chess tournaments"><abbr
+											title="Edit this template"
+											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a>
+								</li>
+							</ul>
+						</div>
+						<div id="Major_recurring_international_chess_tournaments" style="font-size:114%;margin:0 4em">
+							Major recurring international <a href="/wiki/Chess_tournament"
+								title="Chess tournament">chess tournaments</a></div>
+					</th>
+				</tr>
+				<tr style="">
+					<td class="navbox-abovebelow" colspan="2">
+						<div>
+							<ul>
+								<li><a href="/wiki/List_of_strong_chess_tournaments"
+										title="List of strong chess tournaments">Strong chess tournaments</a></li>
+								<li><a href="/wiki/List_of_mini_chess_tournaments"
+										title="List of mini chess tournaments">Mini chess tournaments</a></li>
+								<li><a href="/wiki/List_of_round-robin_chess_tournaments"
+										title="List of round-robin chess tournaments">Round-robin chess tournaments</a>
+								</li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+				<tr style="">
+					<th scope="row" class="navbox-group" style="width:1%">Major present<br><span
+							style="font-size:85%;">(average <a href="/wiki/FIDE_world_rankings" class="mw-redirect"
+								title="FIDE world rankings">rating</a> &gt; 2700;<br><a
+								href="/wiki/Round-robin_tournament" title="Round-robin tournament">round-robin
+								system</a> generally)</span></th>
+					<td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><a href="/wiki/Dortmund_Sparkassen_Chess_Meeting"
+										title="Dortmund Sparkassen Chess Meeting">Dortmund Sparkassen Chess Meeting</a>
+									<span style="font-size:85%;">(since 1973)</span></li>
+								<li><a href="/wiki/Grand_Chess_Tour" title="Grand Chess Tour">Grand Chess Tour</a> <span
+										style="font-size:85%;">(since 2015)</span></li>
+								<li><a href="/wiki/Grenke_Chess_Classic" title="Grenke Chess Classic">Grenke Chess
+										Classic</a> <span style="font-size:85%;">(since 2013)</span></li>
+								<li><a href="/wiki/London_Chess_Classic" title="London Chess Classic">London Chess
+										Classic</a> <span style="font-size:85%;">(since 2009)</span></li>
+								<li><a href="/wiki/Norway_Chess" title="Norway Chess">Norway Chess</a> <span
+										style="font-size:85%;">(since 2013)</span></li>
+								<li><a href="/wiki/Shamkir_Chess" title="Shamkir Chess">Shamkir Chess</a> <span
+										style="font-size:85%;">(since 2014)</span></li>
+								<li><a href="/wiki/Shenzhen_Masters" title="Shenzhen Masters">Shenzhen Masters</a> <span
+										style="font-size:85%;">(since 2017)</span></li>
+								<li><a href="/wiki/Sinquefield_Cup" title="Sinquefield Cup">Sinquefield Cup</a> <span
+										style="font-size:85%;">(since 2013)</span></li>
+								<li><a class="mw-selflink selflink">Tata Steel Chess Tournament</a> <span
+										style="font-size:85%;">(since 1938)</span></li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+				<tr style="">
+					<th scope="row" class="navbox-group" style="width:1%">Other present<br><span
+							style="font-size:85%;">(<a href="/wiki/Swiss-system_tournament"
+								title="Swiss-system tournament">Swiss system</a> generally)</span></th>
+					<td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><a href="/wiki/Aeroflot_Open" title="Aeroflot Open">Aeroflot Open</a> <span
+										style="font-size:85%;">(since 2002)</span></li>
+								<li><a href="/wiki/Australasian_Masters" title="Australasian Masters">Australasian
+										Masters</a> <span style="font-size:85%;">(since 1987)</span></li>
+								<li><a href="/wiki/Biel_Chess_Festival" title="Biel Chess Festival">Biel Chess
+										Festival</a> <span style="font-size:85%;">(since 1968)</span></li>
+								<li><a href="/wiki/Canadian_Open_Chess_Championship"
+										title="Canadian Open Chess Championship">Canadian Open</a> <span
+										style="font-size:85%;">(since 1956)</span></li>
+								<li><a href="/wiki/Capablanca_Memorial" title="Capablanca Memorial">Capablanca
+										Memorial</a> <span style="font-size:85%;">(since 1962)</span></li>
+								<li><a href="/wiki/Cappelle-la-Grande_Open"
+										title="Cappelle-la-Grande Open">Cappelle-la-Grande Open</a> <span
+										style="font-size:85%;">(since 1985)</span></li>
+								<li><a href="/wiki/Carlos_Torre_Repetto_Memorial"
+										title="Carlos Torre Repetto Memorial">Carlos Torre Repetto Memorial</a> <span
+										style="font-size:85%;">(since 1987)</span></li>
+								<li><a href="/wiki/Chigorin_Memorial" title="Chigorin Memorial">Chigorin Memorial</a>
+									<span style="font-size:85%;">(since 1909)</span></li>
+								<li><a href="/wiki/Doeberl_Cup" title="Doeberl Cup">Doeberl Cup</a> <span
+										style="font-size:85%;">(since 1963)</span></li>
+								<li><a href="/wiki/Dubai_Open_Chess_Tournament"
+										title="Dubai Open Chess Tournament">Dubai Open</a> <span
+										style="font-size:85%;">(since 1999)</span></li>
+								<li><a href="/wiki/Gibraltar_Chess_Festival" title="Gibraltar Chess Festival">Gibraltar
+										Chess Festival</a> <span style="font-size:85%;">(since 2003)</span></li>
+								<li><a href="/wiki/Hastings_International_Chess_Congress"
+										title="Hastings International Chess Congress">Hastings International Chess
+										Congress</a> <span style="font-size:85%;">(since 1920)</span></li>
+								<li><a href="/wiki/Hogeschool_Zeeland_Tournament"
+										title="Hogeschool Zeeland Tournament">Hogeschool Zeeland Tournament</a> <span
+										style="font-size:85%;">(since 1995)</span></li>
+								<li><a href="/wiki/Lublin_Grandmaster_Tournament"
+										title="Lublin Grandmaster Tournament">Lublin Grandmaster Tournament</a> <span
+										style="font-size:85%;">(since 2009)</span></li>
+								<li><a href="/wiki/Paul_Keres_Memorial_Tournament"
+										title="Paul Keres Memorial Tournament">Paul Keres Memorials</a> <span
+										style="font-size:85%;">(Tallinn, since 1969) (Vancouver, since 1975)</span></li>
+								<li><a href="/wiki/Prague_Chess_Festival" title="Prague Chess Festival">Prague Chess
+										Festival</a> <span style="font-size:85%;">(since 2019)</span></li>
+								<li><a href="/wiki/Qatar_Masters_Open" title="Qatar Masters Open">Qatar Masters Open</a>
+									<span style="font-size:85%;">(2014–2015, since 2023)</span></li>
+								<li><a href="/wiki/Reykjavik_Open" title="Reykjavik Open">Reykjavik Open</a> <span
+										style="font-size:85%;">(since 1964)</span></li>
+								<li><a href="/wiki/Riga_Technical_University_Open"
+										title="Riga Technical University Open">Riga Technical University Open</a> <span
+										style="font-size:85%;">(since 2011)</span></li>
+								<li><a href="/wiki/Rubinstein_Memorial" title="Rubinstein Memorial">Rubinstein
+										Memorial</a> <span style="font-size:85%;">(since 1963)</span></li>
+								<li><a href="/wiki/South_African_Open_(chess)" title="South African Open (chess)">South
+										African Open</a> <span style="font-size:85%;">(since 1962)</span></li>
+								<li><a href="/wiki/U.S._Open_Chess_Championship"
+										title="U.S. Open Chess Championship">U.S. Open</a> <span
+										style="font-size:85%;">(since 1900)</span></li>
+								<li><a href="/wiki/Vidmar_Memorial" title="Vidmar Memorial">Vidmar Memorial</a> <span
+										style="font-size:85%;">(since 1969)</span></li>
+								<li><a href="/wiki/World_Open_chess_tournament"
+										title="World Open chess tournament">World Open</a> <span
+										style="font-size:85%;">(since 1973)</span></li>
+								<li><a href="/wiki/Xtracon_Chess_Open" title="Xtracon Chess Open">Xtracon Chess Open</a>
+									<span style="font-size:85%;">(since 1979)</span></li>
+								<li><a href="/wiki/Zurich_Christmas_Open" title="Zurich Christmas Open">Zurich Christmas
+										Open</a> <span style="font-size:85%;">(since 1977)</span></li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+				<tr style="">
+					<th scope="row" class="navbox-group" style="width:1%">Recently cancelled<br><span
+							style="font-size:85%;">(after 2000)</span></th>
+					<td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><a href="/wiki/Alekhine_Memorial" title="Alekhine Memorial">Alekhine Memorial</a>
+									<span style="font-size:85%;">(1956–2013, irregular)</span></li>
+								<li><a href="/wiki/Acropolis_International_chess_tournament"
+										title="Acropolis International chess tournament">Acropolis</a> <span
+										style="font-size:85%;">(1968–2009)</span></li>
+								<li><a href="/wiki/Aerosvit_chess_tournament"
+										title="Aerosvit chess tournament">Aerosvit</a> <span
+										style="font-size:85%;">(2006–2008)</span></li>
+								<li><a href="/wiki/Amber_chess_tournament" title="Amber chess tournament">Amber</a>
+									<span style="font-size:85%;">(1992–2011)</span></li>
+								<li><a href="/wiki/Bilbao_Chess_Masters_Final" title="Bilbao Chess Masters Final">Bilbao
+										Chess Masters Final</a> <span style="font-size:85%;">(2008–2016)</span></li>
+								<li><a href="/wiki/Howard_Staunton_Memorial_Tournament"
+										title="Howard Staunton Memorial Tournament">Howard Staunton Memorial</a> <span
+										style="font-size:85%;">(2003–2009)</span></li>
+								<li><a href="/wiki/Linares_International_Chess_Tournament"
+										title="Linares International Chess Tournament">Linares</a> <span
+										style="font-size:85%;">(1978–2010)</span></li>
+								<li><a href="/wiki/Mar_del_Plata_chess_tournament"
+										title="Mar del Plata chess tournament">Mar del Plata</a> <span
+										style="font-size:85%;">(1928–2001)</span></li>
+								<li><a href="/wiki/Millionaire_Chess" title="Millionaire Chess">Millionaire Chess</a>
+									<span style="font-size:85%;">(2014–2016)</span></li>
+								<li><a href="/wiki/M-Tel_Masters" title="M-Tel Masters">M-Tel Masters</a> <span
+										style="font-size:85%;">(2005–2009)</span></li>
+								<li><a href="/wiki/North_Sea_Cup_(chess)" title="North Sea Cup (chess)">North Sea
+										Cup</a> <span style="font-size:85%;">(1976–2008)</span></li>
+								<li><a href="/wiki/Pearl_Spring_chess_tournament"
+										title="Pearl Spring chess tournament">Pearl Spring</a> <span
+										style="font-size:85%;">(2008–2010)</span></li>
+								<li><a href="/wiki/Reggio_Emilia_chess_tournament"
+										title="Reggio Emilia chess tournament">Reggio Emilia</a> <span
+										style="font-size:85%;">(1947–2012)</span></li>
+								<li><a href="/wiki/Tal_Memorial" title="Tal Memorial">Tal Memorial</a> <span
+										style="font-size:85%;">(2006–2018)</span></li>
+								<li><a href="/wiki/Zurich_Chess_Challenge" title="Zurich Chess Challenge">Zurich Chess
+										Challenge</a> <span style="font-size:85%;">(2012–2017)</span></li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+				<tr style="">
+					<th scope="row" class="navbox-group" style="width:1%">Major past<br><span
+							style="font-size:85%;">(19th–20th century)</span></th>
+					<td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><a href="/wiki/American_Chess_Congress" title="American Chess Congress">American
+										Chess Congress</a> <span style="font-size:85%;">(1857–1923)</span></li>
+								<li><a href="/wiki/Carl_Schlechter_Memorial_Tournament"
+										title="Carl Schlechter Memorial Tournament">Carl Schlechter Memorial</a> <span
+										style="font-size:85%;">(1923–1996)</span></li>
+								<li><a href="/wiki/DSB_Congress" title="DSB Congress">DSB Congress</a> <span
+										style="font-size:85%;">(1879–1932)</span></li>
+								<li><a href="/wiki/General_Government_chess_tournament"
+										title="General Government chess tournament">General Government</a> <span
+										style="font-size:85%;">(1940–1944)</span></li>
+								<li><a href="/wiki/IBM_international_chess_tournament"
+										title="IBM international chess tournament">IBM international</a> <span
+										style="font-size:85%;">(1961–1981)</span></li>
+								<li><a href="/wiki/Konex_chess_tournament" title="Konex chess tournament">Konex</a>
+									<span style="font-size:85%;">(1977–1994)</span></li>
+								<li><a href="/wiki/Leopold_Trebitsch_Memorial_Tournament"
+										title="Leopold Trebitsch Memorial Tournament">Leopold Trebitsch Memorial</a>
+									<span style="font-size:85%;">(1907–1938)</span></li>
+								<li><a href="/wiki/Lone_Pine_International" title="Lone Pine International">Lone Pine
+										International</a> <span style="font-size:85%;">(1971–1981)</span></li>
+								<li><a href="/wiki/Max_Euwe_Memorial_Tournament"
+										title="Max Euwe Memorial Tournament">Max Euwe Memorial</a> <span
+										style="font-size:85%;">(1987–1996)</span></li>
+								<li><a href="/wiki/Monte_Carlo_chess_tournament"
+										title="Monte Carlo chess tournament">Monte Carlo</a> <span
+										style="font-size:85%;">(1901–1904; 1967–1969)</span></li>
+								<li><a href="/wiki/Netanya_chess_tournament"
+										title="Netanya chess tournament">Netanya</a> <span
+										style="font-size:85%;">(1961–1983)</span></li>
+								<li>Palma de Mallorca <span style="font-size:85%;">(1965–1972)</span></li>
+								<li><a href="/wiki/Phillips_%26_Drew_Kings" title="Phillips &amp; Drew Kings">Phillips
+										&amp; Drew Kings</a> <span style="font-size:85%;">(1980–1986)</span></li>
+								<li><a href="/wiki/Piatigorsky_Cup" title="Piatigorsky Cup">Piatigorsky Cup</a> <span
+										style="font-size:85%;">(1963–1966)</span></li>
+								<li><a href="/wiki/San_Sebasti%C3%A1n_chess_tournament"
+										title="San Sebastián chess tournament">San Sebastián</a> <span
+										style="font-size:85%;">(1911–1912)</span></li>
+								<li><a href="/wiki/Silesian_Chess_Congress" title="Silesian Chess Congress">Silesian
+										Chess Congress</a> <span style="font-size:85%;">(1922–1939)</span></li>
+								<li><a href="/wiki/Tilburg_chess_tournament"
+										title="Tilburg chess tournament">Tilburg</a> <span
+										style="font-size:85%;">(1977–1998)</span></li>
+								<li><a href="/wiki/Triberg_chess_tournament"
+										title="Triberg chess tournament">Triberg</a> <span
+										style="font-size:85%;">(1914–1917)</span></li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+				<tr style="">
+					<td class="navbox-abovebelow" colspan="2">
+						<div>
+							<ul>
+								<li><span class="noviewer" typeof="mw:File"><span title="Category"><img alt=""
+												src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png"
+												decoding="async" width="16" height="16" class="mw-file-element"
+												srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x"
+												data-file-width="180" data-file-height="185"></span></span> <a
+										href="/wiki/Category:Chess_competitions"
+										title="Category:Chess competitions">Chess competitions</a>
+									<ul>
+										<li><a href="/wiki/Category:Chess_national_championships"
+												title="Category:Chess national championships">National championships</a>
+										</li>
+										<li><a href="/wiki/Category:Supranational_chess_championships"
+												title="Category:Supranational chess championships">Supranational
+												championships</a></li>
+									</ul>
+								</li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
 </div>
 <?= $this->endSection() ?>
 <?= $this->section('scripts') ?>
