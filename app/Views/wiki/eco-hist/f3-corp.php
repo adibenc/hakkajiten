@@ -1,6 +1,198 @@
 <?= $this->extend('layouts/wiki') ?>
 <?= $this->section('content') ?>
 <div class="container-fluid">
+	<!-- corporate titles -->
+	<div role="navigation" class="navbox" aria-labelledby="Corporate_titles" style="padding:3px">
+		<table class="nowraplinks mw-collapsible autocollapse navbox-inner mw-made-collapsible"
+			style="border-spacing:0;background:transparent;color:inherit">
+			<tbody>
+				<tr>
+					<th scope="col" class="navbox-title" colspan="2"><button type="button"
+							class="mw-collapsible-toggle mw-collapsible-toggle-default" aria-expanded="true"
+							tabindex="0"><span class="mw-collapsible-text">hide</span></button>
+						<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374">
+						<style data-mw-deduplicate="TemplateStyles:r1063604349">
+						</style>
+						<div class="navbar plainlinks hlist navbar-mini">
+							<ul>
+								<li class="nv-view"><a href="/wiki/Template:Corporate_titles"
+										title="Template:Corporate titles"><abbr title="View this template"
+											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a>
+								</li>
+								<li class="nv-talk"><a href="/wiki/Template_talk:Corporate_titles"
+										title="Template talk:Corporate titles"><abbr title="Discuss this template"
+											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a>
+								</li>
+								<li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Corporate_titles"
+										title="Special:EditPage/Template:Corporate titles"><abbr
+											title="Edit this template"
+											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a>
+								</li>
+							</ul>
+						</div>
+						<div id="Corporate_titles" style="font-size:114%;margin:0 4em"><a href="/wiki/Corporate_title"
+								title="Corporate title">Corporate titles</a></div>
+					</th>
+				</tr>
+				<tr>
+					<th scope="row" class="navbox-group" style="width:1%">Chief officers</th>
+					<td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><a href="/wiki/Chief_accessibility_officer"
+										title="Chief accessibility officer">Accessibility</a></li>
+								<li><a href="/wiki/Chief_administrative_officer"
+										title="Chief administrative officer">Administrative</a></li>
+								<li><a href="/wiki/Chief_analytics_officer"
+										title="Chief analytics officer">Analytics</a></li>
+								<li><a href="/wiki/Chief_audit_executive" title="Chief audit executive">Audit</a></li>
+								<li><a href="/wiki/Chief_brand_officer" class="mw-redirect"
+										title="Chief brand officer">Brand</a></li>
+								<li><a href="/wiki/Chief_business_officer" title="Chief business officer">Business</a>
+								</li>
+								<li><a href="/wiki/Chief_channel_officer" title="Chief channel officer">Channel</a></li>
+								<li><a href="/wiki/Chief_commercial_officer"
+										title="Chief commercial officer">Commercial</a></li>
+								<li><a href="/wiki/Public_relations_officer"
+										title="Public relations officer">Communications</a></li>
+								<li><a href="/wiki/Chief_compliance_officer"
+										title="Chief compliance officer">Compliance</a></li>
+								<li><a href="/wiki/Chief_content_officer" title="Chief content officer">Content</a></li>
+								<li><a href="/wiki/Chief_creative_officer" title="Chief creative officer">Creative</a>
+								</li>
+								<li><a href="/wiki/Chief_data_officer" title="Chief data officer">Data</a></li>
+								<li><a href="/wiki/Chief_design_officer" title="Chief design officer">Design</a></li>
+								<li><a href="/wiki/Chief_digital_officer" title="Chief digital officer">Digital</a></li>
+								<li><a href="/wiki/Chief_diversity_officer"
+										title="Chief diversity officer">Diversity</a></li>
+								<li><a href="/wiki/Chief_executive_officer"
+										title="Chief executive officer">Executive</a></li>
+								<li><a href="/wiki/Chief_experience_officer"
+										title="Chief experience officer">Experience</a></li>
+								<li><a href="/wiki/Chief_financial_officer"
+										title="Chief financial officer">Financial</a></li>
+								<li><a href="/wiki/Chief_gaming_officer" title="Chief gaming officer">Game
+										Management</a></li>
+								<li><a href="/wiki/Chief_human_resources_officer"
+										title="Chief human resources officer">Human resources</a></li>
+								<li><a href="/wiki/Chief_information_officer"
+										title="Chief information officer">Information</a></li>
+								<li><a href="/wiki/Chief_information_security_officer"
+										title="Chief information security officer">Information security</a></li>
+								<li><a href="/wiki/Chief_innovation_officer"
+										title="Chief innovation officer">Innovation</a></li>
+								<li><a href="/wiki/Chief_investment_officer"
+										title="Chief investment officer">Investment</a></li>
+								<li><a href="/wiki/Chief_knowledge_officer"
+										title="Chief knowledge officer">Knowledge</a></li>
+								<li><a href="/wiki/Chief_learning_officer" title="Chief learning officer">Learning</a>
+								</li>
+								<li><a href="/wiki/General_counsel" title="General counsel">Legal</a></li>
+								<li><a href="/wiki/Chief_marketing_officer"
+										title="Chief marketing officer">Marketing</a></li>
+								<li><a href="/wiki/Chief_Medical_Officer" class="mw-redirect"
+										title="Chief Medical Officer">Medical</a></li>
+								<li><a href="/wiki/Chief_merchandising_officer"
+										title="Chief merchandising officer">Merchandising</a></li>
+								<li><a href="/wiki/Chief_networking_officer"
+										title="Chief networking officer">Networking</a></li>
+								<li><a href="/wiki/Chief_operating_officer"
+										title="Chief operating officer">Operating</a></li>
+								<li><a href="/wiki/Chief_privacy_officer" title="Chief privacy officer">Privacy</a></li>
+								<li><a href="/wiki/Chief_procurement_officer"
+										title="Chief procurement officer">Procurement</a></li>
+								<li><a href="/wiki/Chief_product_officer" title="Chief product officer">Product</a></li>
+								<li><a href="/wiki/Chief_research_officer" title="Chief research officer">Research</a>
+								</li>
+								<li><a href="/wiki/Chief_restructuring_officer"
+										title="Chief restructuring officer">Restructuring</a></li>
+								<li><a href="/wiki/Chief_revenue_officer" title="Chief revenue officer">Revenue</a></li>
+								<li><a href="/wiki/Chief_risk_officer" title="Chief risk officer">Risk</a></li>
+								<li><a href="/wiki/Chief_scientific_officer"
+										title="Chief scientific officer">Science</a></li>
+								<li><a href="/wiki/Chief_security_officer" title="Chief security officer">Security</a>
+								</li>
+								<li><a href="/wiki/Chief_solutions_officer"
+										title="Chief solutions officer">Solutions</a></li>
+								<li><a href="/wiki/Chief_strategy_officer" title="Chief strategy officer">Strategy</a>
+								</li>
+								<li><a href="/wiki/Chief_sustainability_officer"
+										title="Chief sustainability officer">Sustainability</a></li>
+								<li><a href="/wiki/Chief_technology_officer"
+										title="Chief technology officer">Technology</a></li>
+								<li><a href="/wiki/Chief_visionary_officer"
+										title="Chief visionary officer">Visionary</a></li>
+								<li><a href="/wiki/Chief_web_officer" title="Chief web officer">Web</a></li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" class="navbox-group" style="width:1%">Senior executives</th>
+					<td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><a href="/wiki/Chairperson" title="Chairperson">Chairperson</a></li>
+								<li><a href="/wiki/Creative_director" title="Creative director">Creative director</a>
+								</li>
+								<li><a href="/wiki/Development_director" title="Development director">Development
+										director</a></li>
+								<li><a href="/wiki/General_counsel" title="General counsel">General counsel</a></li>
+								<li><a href="/wiki/Executive_director" title="Executive director">Executive director</a>
+								</li>
+								<li><a href="/wiki/Non-executive_director" title="Non-executive director">Non-executive
+										director</a></li>
+								<li><a href="/wiki/President_(corporate_title)"
+										title="President (corporate title)">President</a></li>
+								<li><a href="/wiki/Representative_director_(Japan)"
+										title="Representative director (Japan)">Representative director</a></li>
+								<li><a class="mw-selflink selflink">Vice president</a></li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" class="navbox-group" style="width:1%">Mid-level executives</th>
+					<td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><a href="/wiki/Management" title="Management">Manager</a></li>
+								<li><a href="/wiki/General_manager" title="General manager">General manager</a></li>
+								<li><a href="/wiki/Account_manager" title="Account manager">Account manager</a></li>
+								<li><a href="/wiki/Supervisor" title="Supervisor">Supervisor</a></li>
+								<li><a href="/wiki/Product_manager" title="Product manager">Product manager</a></li>
+								<li><a href="/wiki/Supervisor" title="Supervisor">Foreman</a></li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" class="navbox-group" style="width:1%">Related topics</th>
+					<td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><a href="/wiki/Board_of_directors" title="Board of directors">Board of directors</a>
+								</li>
+								<li><a href="/wiki/Corporate_governance" title="Corporate governance">Corporate
+										governance</a></li>
+								<li><a href="/wiki/Executive_compensation" title="Executive compensation">Executive
+										compensation</a></li>
+								<li><a href="/wiki/List_of_business_and_finance_abbreviations"
+										title="List of business and finance abbreviations">List of business and finance
+										abbreviations</a></li>
+								<li><a href="/wiki/Senior_management" title="Senior management">Senior management</a>
+								</li>
+								<li><a href="/wiki/Supervisory_board" title="Supervisory board">Supervisory board</a>
+								</li>
+								<li><a href="/wiki/Talent_management" title="Talent management">Talent management</a>
+								</li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
 	<div role="navigation" class="navbox" aria-labelledby="Corporate_finance_and_investment_banking"
 		style="padding:3px">
 		<table class="nowraplinks hlist mw-collapsible navbox-inner mw-made-collapsible"
