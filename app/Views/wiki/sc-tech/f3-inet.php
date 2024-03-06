@@ -1,6 +1,7 @@
 <?= $this->extend('layouts/wiki') ?>
 <?= $this->section('content') ?>
 <div class="container-fluid">
+	<!-- Inet slang -->
 	<div role="navigation" class="navbox" aria-labelledby="Internet_slang_variants" style="padding:3px">
 		<table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner mw-made-collapsible"
 			style="border-spacing:0;background:transparent;color:inherit">
@@ -67,6 +68,7 @@
 			</tbody>
 		</table>
 	</div>
+	<!-- Inet slang -->
 	<div role="navigation" class="navbox" aria-labelledby="Internet_slang" style="padding:3px">
 		<table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner mw-made-collapsible"
 			style="border-spacing:0;background:transparent;color:inherit">
