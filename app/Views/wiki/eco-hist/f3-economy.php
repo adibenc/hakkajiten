@@ -1,6 +1,7 @@
 <?= $this->extend('layouts/wiki') ?>
 <?= $this->section('content') ?>
 <div class="container-fluid">
+	<!-- economics -->
 	<div role="navigation" class="navbox" aria-labelledby="Economics" style="padding:3px">
 		<table class="nowraplinks hlist mw-collapsible navbox-inner mw-made-collapsible"
 			style="border-spacing:0;background:transparent;color:inherit">
