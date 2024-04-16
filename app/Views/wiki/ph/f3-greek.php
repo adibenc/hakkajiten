@@ -486,6 +486,158 @@
 <li><a href="/wiki/Telos" title="Telos"><i>Telos</i>               <span style="font-size:85%;">(goal)</span></a></li>
 <li><a href="/wiki/Thumos" title="Thumos"><i>Thumos</i>               <span style="font-size:85%;">(temper)</span></a></li></ul>
 </div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Ancient_Greek_schools_of_philosophy" style="padding:3px"><table class="nowraplinks mw-collapsible navbox-inner mw-made-collapsible" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><button type="button" class="mw-collapsible-toggle mw-collapsible-toggle-default mw-collapsible-toggle-expanded" aria-expanded="true" tabindex="0"><span class="mw-collapsible-text">hide</span></button><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Ancient_Greek_schools_of_philosophy" title="Template:Ancient Greek schools of philosophy"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Ancient_Greek_schools_of_philosophy" title="Template talk:Ancient Greek schools of philosophy"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Ancient_Greek_schools_of_philosophy" title="Special:EditPage/Template:Ancient Greek schools of philosophy"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Ancient_Greek_schools_of_philosophy" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Ancient Greek schools of philosophy</a></div></th></tr><tr style=""><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pre-Socratic_philosophy" title="Pre-Socratic philosophy">Pre-Socratic</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Hippo_(philosopher)" title="Hippo (philosopher)">Hippo</a></li>
+<li><a href="/wiki/Pherecydes_of_Syros" title="Pherecydes of Syros">Pherecydes of Syros</a></li>
+<li><a href="/wiki/Empedocles" title="Empedocles">Empedocles</a></li>
+<li><a href="/wiki/Metrodorus_of_Lampsacus_(the_elder)" title="Metrodorus of Lampsacus (the elder)">Metrodorus of Lampsacus</a></li>
+<li><a href="/wiki/Xeniades" title="Xeniades">Xeniades</a></li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pythagoreanism" title="Pythagoreanism">Pythagorean</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Pythagoras" title="Pythagoras">Pythagoras</a></li>
+<li><a href="/wiki/Hippasus" title="Hippasus">Hippasus</a></li>
+<li><a href="/wiki/Philolaus" title="Philolaus">Philolaus</a></li>
+<li><a href="/wiki/Archytas" title="Archytas">Archytas</a></li>
+<li><a href="/wiki/Lamiskos" title="Lamiskos">Lamiskos</a></li>
+<li><a href="/wiki/Alcmaeon_of_Croton" title="Alcmaeon of Croton">Alcmaeon</a></li>
+<li><a href="/wiki/Brontinus" title="Brontinus">Brontinus</a></li>
+<li><a href="/wiki/Theano_(philosopher)" title="Theano (philosopher)">Theano</a></li>
+<li><a href="/wiki/Damo_(philosopher)" title="Damo (philosopher)">Damo</a></li>
+<li><a href="/wiki/Calliphon_of_Croton" title="Calliphon of Croton">Calliphon</a></li>
+<li><a href="/wiki/Hermotimus_of_Clazomenae" title="Hermotimus of Clazomenae">Hermotimus</a></li>
+<li><a href="/wiki/Metrodorus_of_Cos" title="Metrodorus of Cos">Metrodorus of Cos</a></li>
+<li><a href="/wiki/Arignote" title="Arignote">Arignote</a></li>
+<li><a href="/wiki/Myia" title="Myia">Myia</a></li>
+<li><a href="/wiki/Eurytus_(Pythagorean)" title="Eurytus (Pythagorean)">Eurytus</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ionian_School_(philosophy)" title="Ionian School (philosophy)">Ionian</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Thales_of_Miletus" title="Thales of Miletus">Thales</a></li>
+<li><a href="/wiki/Anaximander" title="Anaximander">Anaximander</a></li>
+<li><a href="/wiki/Anaximenes_of_Miletus" title="Anaximenes of Miletus">Anaximenes</a></li>
+<li><a href="/wiki/Xenophanes" title="Xenophanes">Xenophanes</a></li>
+<li><a href="/wiki/Heraclitus" title="Heraclitus">Heraclitus</a></li>
+<li><a href="/wiki/Anaxagoras" title="Anaxagoras">Anaxagoras</a></li>
+<li><a href="/wiki/Archelaus_(philosopher)" title="Archelaus (philosopher)">Archelaus</a></li>
+<li><a href="/wiki/Diogenes_of_Apollonia" title="Diogenes of Apollonia">Diogenes</a></li>
+<li><a href="/wiki/Metrodorus_of_Lampsacus_(the_elder)" title="Metrodorus of Lampsacus (the elder)">Metrodorus of Lampsacus</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Atomism" title="Atomism">Atomist</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Leucippus" title="Leucippus">Leucippus</a></li>
+<li><a href="/wiki/Democritus" title="Democritus">Democritus</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Eleatics" title="Eleatics">Eleatic</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Parmenides" title="Parmenides">Parmenides</a></li>
+<li><a href="/wiki/Zeno_of_Elea" title="Zeno of Elea">Zeno</a></li>
+<li><a href="/wiki/Melissus_of_Samos" title="Melissus of Samos">Melissus</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Sophist" title="Sophist">Sophist</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Protagoras" title="Protagoras">Protagoras</a></li>
+<li><a href="/wiki/Gorgias" title="Gorgias">Gorgias</a></li>
+<li><a href="/wiki/Prodicus" title="Prodicus">Prodicus</a></li>
+<li><a href="/wiki/Hippias" title="Hippias">Hippias</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr style=""><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Classical_Greek_philosophy" class="mw-redirect" title="Classical Greek philosophy">Classical</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Socrates" title="Socrates">Socrates</a></li>
+<li><a href="/wiki/Xenophon" title="Xenophon">Xenophon</a></li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Cynicism_(philosophy)" title="Cynicism (philosophy)">Cynic</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Antisthenes" title="Antisthenes">Antisthenes</a></li>
+<li><a href="/wiki/Diogenes" title="Diogenes">Diogenes</a></li>
+<li><a href="/wiki/Crates_of_Thebes" title="Crates of Thebes">Crates</a></li>
+<li><a href="/wiki/Menippus" title="Menippus">Menippus</a></li>
+<li><a href="/wiki/List_of_Cynic_philosophers" title="List of Cynic philosophers">more...</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Cyrenaics" title="Cyrenaics">Cyrenaic</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Aristippus" title="Aristippus">Aristippus</a></li>
+<li><a href="/wiki/Aristippus_the_Younger" title="Aristippus the Younger">Aristippus the Younger</a></li>
+<li><a href="/wiki/Theodorus_the_Atheist" title="Theodorus the Atheist">Theodorus the Atheist</a></li>
+<li><a href="/wiki/Hegesias_of_Cyrene" title="Hegesias of Cyrene">Hegesias of Cyrene</a></li>
+<li><a href="/wiki/Anniceris" title="Anniceris">Anniceris</a></li>
+<li><a href="/wiki/Category:Cyrenaic_philosophers" title="Category:Cyrenaic philosophers">more...</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Eretrian_school" title="Eretrian school">Eretrian</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Phaedo_of_Elis" title="Phaedo of Elis">Phaedo of Elis</a></li>
+<li><a href="/wiki/Menedemus" title="Menedemus">Menedemus</a></li>
+<li><a href="/wiki/Asclepiades_of_Phlius" title="Asclepiades of Phlius">Asclepiades of Phlius</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Megarian_school" title="Megarian school">Megarian</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Euclid_of_Megara" title="Euclid of Megara">Euclid of Megara</a></li>
+<li><a href="/wiki/Eubulides" title="Eubulides">Eubulides</a></li>
+<li><a href="/wiki/Stilpo" title="Stilpo">Stilpo</a></li>
+<li><a href="/wiki/Diodorus_Cronus" title="Diodorus Cronus">Diodorus Cronus</a></li>
+<li><a href="/wiki/Philo_the_Dialectician" title="Philo the Dialectician">Philo</a></li>
+<li><a href="/wiki/Category:Megarian_philosophers" title="Category:Megarian philosophers">more...</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Platonism" title="Platonism">Platonic</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Plato" title="Plato">Plato</a></li>
+<li><a href="/wiki/Speusippus" title="Speusippus">Speusippus</a></li>
+<li><a href="/wiki/Xenocrates" title="Xenocrates">Xenocrates</a></li>
+<li><a href="/wiki/List_of_ancient_Platonists" title="List of ancient Platonists">more...</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Peripatetic_school" title="Peripatetic school">Peripatetic</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Aristotle" title="Aristotle">Aristotle</a></li>
+<li><a href="/wiki/Theophrastus" title="Theophrastus">Theophrastus</a></li>
+<li><a href="/wiki/Strato_of_Lampsacus" title="Strato of Lampsacus">Strato of Lampsacus</a></li>
+<li><a href="/wiki/Lyco_of_Troas" title="Lyco of Troas">Lyco of Troas</a></li>
+<li><a href="/wiki/Alexander_of_Aphrodisias" title="Alexander of Aphrodisias">Alexander of Aphrodisias</a></li>
+<li><a href="/wiki/Category:Peripatetic_philosophers" title="Category:Peripatetic philosophers">more...</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr style=""><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Hellenistic_philosophy" title="Hellenistic philosophy">Hellenistic</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pyrrhonism" title="Pyrrhonism">Pyrrhonist</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Pyrrho" title="Pyrrho">Pyrrho</a></li>
+<li><a href="/wiki/Timon_of_Phlius" title="Timon of Phlius">Timon of Phlius</a></li>
+<li><a href="/wiki/Aenesidemus" title="Aenesidemus">Aenesidemus</a></li>
+<li><a href="/wiki/Agrippa_the_Skeptic" title="Agrippa the Skeptic">Agrippa the Skeptic</a></li>
+<li><a href="/wiki/Sextus_Empiricus" title="Sextus Empiricus">Sextus Empiricus</a></li>
+<li><a href="/wiki/Category:Ancient_Skeptic_philosophers" title="Category:Ancient Skeptic philosophers">more...</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Stoicism" title="Stoicism">Stoic</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Zeno_of_Citium" title="Zeno of Citium">Zeno of Citium</a></li>
+<li><a href="/wiki/Cleanthes" title="Cleanthes">Cleanthes</a></li>
+<li><a href="/wiki/Chrysippus" title="Chrysippus">Chrysippus</a></li>
+<li><a href="/wiki/Panaetius" title="Panaetius">Panaetius</a></li>
+<li><a href="/wiki/Posidonius" title="Posidonius">Posidonius</a></li>
+<li><a href="/wiki/Seneca_the_Younger" title="Seneca the Younger">Seneca</a></li>
+<li><a href="/wiki/Lucius_Annaeus_Cornutus" title="Lucius Annaeus Cornutus">Lucius Annaeus Cornutus</a></li>
+<li><a href="/wiki/Musonius_Rufus" class="mw-redirect" title="Musonius Rufus">Musonius Rufus</a></li>
+<li><a href="/wiki/Epictetus" title="Epictetus">Epictetus</a></li>
+<li><a href="/wiki/Arrian" title="Arrian">Arrian</a></li>
+<li><a href="/wiki/Marcus_Aurelius" title="Marcus Aurelius">Marcus Aurelius</a></li>
+<li><a href="/wiki/List_of_Stoic_philosophers" title="List of Stoic philosophers">more...</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Epicureanism" title="Epicureanism">Epicurean</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Epicurus" title="Epicurus">Epicurus</a></li>
+<li><a href="/wiki/Metrodorus_of_Lampsacus_(the_younger)" title="Metrodorus of Lampsacus (the younger)">Metrodorus</a></li>
+<li><a href="/wiki/Zeno_of_Sidon" title="Zeno of Sidon">Zeno of Sidon</a></li>
+<li><a href="/wiki/Philodemus" title="Philodemus">Philodemus</a></li>
+<li><a href="/wiki/Lucretius" title="Lucretius">Lucretius</a></li>
+<li><a href="/wiki/Diogenes_of_Oenoanda" title="Diogenes of Oenoanda">Diogenes of Oenoanda</a></li>
+<li><a href="/wiki/List_of_Epicurean_philosophers" title="List of Epicurean philosophers">more...</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Academic_skepticism" title="Academic skepticism">Academic Skeptic</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Arcesilaus" title="Arcesilaus">Arcesilaus</a></li>
+<li><a href="/wiki/Carneades" title="Carneades">Carneades</a></li>
+<li><a href="/wiki/Philo_of_Larissa" title="Philo of Larissa">Philo of Larissa</a></li>
+<li><a href="/wiki/Cicero" title="Cicero">Cicero</a></li>
+<li><a href="/wiki/List_of_ancient_Platonists" title="List of ancient Platonists">more...</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Middle_Platonism" title="Middle Platonism">Middle Platonic</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Antiochus_of_Ascalon" title="Antiochus of Ascalon">Antiochus</a></li>
+<li><a href="/wiki/Eudorus_of_Alexandria" title="Eudorus of Alexandria">Eudorus of Alexandria</a></li>
+<li><a href="/wiki/Philo" title="Philo">Philo of Alexandria</a></li>
+<li><a href="/wiki/Plutarch" title="Plutarch">Plutarch</a></li>
+<li><a href="/wiki/Gaius_the_Platonist" title="Gaius the Platonist">Gaius</a></li>
+<li><a href="/wiki/Apuleius" title="Apuleius">Apuleius</a></li>
+<li><a href="/wiki/Alcinous_(philosopher)" title="Alcinous (philosopher)">Alcinous</a></li>
+<li><a href="/wiki/Galen" title="Galen">Galen</a></li>
+<li><a href="/wiki/List_of_ancient_Platonists" title="List of ancient Platonists">more...</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Neopythagoreanism" title="Neopythagoreanism">Neopythagorean</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Nigidius_Figulus" title="Nigidius Figulus">Nigidius Figulus</a></li>
+<li><a href="/wiki/Apollonius_of_Tyana" title="Apollonius of Tyana">Apollonius of Tyana</a></li>
+<li><a href="/wiki/Moderatus_of_Gades" title="Moderatus of Gades">Moderatus of Gades</a></li>
+<li><a href="/wiki/Nicomachus" title="Nicomachus">Nicomachus</a></li>
+<li><a href="/wiki/Numenius_of_Apamea" title="Numenius of Apamea">Numenius of Apamea</a></li>
+<li><a href="/wiki/Category:Neo-Pythagoreans" title="Category:Neo-Pythagoreans">more...</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Neoplatonism" title="Neoplatonism">Neoplatonist</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Ammonius_Saccas" title="Ammonius Saccas">Ammonius Saccas</a></li>
+<li><a href="/wiki/Plotinus" title="Plotinus">Plotinus</a>
+<ul><li><a href="/wiki/List_of_students_of_Plotinus" title="List of students of Plotinus">students</a></li></ul></li>
+<li><a href="/wiki/Origen" title="Origen">Origen</a></li>
+<li><a href="/wiki/Porphyry_(philosopher)" title="Porphyry (philosopher)">Porphyry</a></li>
+<li><a href="/wiki/Iamblichus" title="Iamblichus">Iamblichus</a></li>
+<li><a href="/wiki/Julian_(emperor)" title="Julian (emperor)">Julian</a></li>
+<li><a href="/wiki/Plutarch_of_Athens" title="Plutarch of Athens">Plutarch of Athens</a></li>
+<li><a href="/wiki/Syrianus" title="Syrianus">Syrianus</a></li>
+<li><a href="/wiki/Proclus" title="Proclus">Proclus</a></li>
+<li><a href="/wiki/Ammonius_Hermiae" title="Ammonius Hermiae">Ammonius Hermiae</a></li>
+<li><a href="/wiki/Damascius" title="Damascius">Damascius</a></li>
+<li><a href="/wiki/Simplicius_of_Cilicia" title="Simplicius of Cilicia">Simplicius</a></li>
+<li><a href="/wiki/List_of_ancient_Platonists" title="List of ancient Platonists">more...</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
 </div>
 <?= $this->endSection() ?>
 <?= $this->section('scripts') ?>
