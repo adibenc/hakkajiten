@@ -2318,6 +2318,203 @@
 			</tbody>
 		</table>
 	</div>
+	<div role="navigation" class="navbox" aria-labelledby="Computer_graphics" style="padding:3px">
+		<table class="nowraplinks mw-collapsible navbox-inner mw-made-collapsible"
+			style="border-spacing:0;background:transparent;color:inherit">
+			<tbody>
+				<tr>
+					<th scope="col" class="navbox-title" colspan="2"><button type="button"
+							class="mw-collapsible-toggle mw-collapsible-toggle-default mw-collapsible-toggle-expanded"
+							aria-expanded="true" tabindex="0"><span class="mw-collapsible-text">hide</span></button>
+						<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374">
+						<style data-mw-deduplicate="TemplateStyles:r1063604349"></style>
+						<div class="navbar plainlinks hlist navbar-mini">
+							<ul>
+								<li class="nv-view"><a href="/wiki/Template:Computer_graphics"
+										title="Template:Computer graphics"><abbr title="View this template"
+											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a>
+								</li>
+								<li class="nv-talk"><a href="/wiki/Template_talk:Computer_graphics"
+										title="Template talk:Computer graphics"><abbr title="Discuss this template"
+											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a>
+								</li>
+								<li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Computer_graphics"
+										title="Special:EditPage/Template:Computer graphics"><abbr
+											title="Edit this template"
+											style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a>
+								</li>
+							</ul>
+						</div>
+						<div id="Computer_graphics" style="font-size:114%;margin:0 4em"><a
+								href="/wiki/Computer_graphics_(computer_science)"
+								title="Computer graphics (computer science)">Computer graphics</a></div>
+					</th>
+				</tr>
+				<tr style="">
+					<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Vector_graphics"
+							title="Vector graphics">Vector graphics</a></th>
+					<td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><a href="/wiki/Diffusion_curve" title="Diffusion curve">Diffusion curve</a></li>
+								<li><a href="/wiki/Pixel" title="Pixel">Pixel</a></li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+				<tr style="">
+					<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2D_computer_graphics"
+							title="2D computer graphics">2D graphics</a></th>
+					<td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><a href="/wiki/Alpha_compositing" title="Alpha compositing">Alpha compositing</a>
+								</li>
+								<li><a href="/wiki/Layers_(digital_image_editing)"
+										title="Layers (digital image editing)">Layers</a></li>
+								<li><a href="/wiki/Text-to-image_model" title="Text-to-image model">Text-to-image</a>
+								</li>
+							</ul>
+						</div>
+						<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+							<tbody>
+								<tr>
+									<th id="2.5D" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2.5D"
+											title="2.5D">2.5D</a></th>
+									<td class="navbox-list-with-group navbox-list navbox-odd"
+										style="width:100%;padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li><a href="/wiki/Isometric_video_game_graphics"
+														title="Isometric video game graphics">Isometric graphics</a>
+												</li>
+												<li><a href="/wiki/Mode_7" title="Mode 7">Mode 7</a></li>
+												<li><a href="/wiki/Parallax_scrolling"
+														title="Parallax scrolling">Parallax scrolling</a></li>
+												<li><a href="/wiki/Ray_casting" title="Ray casting">Ray casting</a></li>
+												<li><a href="/wiki/Skybox_(video_games)"
+														title="Skybox (video games)">Skybox</a></li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div>
+						</div>
+					</td>
+				</tr>
+				<tr style="">
+					<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/3D_computer_graphics"
+							title="3D computer graphics">3D graphics</a></th>
+					<td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><a href="/wiki/3D_projection" title="3D projection">3D projection</a></li>
+								<li><a href="/wiki/3D_rendering" title="3D rendering">3D rendering</a></li>
+								<li>(<a href="/wiki/Image-based_modeling_and_rendering"
+										title="Image-based modeling and rendering">Image-based</a></li>
+								<li><a href="/wiki/Spectral_rendering" title="Spectral rendering">Spectral</a></li>
+								<li><a href="/wiki/Unbiased_rendering" title="Unbiased rendering">Unbiased</a>)</li>
+								<li><a href="/wiki/Aliasing" title="Aliasing">Aliasing</a></li>
+								<li><a href="/wiki/Anisotropic_filtering" title="Anisotropic filtering">Anisotropic
+										filtering</a></li>
+								<li><a href="/wiki/Cel_shading" title="Cel shading">Cel shading</a></li>
+								<li><a href="/wiki/Fluid_animation" title="Fluid animation">Fluid animation</a></li>
+								<li><a href="/wiki/Computer_graphics_lighting"
+										title="Computer graphics lighting">Lighting</a>
+									<ul>
+										<li><a href="/wiki/Global_illumination" title="Global illumination">Global
+												illumination</a></li>
+									</ul>
+								</li>
+								<li><a href="/wiki/Hidden-surface_determination"
+										title="Hidden-surface determination">Hidden-surface determination</a></li>
+								<li><a href="/wiki/Polygon_mesh" title="Polygon mesh">Polygon mesh</a></li>
+								<li>(<a href="/wiki/Triangle_mesh" title="Triangle mesh">Triangle mesh</a>)</li>
+								<li><a href="/wiki/Shading" title="Shading">Shading</a>
+									<ul>
+										<li><a href="/wiki/Deferred_shading" title="Deferred shading">Deferred</a></li>
+									</ul>
+								</li>
+								<li><a href="/wiki/Surface_triangulation" title="Surface triangulation">Surface
+										triangulation</a></li>
+								<li><a href="/wiki/Wire-frame_model" title="Wire-frame model">Wire-frame model</a></li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+				<tr style="">
+					<th scope="row" class="navbox-group" style="width:1%">Concepts</th>
+					<td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><a href="/wiki/Affine_transformation" title="Affine transformation">Affine
+										transformation</a></li>
+								<li><a href="/wiki/Back-face_culling" title="Back-face culling">Back-face culling</a>
+								</li>
+								<li><a href="/wiki/Clipping_(computer_graphics)"
+										title="Clipping (computer graphics)">Clipping</a></li>
+								<li><a href="/wiki/Collision_detection" title="Collision detection">Collision
+										detection</a></li>
+								<li><a href="/wiki/Planar_projection" title="Planar projection">Planar projection</a>
+								</li>
+								<li><a href="/wiki/Rendering_(computer_graphics)"
+										title="Rendering (computer graphics)">Rendering</a></li>
+								<li><a href="/wiki/Rotation_(mathematics)" title="Rotation (mathematics)">Rotation</a>
+								</li>
+								<li><a href="/wiki/Scaling_(geometry)" title="Scaling (geometry)">Scaling</a></li>
+								<li><a href="/wiki/Shadow_mapping" title="Shadow mapping">Shadow mapping</a></li>
+								<li><a class="mw-selflink selflink">Shadow volume</a></li>
+								<li><a href="/wiki/Shear_matrix" class="mw-redirect" title="Shear matrix">Shear
+										matrix</a></li>
+								<li><a href="/wiki/Translation_(geometry)"
+										title="Translation (geometry)">Translation</a></li>
+								<li><a href="/wiki/Volume_rendering" title="Volume rendering">Volume rendering</a></li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+				<tr style="">
+					<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Graphics_software"
+							title="Graphics software">Graphics software</a></th>
+					<td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><a href="/wiki/List_of_3D_computer_graphics_software"
+										title="List of 3D computer graphics software">3D computer graphics software</a>
+									<ul>
+										<li><a href="/wiki/List_of_3D_animation_software"
+												title="List of 3D animation software">animation</a></li>
+										<li><a href="/wiki/List_of_3D_modeling_software"
+												title="List of 3D modeling software">modeling</a></li>
+										<li><a href="/wiki/List_of_3D_rendering_software"
+												title="List of 3D rendering software">rendering</a></li>
+									</ul>
+								</li>
+								<li><a href="/wiki/Raster_graphics_editor" title="Raster graphics editor">Raster
+										graphics editors</a></li>
+								<li><a href="/wiki/Comparison_of_vector_graphics_editors"
+										title="Comparison of vector graphics editors">Vector graphics editors</a></li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+				<tr style="">
+					<th scope="row" class="navbox-group" style="width:1%">Algorithms</th>
+					<td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><a href="/wiki/List_of_computer_graphics_algorithms" class="mw-redirect"
+										title="List of computer graphics algorithms">List of computer graphics
+										algorithms</a></li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
 </div>
 <?= $this->endSection() ?>
 <?= $this->section('scripts') ?>

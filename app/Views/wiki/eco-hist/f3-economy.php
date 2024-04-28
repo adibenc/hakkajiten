@@ -1386,6 +1386,128 @@
 			</tbody>
 		</table>
 	</div>
+	<div role="navigation" class="navbox" aria-labelledby="Sharing_economy" style="padding:3px"><table class="nowraplinks hlist mw-collapsible navbox-inner mw-made-collapsible" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><button type="button" class="mw-collapsible-toggle mw-collapsible-toggle-default mw-collapsible-toggle-expanded" aria-expanded="true" tabindex="0"><span class="mw-collapsible-text">hide</span></button><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Sharing_economy" title="Template:Sharing economy"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Sharing_economy" title="Template talk:Sharing economy"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Sharing_economy" title="Special:EditPage/Template:Sharing economy"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Sharing_economy" style="font-size:114%;margin:0 4em"><a href="/wiki/Sharing_economy" title="Sharing economy">Sharing economy</a></div></th></tr><tr style=""><th scope="row" class="navbox-group" style="width:1%">Companies</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Transportation</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/AloPeyk" title="AloPeyk">AloPeyk</a></li>
+<li><a href="/wiki/BlaBlaCar" title="BlaBlaCar">BlaBlaCar</a></li>
+<li><a href="/wiki/Beat_(app)" title="Beat (app)">Beat</a></li>
+<li><a href="/wiki/Bolt_(company)" title="Bolt (company)">Bolt</a></li>
+<li><a href="/wiki/Bykea" title="Bykea">Bykea</a></li>
+<li><a href="/wiki/Cabify" title="Cabify">Cabify</a></li>
+<li><a href="/wiki/The_Drivers_Cooperative" title="The Drivers Cooperative">Co-Op Ride</a></li>
+<li><a href="/wiki/DiDi" title="DiDi">DiDi</a>
+<ul><li><a href="/wiki/99_(app)" title="99 (app)">99</a></li></ul></li>
+<li><a href="/wiki/Fasten_(company)" title="Fasten (company)">Fasten</a></li>
+<li><a href="/wiki/Free_Now_(service)" title="Free Now (service)">Free Now</a></li>
+<li><a href="/wiki/Gett" title="Gett">Gett</a></li>
+<li><a href="/wiki/Gojek" title="Gojek">Gojek</a></li>
+<li><a href="/wiki/Grab_(company)" title="Grab (company)">Grab</a></li>
+<li><a href="/wiki/InDrive" title="InDrive">inDrive</a></li>
+<li><a href="/wiki/Kakao_T" title="Kakao T">KakaoTaxi</a></li>
+<li><a href="/wiki/Lyft" title="Lyft">Lyft</a></li>
+<li><a href="/wiki/Ola_Cabs" title="Ola Cabs">Ola Cabs</a></li>
+<li><a href="/wiki/Pathao" title="Pathao">Pathao</a></li>
+<li><a href="/wiki/PickMe" title="PickMe">PickMe</a></li>
+<li><a href="/wiki/Snapp!" title="Snapp!">Snapp</a></li>
+<li><a href="/wiki/Swvl" title="Swvl">Swvl</a></li>
+<li><a href="/wiki/TAPSI" class="mw-redirect" title="TAPSI">TAPSI</a></li>
+<li><a href="/wiki/Turo_(company)" title="Turo (company)">Turo</a></li>
+<li><a href="/wiki/Uber" title="Uber">Uber</a>
+<ul><li><a href="/wiki/Careem" title="Careem">Careem</a></li></ul></li>
+<li><a href="/wiki/Via_Transportation" title="Via Transportation">Via</a></li>
+<li><a href="/wiki/Waymo" title="Waymo">Waymo</a></li>
+<li><a href="/wiki/Wingly_(company)" title="Wingly (company)">Wingly</a></li>
+<li><a href="/wiki/Yandex.Taxi" class="mw-redirect" title="Yandex.Taxi">Yandex.Taxi</a></li>
+<li><a href="/wiki/Yourdrive" title="Yourdrive">Yourdrive</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Hospitality</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/For-profit" class="mw-redirect" title="For-profit">For-profit</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Airbnb" title="Airbnb">Airbnb</a></li>
+<li><a href="/wiki/CouchSurfing" title="CouchSurfing">CouchSurfing</a></li>
+<li><a href="/wiki/Misterb%26b" title="Misterb&amp;b">misterb&amp;b</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Non-profit" class="mw-redirect" title="Non-profit">Non-profit</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/BeWelcome" class="mw-redirect" title="BeWelcome">BeWelcome</a></li>
+<li><a href="/wiki/Dachgeber" class="mw-redirect" title="Dachgeber">Dachgeber</a></li>
+<li><a href="/wiki/Hospitality_Club" title="Hospitality Club">Hospitality Club</a></li>
+<li><a href="/wiki/Pasporta_Servo" title="Pasporta Servo">Pasporta Servo</a></li>
+<li><a href="/wiki/Servas_International" title="Servas International">Servas International</a></li>
+<li><a href="/wiki/Trustroots" class="mw-redirect" title="Trustroots">Trustroots</a></li>
+<li><a href="/wiki/Warm_Showers" title="Warm Showers">Warm Showers</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Unknown</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Helpx" class="mw-redirect" title="Helpx">Helpx</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Project funding</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/GiveSendGo" title="GiveSendGo">GiveSendGo</a></li>
+<li><a href="/wiki/GoFundMe" title="GoFundMe">GoFundMe</a></li>
+<li><a href="/wiki/Indiegogo" title="Indiegogo">Indiegogo</a></li>
+<li><a href="/wiki/Kickstarter" title="Kickstarter">Kickstarter</a></li>
+<li><a href="/wiki/Patreon" title="Patreon">Patreon</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Retail</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a class="mw-selflink selflink">Craigslist</a></li>
+<li><a href="/wiki/MercadoLibre" class="mw-redirect" title="MercadoLibre">MercadoLibre</a></li>
+<li><a href="/wiki/Vinted" title="Vinted">Vinted</a></li>
+<li><a href="/wiki/Kijiji" title="Kijiji">Kijiji</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Music and film</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Sofar_Sounds" title="Sofar Sounds">Sofar Sounds</a></li>
+<li><a href="/wiki/Tudou" title="Tudou">Tudou</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Services and freelancing</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Pickle_(app)" title="Pickle (app)">Pickle</a></li>
+<li><a href="/wiki/TaskRabbit" class="mw-redirect" title="TaskRabbit">TaskRabbit</a></li>
+<li><a href="/wiki/Thumbtack_(website)" title="Thumbtack (website)">Thumbtack</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Swap and renting</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Erento" title="Erento">Erento</a></li>
+<li><a href="/wiki/The_Freecycle_Network" title="The Freecycle Network">The Freecycle Network</a></li>
+<li><a href="/wiki/Streetbank" title="Streetbank">Streetbank</a></li>
+<li><a href="/wiki/Olio_(app)" title="Olio (app)">Olio</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Tourism</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/ToursByLocals" title="ToursByLocals">ToursByLocals</a></li>
+<li><a href="/wiki/Withlocals" title="Withlocals">Withlocals</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr style=""><th scope="row" class="navbox-group" style="width:1%">Concepts</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Social_peer-to-peer_processes" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Social_peer-to-peer_processes" title="Social peer-to-peer processes">Social peer-to-peer processes</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Peer-to-peer_banking" title="Peer-to-peer banking">Peer-to-peer banking</a></li>
+<li><a href="/wiki/Peer-to-peer_carsharing" title="Peer-to-peer carsharing">Peer-to-peer carsharing</a></li>
+<li><a href="/wiki/Peer-to-peer_lending" title="Peer-to-peer lending">Peer-to-peer lending</a></li>
+<li><a href="/wiki/Ridesharing_company" title="Ridesharing company">Peer-to-peer ridesharing</a></li></ul>
+</div></td></tr><tr><td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Barter" title="Barter">Barter</a></li>
+<li><a href="/wiki/Bicycle-sharing_system" title="Bicycle-sharing system">Bicycle-sharing system</a></li>
+<li><a href="/wiki/Blockchain" title="Blockchain">Blockchain</a></li>
+<li><a href="/wiki/Book_swapping" title="Book swapping">Book swapping</a></li>
+<li><a href="/wiki/Borrowing_center" title="Borrowing center">Borrowing center</a></li>
+<li><a href="/wiki/Decentralization" title="Decentralization">Decentralization</a></li>
+<li><a href="/wiki/Carpool" title="Carpool">Carpool</a></li>
+<li><a href="/wiki/Carsharing" title="Carsharing">Carsharing</a></li>
+<li><a href="/wiki/Clothing_swap" title="Clothing swap">Clothing swap</a></li>
+<li><a href="/wiki/Co-living" title="Co-living">Co-living</a></li>
+<li><a href="/wiki/Collaborative_consumption" title="Collaborative consumption">Collaborative consumption</a></li>
+<li><a href="/wiki/Crowdfunding" title="Crowdfunding">Crowdfunding</a></li>
+<li><a href="/wiki/Crowdsourcing" title="Crowdsourcing">Crowdsourcing</a></li>
+<li><a href="/wiki/Expert_network" title="Expert network">Expert network</a></li>
+<li><a href="/wiki/Flight_sharing" title="Flight sharing">Flight sharing</a></li>
+<li><a href="/wiki/Garden_sharing" title="Garden sharing">Garden sharing</a></li>
+<li><a href="/wiki/Gig_worker" title="Gig worker">Gig worker</a></li>
+<li><a href="/wiki/Home_exchange" title="Home exchange">Home exchange</a></li>
+<li><a href="/wiki/Homestay" title="Homestay">Homestay</a></li>
+<li><a href="/wiki/Intentional_community" title="Intentional community">Intentional community</a></li>
+<li><a href="/wiki/Open_innovation" title="Open innovation">Open innovation</a></li>
+<li><a href="/wiki/Platform_cooperative" title="Platform cooperative">Platform cooperative</a></li>
+<li><a href="/wiki/Platform_economy" title="Platform economy">Platform economy</a></li>
+<li><a href="/wiki/Product-service_system" title="Product-service system">Product-service system</a></li>
+<li><a href="/wiki/Reuse" title="Reuse">Reuse</a></li>
+<li><a href="/wiki/Ridesharing_company" title="Ridesharing company">Ridesharing company</a></li>
+<li><a href="/wiki/Scooter-sharing_system" title="Scooter-sharing system">Scooter-sharing system</a></li>
+<li><a href="/wiki/Tool_library" title="Tool library">Tool library</a></li>
+<li><a href="/wiki/Two-sided_market" title="Two-sided market">Two-sided market</a></li>
+<li><a href="/wiki/Upcycling" title="Upcycling">Upcycling</a></li>
+<li><a href="/wiki/Wiki" title="Wiki">Wiki</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr style=""><th scope="row" class="navbox-group" style="width:1%">Labour</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Global</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/International_Alliance_of_App-based_Transport_Workers" title="International Alliance of App-based Transport Workers">International Alliance of App-based Transport Workers</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Germany</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>Gorillas Workers Collective
+<ul><li><a href="/wiki/2021_Gorillas_strikes" title="2021 Gorillas strikes">strikes</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">India</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Indian_Federation_of_App-based_Transport_Workers" title="Indian Federation of App-based Transport Workers">Indian Federation of App-based Transport Workers</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">United States</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/National_Taxi_Workers%27_Alliance" title="National Taxi Workers' Alliance">National Taxi Workers' Alliance (NY)</a></li>
+<li><a href="/wiki/Rideshare_Drivers_United_(California)" title="Rideshare Drivers United (California)"> Rideshare Drivers United (CA)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Nigeria</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Professional_E-Hailing_Drivers_and_Private_Owners_Association" title="Professional E-Hailing Drivers and Private Owners Association">Professional E-Hailing Drivers and Private Owners Association</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
 </div>
 <?= $this->endSection() ?>
 <?= $this->section('scripts') ?>
