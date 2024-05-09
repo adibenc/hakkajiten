@@ -1,4 +1,7 @@
 <?= $this->extend('layouts/wiki') ?>
+<?= $this->section('title') ?>
+Management
+<?= $this->endSection() ?>
 <?= $this->section('content') ?>
 <div class="container-fluid">
 	<div role="navigation" class="navbox" aria-labelledby="Management" style="padding:3px">

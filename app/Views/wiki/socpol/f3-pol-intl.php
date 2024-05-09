@@ -1,4 +1,7 @@
 <?= $this->extend('layouts/wiki') ?>
+<?= $this->section('title') ?>
+Politic international
+<?= $this->endSection() ?>
 <?= $this->section('content') ?>
 <div class="container-fluid">
 	<div role="navigation" class="navbox" aria-labelledby="Political_internationals" style="padding:3px">

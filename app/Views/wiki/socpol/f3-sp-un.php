@@ -1,4 +1,7 @@
 <?= $this->extend('layouts/wiki') ?>
+<?= $this->section('title') ?>
+Sp UN
+<?= $this->endSection() ?>
 <?= $this->section('content') ?>
 <div class="container-fluid">
 	<div role="navigation" class="navbox" aria-labelledby="United_Nations" style="padding:3px">

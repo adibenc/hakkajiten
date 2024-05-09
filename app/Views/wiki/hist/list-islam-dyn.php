@@ -1,4 +1,7 @@
 <?= $this->extend('layouts/wiki') ?>
+<?= $this->section('title') ?>
+Islam dynamics
+<?= $this->endSection() ?>
 <?= $this->section('content') ?>
 <div class="container-fluid">
 	<main id="content" class="mw-body" role="main">

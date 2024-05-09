@@ -1,4 +1,7 @@
 <?= $this->extend('layouts/wiki') ?>
+<?= $this->section('title') ?>
+Phil 1
+<?= $this->endSection() ?>
 <?= $this->section('content') ?>
 <div class="container-fluid">
 

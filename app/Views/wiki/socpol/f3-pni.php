@@ -1,4 +1,7 @@
 <?= $this->extend('layouts/wiki') ?>
+<?= $this->section('title') ?>
+PNI
+<?= $this->endSection() ?>
 <?= $this->section('content') ?>
 <div class="container-fluid">
 		<div role="navigation" class="navbox"

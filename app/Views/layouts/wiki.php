@@ -1,6 +1,9 @@
 <html>
 
 <head>
+	<title>
+		<?= $this->renderSection('title') ?>
+	</title>
 	<link href="<?= $_asset ?>//wiki/style.css">
 	<link href="<?= $_asset ?>//dwik.css" rel="stylesheet">
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
