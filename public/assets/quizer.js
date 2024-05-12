@@ -90,6 +90,10 @@ class Quizer{
 	
 	// Function to calculate word/phrase similarity (Levenshtein distance)
 	calculateSimilarity(str1, str2) {
+		if(!str1 || !str2){
+			return 0
+		}
+		
 		str1 = this.replaceVowels(str1)
 		str2 = this.replaceVowels(str2)
 	
