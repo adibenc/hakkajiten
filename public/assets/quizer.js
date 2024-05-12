@@ -93,7 +93,7 @@ class Quizer{
 		if(!str1 || !str2){
 			return 0
 		}
-		
+
 		str1 = this.replaceVowels(str1)
 		str2 = this.replaceVowels(str2)
 	
@@ -136,6 +136,20 @@ class Quizer{
 		}
 	}
 	
+	appendPush(t, correctAnswer){
+		for(let r of t.rows){
+			let cells = Array.from( r.cells )
+				.filter((e) => e.innerText == "-")
+			let append = cells.length > 0
+			if(append){
+				let cell = append ? cells[0] : null
+				cell.textContent = correctAnswer
+
+				break
+			}
+		}
+	}
+
 	compare(answer, correctAnswer){
 		const similarity = this.calculateSimilarity(answer, correctAnswer);
 	
@@ -157,8 +171,13 @@ class Quizer{
 			// Update answer table with correct answer for previous question
 			const table = document.getElementById("answer-table");
 			const cells = table.rows[0].cells;
-			cells[this.currentQuestionIndex - 1]
-				.textContent = correctAnswer; // Update previous cell
+			try{
+				this.appendPush(table, correctAnswer)
+				// cells[this.currentQuestionIndex - 1]
+				// 	.textContent = correctAnswer; // Update previous cell
+			}catch(e){
+				console.log(e)
+			}
 			
 			return true
 		} else {
