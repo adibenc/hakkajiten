@@ -29,6 +29,8 @@ $routes->get('/wiki/(:any)', 'WikiController::d/$1');
 $artRoutes("reddits", "RedditController");
 $artRoutes("webs", "WebController");
 
+$routes->get('/quiz/', 'QuizController::index');
+
 $t = function() use ($routes) {
 	$routes->get('/d1', 'D1Controller::index');
 	$routes->get('/d1/all', 'D1Controller::all');

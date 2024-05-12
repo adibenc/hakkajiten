@@ -18,3 +18,4 @@ yarn-error.log
 .[Ss]ecret*
 *.sh
 .env*
+__int*
