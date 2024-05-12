@@ -79,8 +79,13 @@ class Quizer{
 	}
 	
 	replaceVowels(str) {
-		const vowelRegex = new RegExp("[àáǎãäāèéěêëìíǐîïòóǒôõùúǔûüǖǘǚǜń]", "g"); // Matches all vowels with diacritics and nasalized ü
-		return str.replace(vowelRegex, (match) => vowelMapping[match]);
+		// Matches all vowels with diacritics and nasalized ü
+		const vowelRegex = new RegExp("[àáǎãäāèéěêëìíǐîïòóǒôõùúǔûüǖǘǚǜń]", "g");
+		try{
+			return str.replace(vowelRegex, (match) => vowelMapping[match]);
+		}catch(e){
+			return str
+		}
 	}
 	
 	// Function to calculate word/phrase similarity (Levenshtein distance)
