@@ -61,7 +61,7 @@ class Quizer{
 	
 	// Create answer table with empty cells
 	createAnswerTable() {
-		let cn = 8
+		let cn = 4
 		const table = document.getElementById("answer-table");
 		table.innerHTML = ""; // Clear existing content
 	
@@ -170,7 +170,7 @@ class Quizer{
 	
 			// Update answer table with correct answer for previous question
 			const table = document.getElementById("answer-table");
-			const cells = table.rows[0].cells;
+			// const cells = table.rows[0].cells;
 			try{
 				this.appendPush(table, correctAnswer)
 				// cells[this.currentQuestionIndex - 1]
