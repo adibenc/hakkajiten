@@ -1,6 +1,7 @@
 <?= $this->extend('layouts/bs') ?>
 <?= $this->section('content') ?>
 <h1>FCM test</h1>
+<pre id="pr1"></pre>
 <?= $this->endSection() ?>
 <?= $this->section('scripts') ?>
 <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js"></script>
@@ -39,6 +40,8 @@ function requestPermission() {
 
 requestPermission()
 
+let pr1 = document.getElementById("pr1")
+
 messaging.getToken({ 
 	vapidKey: "<?= env('FBASE_VAPID') ?>"
 }).then((currentToken) => {
@@ -47,7 +50,7 @@ messaging.getToken({
 		cl(currentToken)
 		// Send the token to your server and update the UI if necessary
 		// ...
-		
+		pr1.innerHTML = currentToken
 	} else {
 		// Show permission request UI
 		console.log('No registration token available. Request permission to generate one.');
@@ -55,6 +58,11 @@ messaging.getToken({
 	}
 }).catch((err) => {
 	console.log('An error occurred while retrieving token. ', err);
+});
+
+messaging.onMessage((payload) => {
+  console.log('Message received. ', payload);
+  // ...
 });
 </script>
 <?= $this->endSection() ?>
