@@ -22,6 +22,9 @@
 <body>
 	<!-- contents -->
 	<?= $this->renderSection('content') ?>
+
+	<script src="<?= $_asset ?>/util.js"></script>
+	<script src="<?= $_asset ?>/ajex.js"></script>
 	<?= $this->renderSection('scripts') ?>
 	<!-- ./contents -->
 </body>

@@ -30,6 +30,7 @@ $artRoutes("reddits", "RedditController");
 $artRoutes("webs", "WebController");
 
 $routes->get('/quiz/', 'QuizController::index');
+$routes->get('/fcm/', 'Home::fcm');
 
 $t = function() use ($routes) {
 	$routes->get('/d1', 'D1Controller::index');
