@@ -19,6 +19,8 @@ const firebaseConfig = {
 	measurementId: "<?= env('FBASE_MEASUREMENTID') ?>V"
 };
 
+registerServiceWorker("/firebase-messaging-sw.js")
+
 firebase.initializeApp(firebaseConfig);
 
 console.log(firebase.app().name);  // "[DEFAULT]"
