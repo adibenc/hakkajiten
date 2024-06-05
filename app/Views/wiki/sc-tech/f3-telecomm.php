@@ -465,6 +465,559 @@ Telecomm
 			</tbody>
 		</table>
 	</div>
+	<!-- cellular netw standards -->
+	<div role="navigation" class="navbox" aria-labelledby="Cellular_network_standards" style="padding:3px">
+		<table class="nowraplinks mw-collapsible autocollapse navbox-inner mw-made-collapsible"
+			style="border-spacing:0;background:transparent;color:inherit">
+			<tbody>
+				<tr>
+					<th scope="col" class="navbox-title" colspan="2"><button type="button"
+							class="mw-collapsible-toggle mw-collapsible-toggle-default mw-collapsible-toggle-expanded"
+							aria-expanded="true" tabindex="0"><span class="mw-collapsible-text">hide</span></button>
+						<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374">
+						<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349">
+						<div class="navbar plainlinks hlist navbar-mini">
+							<ul>
+								<li class="nv-view"><a href="/wiki/Template:Cellular_network_standards"
+										title="Template:Cellular network standards"><abbr
+											title="View this template">v</abbr></a></li>
+								<li class="nv-talk"><a href="/wiki/Template_talk:Cellular_network_standards"
+										title="Template talk:Cellular network standards"><abbr
+											title="Discuss this template">t</abbr></a></li>
+								<li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Cellular_network_standards"
+										title="Special:EditPage/Template:Cellular network standards"><abbr
+											title="Edit this template">e</abbr></a></li>
+							</ul>
+						</div>
+						<div id="Cellular_network_standards" style="font-size:114%;margin:0 4em"><a
+								href="/wiki/Cellular_network" title="Cellular network">Cellular network</a> standards
+						</div>
+					</th>
+				</tr>
+				<tr style="">
+					<td class="navbox-abovebelow" colspan="2">
+						<div><a href="/wiki/List_of_mobile_phone_generations" class="mw-redirect"
+								title="List of mobile phone generations">List of mobile phone generations</a></div>
+					</td>
+				</tr>
+				<tr style="">
+					<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Mobile_radio_telephone"
+							title="Mobile radio telephone">0G</a> <a href="/wiki/Radiotelephone"
+							title="Radiotelephone">radio telephones</a> (1946)</th>
+					<td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><a href="/wiki/Mobile_Telephone_Service" title="Mobile Telephone Service">MTS</a>
+								</li>
+								<li><a href="/wiki/Improved_Mobile_Telephone_Service"
+										title="Improved Mobile Telephone Service">IMTS</a></li>
+								<li><a href="/wiki/Altai_(mobile_telephone_system)"
+										title="Altai (mobile telephone system)">Altai</a></li>
+								<li><a href="/wiki/OLT_(mobile_network)" title="OLT (mobile network)">OLT</a></li>
+								<li><a href="/wiki/MTD_(mobile_network)" title="MTD (mobile network)">MTA - MTB - MTC -
+										MTD</a></li>
+								<li><a href="/w/index.php?title=Mobile_TeleSeratout&amp;action=edit&amp;redlink=1"
+										class="new" title="Mobile TeleSeratout (page does not exist)">Mobile
+										TeleSeratout</a></li>
+								<li><a href="/wiki/Advanced_Mobile_Telephone_System"
+										title="Advanced Mobile Telephone System">AMTS</a></li>
+								<li><a href="/wiki/Autotel" title="Autotel">Autotel (PALM)</a></li>
+								<li><a href="/wiki/Autoradiopuhelin" title="Autoradiopuhelin">ARP</a></li>
+								<li><a href="/wiki/B-Netz" title="B-Netz">B-Netz</a></li>
+								<li><a href="/wiki/AMR_radiotelephone_network_(Czechoslovakia)"
+										title="AMR radiotelephone network (Czechoslovakia)">AMR</a></li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+				<tr style="">
+					<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1G" title="1G">1G</a> (1979)
+					</th>
+					<td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0">
+						<div style="padding:0 0.25em"></div>
+						<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+							<tbody>
+								<tr>
+									<th scope="row" class="navbox-group" style="width:10em"><a
+											href="/wiki/Advanced_Mobile_Phone_System"
+											title="Advanced Mobile Phone System">AMPS</a> family</th>
+									<td class="navbox-list-with-group navbox-list navbox-even" style="padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li><a href="/wiki/Advanced_Mobile_Phone_System"
+														title="Advanced Mobile Phone System">AMPS - N-AMPS</a></li>
+												<li><a href="/wiki/Total_Access_Communication_System"
+														title="Total Access Communication System">TACS - ETACS</a></li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+								<tr>
+									<th scope="row" class="navbox-group" style="width:10em">Other</th>
+									<td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li><a href="/wiki/Nordic_Mobile_Telephone"
+														title="Nordic Mobile Telephone">NMT</a></li>
+												<li><a href="/wiki/C-Netz" title="C-Netz">C-450</a></li>
+												<li><a href="/wiki/Hicap" title="Hicap">Hicap</a></li>
+												<li><a href="/wiki/Mobitex" title="Mobitex">Mobitex</a></li>
+												<li><a href="/wiki/DataTAC" title="DataTAC">DataTAC</a></li>
+												<li><a href="/wiki/CT1" title="CT1">CT1</a></li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div></div>
+					</td>
+				</tr>
+				<tr style="">
+					<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2G" title="2G">2G</a> (1991)
+					</th>
+					<td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0">
+						<div style="padding:0 0.25em"></div>
+						<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+							<tbody>
+								<tr>
+									<th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/GSM"
+											title="GSM">GSM</a>/<a href="/wiki/3GPP" title="3GPP">3GPP</a> family</th>
+									<td class="navbox-list-with-group navbox-list navbox-even" style="padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li><a href="/wiki/GSM" title="GSM">GSM</a></li>
+												<li><a href="/wiki/Circuit_Switched_Data"
+														title="Circuit Switched Data">CSD - HSCSD</a></li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+								<tr>
+									<th scope="row" class="navbox-group" style="width:10em"><a
+											href="/wiki/3rd_Generation_Partnership_Project_2"
+											title="3rd Generation Partnership Project 2">3GPP2</a> family</th>
+									<td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li><a href="/wiki/CdmaOne" title="CdmaOne">cdmaOne (IS-95)</a></li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+								<tr>
+									<th scope="row" class="navbox-group" style="width:10em"><a
+											href="/wiki/Advanced_Mobile_Phone_System"
+											title="Advanced Mobile Phone System">AMPS</a> family</th>
+									<td class="navbox-list-with-group navbox-list navbox-even" style="padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li><a href="/wiki/Digital_AMPS" title="Digital AMPS">D-AMPS (IS-54 and
+														IS-136)</a></li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+								<tr>
+									<th scope="row" class="navbox-group" style="width:10em">Other</th>
+									<td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li><a href="/wiki/Cellular_digital_packet_data"
+														title="Cellular digital packet data">CDPD</a></li>
+												<li><a href="/wiki/IDEN" title="IDEN">iDEN</a></li>
+												<li><a href="/wiki/Personal_Digital_Cellular"
+														title="Personal Digital Cellular">PDC</a></li>
+												<li><a href="/wiki/Personal_Handy-phone_System"
+														title="Personal Handy-phone System">PHS</a></li>
+												<li><a href="/wiki/CT2" title="CT2">CT2</a></li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div></div>
+					</td>
+				</tr>
+				<tr style="">
+					<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2G#Evolution" title="2G">2G
+							transitional<br>(2.5G, 2.75G, 2.9G)</a></th>
+					<td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0">
+						<div style="padding:0 0.25em"></div>
+						<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+							<tbody>
+								<tr>
+									<th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/GSM"
+											title="GSM">GSM</a>/3GPP family</th>
+									<td class="navbox-list-with-group navbox-list navbox-even" style="padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li><a href="/wiki/General_Packet_Radio_Service"
+														title="General Packet Radio Service">GPRS</a></li>
+												<li><a href="/wiki/Enhanced_Data_rates_for_GSM_Evolution"
+														title="Enhanced Data rates for GSM Evolution">EDGE/EGPRS -
+														Evolved EDGE</a></li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+								<tr>
+									<th scope="row" class="navbox-group" style="width:10em">3GPP2 family</th>
+									<td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li><a href="/wiki/CDMA2000#1X" title="CDMA2000">CDMA2000 1X</a>
+													(TIA/EIA/IS-2000)</li>
+												<li><a href="/wiki/CDMA2000#1X_Advanced" title="CDMA2000">CDMA2000 1X
+														Advanced</a></li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+								<tr>
+									<th scope="row" class="navbox-group" style="width:10em">Other</th>
+									<td class="navbox-list-with-group navbox-list navbox-even" style="padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li><a href="/wiki/WiDEN" class="mw-redirect" title="WiDEN">WiDEN</a>
+												</li>
+												<li><a href="/wiki/Digital_enhanced_cordless_telecommunications"
+														title="Digital enhanced cordless telecommunications">DECT</a>
+												</li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div></div>
+					</td>
+				</tr>
+				<tr style="">
+					<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/3G" title="3G">3G</a>
+						(1998)<br><a href="/wiki/IMT-2000" title="IMT-2000">IMT-2000</a> (2001)</th>
+					<td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0">
+						<div style="padding:0 0.25em"></div>
+						<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+							<tbody>
+								<tr>
+									<th scope="row" class="navbox-group" style="width:10em">3GPP family</th>
+									<td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li><a href="/wiki/UMTS" title="UMTS">UMTS</a>
+													<ul>
+														<li><a href="/wiki/W-CDMA" class="mw-redirect"
+																title="W-CDMA">UTRA-FDD / W-CDMA</a>
+															<ul>
+																<li><a href="/wiki/Freedom_of_Mobile_Multimedia_Access"
+																		title="Freedom of Mobile Multimedia Access">FOMA</a>
+																</li>
+															</ul>
+														</li>
+														<li><a href="/wiki/TD-SCDMA" class="mw-redirect"
+																title="TD-SCDMA">UTRA-TDD LCR / TD-SCDMA</a></li>
+														<li><a href="/wiki/TD-CDMA" class="mw-redirect"
+																title="TD-CDMA">UTRA-TDD HCR / TD-CDMA</a></li>
+													</ul>
+												</li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+								<tr>
+									<th scope="row" class="navbox-group" style="width:10em">3GPP2 family</th>
+									<td class="navbox-list-with-group navbox-list navbox-even" style="padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li><a href="/wiki/Evolution-Data_Optimized"
+														title="Evolution-Data Optimized">CDMA2000 1xEV-DO Release 0</a>
+													(TIA/IS-856)</li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div></div>
+					</td>
+				</tr>
+				<tr style="">
+					<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/3G#Evolution" title="3G">3G
+							transitional<br>(3.5G, 3.75G, 3.9G)</a></th>
+					<td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0">
+						<div style="padding:0 0.25em"></div>
+						<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+							<tbody>
+								<tr>
+									<th scope="row" class="navbox-group" style="width:10em">3GPP family</th>
+									<td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li><a href="/wiki/High_Speed_Packet_Access"
+														title="High Speed Packet Access">HSPA</a>
+													<ul>
+														<li><a href="/wiki/High_Speed_Downlink_Packet_Access"
+																class="mw-redirect"
+																title="High Speed Downlink Packet Access">HSDPA</a></li>
+														<li><a href="/wiki/High_Speed_Uplink_Packet_Access"
+																class="mw-redirect"
+																title="High Speed Uplink Packet Access">HSUPA</a></li>
+													</ul>
+												</li>
+												<li><a href="/wiki/Evolved_High_Speed_Packet_Access"
+														title="Evolved High Speed Packet Access">HSPA+</a>
+													<ul>
+														<li><a href="/wiki/DC-HSDPA" class="mw-redirect"
+																title="DC-HSDPA">DC-HSDPA</a></li>
+													</ul>
+												</li>
+												<li><a class="mw-selflink selflink">LTE</a> (<a href="/wiki/E-UTRA"
+														title="E-UTRA">E-UTRA</a>)</li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+								<tr>
+									<th scope="row" class="navbox-group" style="width:10em">3GPP2 family</th>
+									<td class="navbox-list-with-group navbox-list navbox-even" style="padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li>CDMA2000 <a href="/wiki/Evolution-Data_Optimized"
+														title="Evolution-Data Optimized">1xEV-DO Revision A</a>
+													(TIA/EIA/IS-856-A)</li>
+												<li><a href="/wiki/Evolution-Data_Optimized"
+														title="Evolution-Data Optimized">EV-DO Revision B</a>
+													(TIA/EIA/IS-856-B)</li>
+												<li><a href="/wiki/Evolution-Data_Optimized"
+														title="Evolution-Data Optimized">EV-DO Revision C</a></li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+								<tr>
+									<th scope="row" class="navbox-group" style="width:10em"><a
+											href="/wiki/Institute_of_Electrical_and_Electronics_Engineers"
+											title="Institute of Electrical and Electronics Engineers">IEEE</a> family
+									</th>
+									<td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li><a href="/wiki/WiMAX" title="WiMAX">Mobile WiMAX</a>
+													<ul>
+														<li><a href="/wiki/IEEE_802.16" title="IEEE 802.16">IEEE
+																802.16e</a></li>
+													</ul>
+												</li>
+												<li><a href="/wiki/Orthogonal_frequency-division_multiplexing#FLASH-OFDM"
+														title="Orthogonal frequency-division multiplexing">Flash-OFDM</a>
+												</li>
+												<li><a href="/wiki/IEEE_802.20" title="IEEE 802.20">iBurst (IEEE
+														802.20)</a></li>
+												<li><a href="/wiki/WiBro" title="WiBro">WiBro</a></li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+								<tr>
+									<th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/ETSI"
+											title="ETSI">ETSI</a> family</th>
+									<td class="navbox-list-with-group navbox-list navbox-even" style="padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li><a href="/wiki/HiperMAN" title="HiperMAN">HiperMAN</a></li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div></div>
+					</td>
+				</tr>
+				<tr style="">
+					<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/4G" title="4G">4G</a>
+						(2009)<br><a href="/wiki/IMT_Advanced" title="IMT Advanced">IMT Advanced</a> (2013)</th>
+					<td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0">
+						<div style="padding:0 0.25em"></div>
+						<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+							<tbody>
+								<tr>
+									<th scope="row" class="navbox-group" style="width:10em">3GPP family</th>
+									<td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li><a href="/wiki/LTE_Advanced" title="LTE Advanced">LTE Advanced</a>
+													(<a href="/wiki/E-UTRA" title="E-UTRA">E-UTRA</a>)</li>
+												<li><a href="/wiki/LTE_Advanced_Pro" class="mw-redirect"
+														title="LTE Advanced Pro">LTE Advanced Pro</a> (4.5G/4.9G)</li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+								<tr>
+									<th scope="row" class="navbox-group" style="width:10em">IEEE family</th>
+									<td class="navbox-list-with-group navbox-list navbox-even" style="padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li><a href="/wiki/WiMAX" title="WiMAX">WiMAX</a> (<a
+														href="/wiki/IEEE_802.16" title="IEEE 802.16">IEEE 802.16m</a>)
+													<ul>
+														<li>WiMax 2.1</li>
+														<li><a href="/wiki/WiBro" title="WiBro">WiBro</a></li>
+													</ul>
+												</li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div></div>
+					</td>
+				</tr>
+				<tr style="">
+					<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/5G" title="5G">5G</a>
+						(2018)<br><a href="/wiki/IMT-2020" title="IMT-2020">IMT-2020</a> (2021)</th>
+					<td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0">
+						<div style="padding:0 0.25em"></div>
+						<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+							<tbody>
+								<tr>
+									<th scope="row" class="navbox-group" style="width:10em">3GPP family</th>
+									<td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li><a href="/wiki/5G_NR" title="5G NR">5G NR</a></li>
+												<li><a href="/wiki/5G-Advanced" class="mw-redirect"
+														title="5G-Advanced">5G-Advanced</a></li>
+												<li><a href="/w/index.php?title=NR-IIoT&amp;action=edit&amp;redlink=1"
+														class="new" title="NR-IIoT (page does not exist)">NR-IIoT</a>
+												</li>
+												<li><a href="/wiki/LTE-M" title="LTE-M">LTE-M</a></li>
+												<li><a href="/wiki/Narrowband_IoT" title="Narrowband IoT">NB-IoT</a>
+												</li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+								<tr>
+									<th scope="row" class="navbox-group" style="width:10em">Other</th>
+									<td class="navbox-list-with-group navbox-list navbox-even" style="padding:0">
+										<div style="padding:0 0.25em">
+											<ul>
+												<li><a href="/w/index.php?title=DECT-5G&amp;action=edit&amp;redlink=1"
+														class="new" title="DECT-5G (page does not exist)">DECT-5G</a>
+												</li>
+											</ul>
+										</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div></div>
+					</td>
+				</tr>
+				<tr style="">
+					<th scope="row" class="navbox-group" style="width:1%">Related articles</th>
+					<td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0">
+						<div style="padding:0 0.25em">
+							<ul>
+								<li><a href="/wiki/Cellular_network" title="Cellular network">Cellular networks</a></li>
+								<li><a href="/wiki/Mobile_telephony" title="Mobile telephony">Mobile telephony</a></li>
+								<li><a href="/wiki/History_of_mobile_phones"
+										title="History of mobile phones">History</a></li>
+								<li><a href="/wiki/Comparison_of_mobile_phone_standards"
+										title="Comparison of mobile phone standards">Comparison of standards</a></li>
+								<li><a href="/wiki/Channel_access_method" title="Channel access method">Channel access
+										methods</a>
+									<ul>
+										<li><a href="/wiki/Frequency-division_multiple_access"
+												title="Frequency-division multiple access">FDMA</a>
+											<ul>
+												<li><a href="/wiki/Orthogonal_frequency-division_multiple_access"
+														title="Orthogonal frequency-division multiple access">OFDMA</a>
+												</li>
+											</ul>
+										</li>
+										<li><a href="/wiki/Time-division_multiple_access"
+												title="Time-division multiple access">TDMA</a>
+											<ul>
+												<li><a href="/wiki/Self-organized_time-division_multiple_access"
+														title="Self-organized time-division multiple access">STDMA</a>
+												</li>
+											</ul>
+										</li>
+										<li><a href="/wiki/Spread_spectrum" title="Spread spectrum">SSMA</a>
+											<ul>
+												<li><a href="/wiki/Code-division_multiple_access"
+														title="Code-division multiple access">CDMA</a></li>
+											</ul>
+										</li>
+										<li><a href="/wiki/Space-division_multiple_access"
+												title="Space-division multiple access">SDMA</a></li>
+									</ul>
+								</li>
+								<li><a href="/wiki/Spectral_efficiency#Comparison_table"
+										title="Spectral efficiency">Spectral efficiency comparison table</a></li>
+								<li><a href="/wiki/Cellular_frequencies" title="Cellular frequencies">Frequency
+										bands</a>
+									<ul>
+										<li><a href="/wiki/GSM_frequency_bands" title="GSM frequency bands">GSM</a></li>
+										<li><a href="/wiki/UMTS_frequency_bands" title="UMTS frequency bands">UMTS</a>
+										</li>
+										<li><a href="/wiki/LTE_frequency_bands" title="LTE frequency bands">LTE</a></li>
+										<li><a href="/wiki/5G_NR_frequency_bands" title="5G NR frequency bands">5G
+												NR</a></li>
+										<li><a href="/wiki/CDMA_frequency_bands" title="CDMA frequency bands">CDMA</a>
+										</li>
+									</ul>
+								</li>
+								<li><a href="/wiki/Mobile_broadband" title="Mobile broadband">Mobile broadband</a></li>
+								<li><a href="/wiki/Multimedia_Broadcast_Multicast_Service"
+										title="Multimedia Broadcast Multicast Service">Multimedia Broadcast Multicast
+										Service</a></li>
+								<li><a href="/wiki/Next_Generation_Mobile_Networks"
+										title="Next Generation Mobile Networks">NGMN Alliance</a></li>
+								<li><a href="/wiki/Push-to-talk" title="Push-to-talk">Push-to-talk</a></li>
+								<li><a href="/wiki/MIMO" title="MIMO">MIMO</a></li>
+								<li><a href="/wiki/IP_Multimedia_Subsystem" title="IP Multimedia Subsystem">IMS</a>
+									<ul>
+										<li><a href="/wiki/Voice_over_LTE" title="Voice over LTE">VoLTE</a></li>
+										<li><a href="/wiki/Video_over_LTE" title="Video over LTE">ViLTE</a></li>
+										<li><a href="/wiki/Voice_over_NR" title="Voice over NR">VoNR</a></li>
+										<li><a href="/w/index.php?title=Video_over_NR&amp;action=edit&amp;redlink=1"
+												class="new" title="Video over NR (page does not exist)">ViNR</a></li>
+										<li><a href="/wiki/Generic_Access_Network" class="mw-redirect"
+												title="Generic Access Network">Wi-Fi Calling</a></li>
+									</ul>
+								</li>
+								<li><a href="/wiki/Osmocom" title="Osmocom">Osmocom</a></li>
+							</ul>
+						</div>
+					</td>
+				</tr>
+				<tr style="">
+					<td class="navbox-abovebelow" colspan="2">
+						<div><span class="nowrap"><span class="noviewer" typeof="mw:File"><span><img alt=""
+											src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Telecom-icon.svg/28px-Telecom-icon.svg.png"
+											decoding="async" width="28" height="28" class="mw-file-element"
+											srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Telecom-icon.svg/42px-Telecom-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Telecom-icon.svg/56px-Telecom-icon.svg.png 2x"
+											data-file-width="512" data-file-height="512"></span></span> </span><a
+								href="/wiki/Portal:Telecommunication" title="Portal:Telecommunication">Telecommunication
+								portal</a>&nbsp;&nbsp;&nbsp;<span class="nowrap"><span class="noviewer"
+									typeof="mw:File"><span><img alt="telephone icon"
+											src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Telephone_icon_blue_gradient.svg/28px-Telephone_icon_blue_gradient.svg.png"
+											decoding="async" width="28" height="28" class="mw-file-element"
+											srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Telephone_icon_blue_gradient.svg/42px-Telephone_icon_blue_gradient.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Telephone_icon_blue_gradient.svg/56px-Telephone_icon_blue_gradient.svg.png 2x"
+											data-file-width="722" data-file-height="722"></span></span> </span><a
+								href="/wiki/Portal:Telephones" title="Portal:Telephones">Telephones portal</a></div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
 </div>
 <?= $this->endSection() ?>
 <?= $this->section('scripts') ?>
