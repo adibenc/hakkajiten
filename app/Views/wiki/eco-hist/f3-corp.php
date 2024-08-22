@@ -196,6 +196,7 @@ Corp
 			</tbody>
 		</table>
 	</div>
+	<!-- Corporate finance -->
 	<div role="navigation" class="navbox" aria-labelledby="Corporate_finance_and_investment_banking"
 		style="padding:3px">
 		<table class="nowraplinks hlist mw-collapsible navbox-inner mw-made-collapsible"
@@ -498,6 +499,7 @@ Corp
 			</tbody>
 		</table>
 	</div>
+	<!-- private equity venture capital -->
 	<div role="navigation" class="navbox" aria-labelledby="Private_equity_and_venture_capital" style="padding:3px">
 		<table class="nowraplinks hlist mw-collapsible navbox-inner mw-made-collapsible"
 			style="border-spacing:0;background:transparent;color:inherit">
@@ -821,6 +823,65 @@ Corp
 			</tbody>
 		</table>
 	</div>
+	<!-- debt -->
+	<div role="navigation" class="navbox" aria-labelledby="Debt" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner mw-made-collapsible" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><button type="button" class="mw-collapsible-toggle mw-collapsible-toggle-default mw-collapsible-toggle-expanded" aria-expanded="true" tabindex="0"><span class="mw-collapsible-text">hide</span></button><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1239400231"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Debt" title="Template:Debt"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Debt" title="Template talk:Debt"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Debt" title="Special:EditPage/Template:Debt"><abbr title="Edit this template">e</abbr></a></li></ul></div><div id="Debt" style="font-size:114%;margin:0 4em"><a href="/wiki/Debt" title="Debt">Debt</a></div></th></tr><tr style=""><th scope="row" class="navbox-group" style="width:1%">Instruments</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Bond_(finance)" title="Bond (finance)">Bonds</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Corporate_bond" title="Corporate bond">Corporate</a></li>
+<li><a href="/wiki/Debenture" title="Debenture">Debenture</a></li>
+<li><a href="/wiki/Government_bond" title="Government bond">Government</a></li>
+<li><a href="/wiki/Municipal_bond" title="Municipal bond">Municipal</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Loan" title="Loan">Loans</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Business_loan" title="Business loan">Business loan</a></li>
+<li><a href="/wiki/Credit" title="Credit">Consumer lending</a></li>
+<li><a href="/wiki/Loan_shark" title="Loan shark">Loan shark</a></li>
+<li><a href="/wiki/Payday_loan" title="Payday loan">Payday loan</a></li>
+<li><a href="/wiki/Predatory_lending" title="Predatory lending">Predatory lending</a></li>
+<li><a href="/wiki/Usury" title="Usury">Usury</a></li>
+<li><a href="/wiki/Vendor_finance" title="Vendor finance">Vendor finance</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr style=""><th scope="row" class="navbox-group" style="width:1%">Management</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Bankruptcy" title="Bankruptcy">Bankruptcy</a></li>
+<li><a href="/wiki/Debt_consolidation" title="Debt consolidation">Consolidation</a></li>
+<li><a href="/wiki/Debt_management_plan" title="Debt management plan">Management plan</a></li>
+<li><a href="/wiki/Debt_relief" title="Debt relief">Relief</a> (<a href="/wiki/History_of_debt_relief" title="History of debt relief">history</a>)</li>
+<li><a class="mw-selflink selflink">Restructuring</a></li>
+<li><a href="/wiki/Debt_snowball_method" title="Debt snowball method">Debt snowball method</a></li>
+<li><a href="/wiki/Debtor-in-possession_financing" title="Debtor-in-possession financing">Debtor-in-possession (DIP) financing</a></li>
+<li><a href="/wiki/Loan_guarantee" title="Loan guarantee">Loan guarantee</a></li></ul>
+</div></td></tr><tr style=""><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Debt_collection" title="Debt collection">Collection</a>&nbsp;<b>·</b> <a href="/wiki/Debt_evasion" title="Debt evasion">Evasion</a></th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Bad_debt" title="Bad debt">Bad debt</a></li>
+<li><a href="/wiki/Charge-off" title="Charge-off">Charge-off</a></li>
+<li><a href="/wiki/Debt_collection" title="Debt collection">Collection agency</a></li>
+<li><a href="/wiki/Debt_compliance" title="Debt compliance">Compliance</a></li>
+<li><a href="/wiki/Debt_bondage" title="Debt bondage">Debt bondage</a></li>
+<li><a href="/wiki/Debtors%27_prison" title="Debtors' prison">Debtors' prison</a></li>
+<li><a href="/wiki/Distraint" title="Distraint">Distraint</a></li>
+<li><a href="/wiki/Garnishment" title="Garnishment">Garnishment</a></li>
+<li><a href="/wiki/Phantom_debt" title="Phantom debt">Phantom debt</a></li>
+<li><a href="/wiki/Strategic_default" title="Strategic default">Strategic default</a></li>
+<li><a href="/wiki/Tax_refund_interception" title="Tax refund interception">Tax refund interception</a></li></ul>
+</div></td></tr><tr style=""><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Bond_market" title="Bond market">Markets</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Consumer_debt" title="Consumer debt">Consumer</a></li>
+<li><a href="/wiki/Corporate_bond" title="Corporate bond">Corporate</a></li>
+<li><a href="/wiki/Debt-trap_diplomacy" title="Debt-trap diplomacy">Diplomacy</a></li>
+<li><a href="/wiki/Government_debt" title="Government debt">Government</a></li>
+<li><a href="/wiki/Medical_debt" title="Medical debt">Medical</a></li>
+<li><a href="/wiki/Municipal_bond" title="Municipal bond">Municipal</a></li>
+<li><a href="/wiki/Venture_debt" title="Venture debt">Venture</a></li>
+<li><a href="/wiki/Debt_buyer_(United_States)" title="Debt buyer (United States)">Buyer</a></li>
+<li><a href="/wiki/Deposit_account" title="Deposit account">Deposit account</a></li>
+<li><a href="/wiki/Fixed_income" title="Fixed income">Fixed income</a></li>
+<li><a href="/wiki/Money_market" title="Money market">Money market</a></li>
+<li><a href="/wiki/Securitization" title="Securitization">Securitization</a></li></ul>
+</div></td></tr><tr style=""><th scope="row" class="navbox-group" style="width:1%">Economics</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Consumer_leverage_ratio" title="Consumer leverage ratio">Consumer leverage ratio</a></li>
+<li><a href="/wiki/Debt_levels_and_flows" title="Debt levels and flows">Debt levels and flows</a></li>
+<li><a href="/wiki/External_debt" title="External debt">External</a>&nbsp;/ <a href="/wiki/Internal_debt" title="Internal debt">Internal</a>&nbsp;/ <a href="/wiki/Odious_debt" title="Odious debt">Odious debt</a></li></ul>
+</div></td></tr><tr style=""><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><a href="/wiki/Default_(finance)" title="Default (finance)">Default</a></li>
+<li><a href="/wiki/Insolvency" title="Insolvency">Insolvency</a></li>
+<li><a href="/wiki/Interest" title="Interest">Interest</a></li>
+<li><a href="/wiki/Interest_rate" title="Interest rate">Interest rate</a></li>
+<li><a href="/wiki/Promissory_note" title="Promissory note">Promissory note</a></li></ul>
+</div></td></tr></tbody></table></div>
 </div>
 <?= $this->endSection() ?>
 <?= $this->section('scripts') ?>

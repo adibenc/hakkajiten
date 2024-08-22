@@ -5,6 +5,7 @@ Psy
 <?= $this->section('content') ?>
 <div class="container-fluid">
 	<!-- psy -->
+	<div role="navigation" class="navbox" aria-labelledby="Psychology" style="padding:3px">
 	<table class="table nowraplinks hlist mw-collapsible uncollapsed navbox-inner mw-made-collapsible"
 		style="border-spacing:0;background:transparent;color:inherit">
 		<tbody>
@@ -411,6 +412,7 @@ Psy
 			</tr>
 		</tbody>
 	</table>
+	</div>
 	<div role="navigation" class="navbox" aria-labelledby="Evolutionary_psychology" style="padding:3px">
 		<table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner mw-made-collapsible"
 			style="border-spacing:0;background:transparent;color:inherit">
@@ -538,7 +540,7 @@ Psy
 						</div>
 					</td>
 				</tr>
-				<tr style="">
+				<tr id="tr2" style="">
 					<th scope="row" class="navbox-group" style="width:1%;text-align:left;">Areas</th>
 					<td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0">
 						<div style="padding:0 0.25em"></div>

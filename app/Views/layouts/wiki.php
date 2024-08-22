@@ -17,11 +17,73 @@
 </head>
 
 <body>
-	<!-- contents -->
-	<?= $this->renderSection('content') ?>
-	<script src="<?= $_asset ?>/dwik.js"></script>
-	<?= $this->renderSection('scripts') ?>
-	<!-- ./contents -->
+<!-- contents -->
+<?= $this->renderSection('content') ?>
+<script src="<?= $_asset ?>/dwik.js"></script>
+<?= $this->renderSection('scripts') ?>
+<!-- ./contents -->
+<script>
+function elementToJson(element, depth=0) {
+	let result = null;
+
+	if (element.nodeType === Node.ELEMENT_NODE) {
+		result = {}
+		let tag = element.tagName.toLowerCase();
+		result.tag = tag
+		// result.attributes = {};
+		result.children = [];
+		result.el = element
+		// result.text = element.text
+		let tx = element.textContent
+		result.text = tx.length <= 64 ? tx : "-"
+		result.depth = depth
+
+		// Handle attributes
+
+		/*
+		for (const attribute of element.attributes) {
+			result.attributes[attribute.name] = attribute.value;
+		}
+		*/
+
+		if(depth > 6){
+			// return result
+		}
+		if(["ul", "ol"].includes(tag)){
+			// console.log(tag, element)
+			let lis = Array.from(element.children).map((e)=>{
+				// console.log(e.textContent)
+				return {
+					title: e.textContent.trim(),
+					href: "#wip"
+				}
+			})
+
+			return lis
+		}
+		// Handle children
+		for (const child of element.childNodes) {
+			let x = elementToJson(child, depth+1)
+			if(x){
+				result.children.push(x);
+			}
+		}
+	} else if (element.nodeType === Node.TEXT_NODE) {
+		// result.text = element.textContent.trim();
+	}
+
+	return result;
+}
+
+// let tables = document.querySelectorAll('table')
+let json = []
+for(let t of tables){
+	json.push(
+		elementToJson(t)
+	)
+}
+
+</script>
 </body>
 
 </html>
